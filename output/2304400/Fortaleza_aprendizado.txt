@@ -1,0 +1,481 @@
+================================================================================
+RELATÓRIO COMPLETO DE APRENDIZADO - DADOS QEDU
+================================================================================
+
+📍 Território: Fortaleza
+🏫 Rede: Pública (todas as redes)
+📚 Ciclo: Anos Iniciais do Ensino Fundamental (1º ao 5º)
+📅 Gerado em: 10/02/2026 15:29
+
+
+********************************************************************************
+PARTE 1: EVOLUÇÃO TEMPORAL DOS INDICADORES
+********************************************************************************
+
+        Disciplina                                    Nível    2019   2021   2023   Variação
+ Língua Portuguesa        Adequado (Proficiente + Avançado)   65.5%  60.2%  61.3%    -4.17pp
+ Língua Portuguesa                                 Avançado   27.1%  24.9%  27.1%    +0.05pp
+ Língua Portuguesa                              Proficiente   38.4%  35.4%  34.2%    -4.21pp
+ Língua Portuguesa                                   Básico   25.3%  26.7%  25.4%    +0.03pp
+ Língua Portuguesa                             Insuficiente    9.2%  13.1%  13.3%    +4.14pp
+        Matemática        Adequado (Proficiente + Avançado)   49.4%  37.0%  40.7%    -8.76pp
+        Matemática                                 Avançado   15.2%   8.0%  11.9%    -3.30pp
+        Matemática                              Proficiente   34.3%  29.0%  28.8%    -5.46pp
+        Matemática                                   Básico   37.1%  42.0%  37.7%    +0.66pp
+        Matemática                             Insuficiente   13.5%  21.0%  21.6%    +8.11pp
+
+
+********************************************************************************
+PARTE 2: COMPARATIVO COM MUNICÍPIOS SEMELHANTES E BRASIL
+********************************************************************************
+
+RESUMO - % de Alunos com Aprendizado Adequado:
+
+        Disciplina  Município  Municípios semelhantes  Brasil  vs Semelhantes  vs Brasil
+ Língua Portuguesa      61.3%                   47.8%   55.1%         +13.5pp     +6.2pp
+        Matemática      40.7%                   30.4%   43.5%         +10.2pp     -2.8pp
+
+
+DETALHAMENTO POR NÍVEL:
+
+        Disciplina                                    Nível  Município  Municípios semelhantes  Brasil  vs Semelhantes  vs Brasil
+ Língua Portuguesa        Adequado (Proficiente + Avançado)      61.3%                   47.8%   55.1%         +13.5pp     +6.2pp
+ Língua Portuguesa                                 Avançado      27.1%                   16.2%   21.9%         +10.9pp     +5.3pp
+ Língua Portuguesa                              Proficiente      34.2%                   31.6%   33.2%          +2.6pp     +1.0pp
+ Língua Portuguesa                                   Básico      25.4%                   33.3%   29.0%          -7.9pp     -3.7pp
+ Língua Portuguesa                             Insuficiente      13.3%                   18.9%   15.9%          -5.6pp     -2.6pp
+        Matemática        Adequado (Proficiente + Avançado)      40.7%                   30.4%   43.5%         +10.2pp     -2.8pp
+        Matemática                                 Avançado      11.9%                    7.8%   15.1%          +4.1pp     -3.3pp
+        Matemática                              Proficiente      28.8%                   22.7%   28.4%          +6.1pp     +0.4pp
+        Matemática                                   Básico      37.7%                   41.2%   34.4%          -3.4pp     +3.3pp
+        Matemática                             Insuficiente      21.6%                   28.4%   22.1%          -6.8pp     -0.4pp
+
+
+********************************************************************************
+PARTE 3: ANÁLISE QUALITATIVA
+********************************************************************************
+
+================================================================================
+ANÁLISE QUALITATIVA - EVOLUÇÃO DO APRENDIZADO
+================================================================================
+
+📍 Território: Fortaleza
+🏫 Rede: Pública (todas as redes)
+📚 Ciclo: Anos Iniciais do Ensino Fundamental (1º ao 5º)
+📅 Período analisado: 2019 a 2023
+
+--------------------------------------------------------------------------------
+DIAGNÓSTICO ATUAL POR DISCIPLINA
+--------------------------------------------------------------------------------
+
+📘 LÍNGUA PORTUGUESA
+
+   ⚠️ Situação atual: Desempenho intermediário
+   • Alunos com aprendizado adequado: 61.3%
+      - Avançado: 27.1%
+      - Proficiente: 34.2%
+   • Alunos com aprendizado inadequado: 38.7%
+      - Básico: 25.4%
+      - Insuficiente: 13.3%
+   • Evolução (2019-2023): 📉 Piora (-4.2pp)
+
+📘 MATEMÁTICA
+
+   🔴 Situação atual: Desempenho crítico - oportunidade de atuação
+   • Alunos com aprendizado adequado: 40.7%
+      - Avançado: 11.9%
+      - Proficiente: 28.8%
+   • Alunos com aprendizado inadequado: 59.3%
+      - Básico: 37.7%
+      - Insuficiente: 21.6%
+   • Evolução (2019-2023): 📉 Piora (-8.8pp)
+
+--------------------------------------------------------------------------------
+🎯 OPORTUNIDADES IDENTIFICADAS
+--------------------------------------------------------------------------------
+
+   🔴 Matemática: Apenas 40.7% com aprendizado adequado
+      → 21.6% em nível insuficiente
+      → Potencial para: reforço escolar, materiais de nivelamento
+
+--------------------------------------------------------------------------------
+📉 IMPACTO DA PANDEMIA E RECUPERAÇÃO
+--------------------------------------------------------------------------------
+
+   📘 Língua Portuguesa:
+      • 2019→2021 (pandemia): -5.3pp
+      • 2021→2023 (recuperação): +1.1pp
+      • Saldo total (2019→2023): -4.2pp
+      ⚠️ Ainda 4.2pp ABAIXO do nível pré-pandemia
+
+   📘 Matemática:
+      • 2019→2021 (pandemia): -12.5pp
+      • 2021→2023 (recuperação): +3.7pp
+      • Saldo total (2019→2023): -8.8pp
+      ⚠️ Ainda 8.8pp ABAIXO do nível pré-pandemia
+
+================================================================================
+ANÁLISE QUALITATIVA - COMPARATIVO COM SEMELHANTES E BRASIL
+================================================================================
+
+📊 Comparação de Fortaleza com municípios semelhantes e média nacional
+
+--------------------------------------------------------------------------------
+🔴 ABAIXO DA MÉDIA NACIONAL (BRASIL)
+--------------------------------------------------------------------------------
+
+   ❌ Matemática - Adequado
+      Município: 40.7% | Brasil: 43.5% → -2.8pp
+
+--------------------------------------------------------------------------------
+🟡 ABAIXO DE MUNICÍPIOS SEMELHANTES (mas acima do Brasil)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+🟢 ACIMA DAS MÉDIAS (Semelhantes e Brasil)
+--------------------------------------------------------------------------------
+
+   ✅ Língua Portuguesa - Adequado
+      Município: 61.3% | Semelhantes: 47.8% | Brasil: 55.1%
+      → +6.2pp vs Brasil | +13.5pp vs Semelhantes
+
+================================================================================
+📋 RESUMO COMPARATIVO
+================================================================================
+
+   🔴 Abaixo do Brasil:          1 disciplina(s)
+   🟡 Abaixo de Semelhantes:     0 disciplina(s)
+   🟢 Acima de ambos:            1 disciplina(s)
+
+================================================================================
+💡 CONCLUSÃO E RECOMENDAÇÕES PARA ABORDAGEM COMERCIAL
+================================================================================
+
+📍 FORTALEZA
+   🔴 SITUAÇÃO: CRÍTICA
+   POTENCIAL DE MERCADO: ALTO
+   → Recomendação: reforço escolar, recuperação, materiais de nivelamento
+
+
+================================================================================
+Fonte: QEdu (qedu.org.br)
+================================================================================
+================================================================================
+RELATÓRIO COMPLETO DE APRENDIZADO - DADOS QEDU
+================================================================================
+
+📍 Território: Fortaleza
+🏫 Rede: Pública (todas as redes)
+📚 Ciclo: Anos Finais do Ensino Fundamental (6º ao 9º)
+📅 Gerado em: 10/02/2026 15:29
+
+
+********************************************************************************
+PARTE 1: EVOLUÇÃO TEMPORAL DOS INDICADORES
+********************************************************************************
+
+        Disciplina                                    Nível    2019   2021   2023   Variação
+ Língua Portuguesa        Adequado (Proficiente + Avançado)   42.3%  41.5%  44.0%    +1.68pp
+ Língua Portuguesa                                 Avançado    9.0%   8.8%  10.3%    +1.36pp
+ Língua Portuguesa                              Proficiente   33.3%  32.7%  33.6%    +0.33pp
+ Língua Portuguesa                                   Básico   46.4%  47.0%  42.0%    -4.45pp
+ Língua Portuguesa                             Insuficiente   11.3%  11.5%  14.1%    +2.77pp
+        Matemática        Adequado (Proficiente + Avançado)   17.3%  14.9%  16.7%    -0.58pp
+        Matemática                                 Avançado    2.3%   1.3%   2.1%    -0.22pp
+        Matemática                              Proficiente   15.0%  13.6%  14.6%    -0.36pp
+        Matemática                                   Básico   57.3%  57.1%  51.9%    -5.36pp
+        Matemática                             Insuficiente   24.8%  28.0%  30.6%    +5.78pp
+
+
+********************************************************************************
+PARTE 2: COMPARATIVO COM MUNICÍPIOS SEMELHANTES E BRASIL
+********************************************************************************
+
+RESUMO - % de Alunos com Aprendizado Adequado:
+
+        Disciplina  Município  Municípios semelhantes  Brasil  vs Semelhantes  vs Brasil
+ Língua Portuguesa      44.0%                   29.6%   35.9%         +14.4pp     +8.0pp
+        Matemática      16.7%                    9.2%   16.5%          +7.6pp     +0.3pp
+
+
+DETALHAMENTO POR NÍVEL:
+
+        Disciplina                                    Nível  Município  Municípios semelhantes  Brasil  vs Semelhantes  vs Brasil
+ Língua Portuguesa        Adequado (Proficiente + Avançado)      44.0%                   29.6%   35.9%         +14.4pp     +8.0pp
+ Língua Portuguesa                                 Avançado      10.3%                    5.0%    7.3%          +5.3pp     +3.0pp
+ Língua Portuguesa                              Proficiente      33.6%                   24.6%   28.6%          +9.0pp     +5.0pp
+ Língua Portuguesa                                   Básico      42.0%                   50.9%   46.7%          -8.9pp     -4.7pp
+ Língua Portuguesa                             Insuficiente      14.1%                   19.6%   17.4%          -5.5pp     -3.3pp
+        Matemática        Adequado (Proficiente + Avançado)      16.7%                    9.2%   16.5%          +7.6pp     +0.3pp
+        Matemática                                 Avançado       2.1%                    1.1%    2.4%          +1.0pp     -0.3pp
+        Matemática                              Proficiente      14.6%                    8.0%   14.1%          +6.6pp     +0.6pp
+        Matemática                                   Básico      51.9%                   47.2%   51.1%          +4.7pp     +0.8pp
+        Matemática                             Insuficiente      30.6%                   42.8%   31.7%         -12.2pp     -1.1pp
+
+
+********************************************************************************
+PARTE 3: ANÁLISE QUALITATIVA
+********************************************************************************
+
+================================================================================
+ANÁLISE QUALITATIVA - EVOLUÇÃO DO APRENDIZADO
+================================================================================
+
+📍 Território: Fortaleza
+🏫 Rede: Pública (todas as redes)
+📚 Ciclo: Anos Finais do Ensino Fundamental (6º ao 9º)
+📅 Período analisado: 2019 a 2023
+
+--------------------------------------------------------------------------------
+DIAGNÓSTICO ATUAL POR DISCIPLINA
+--------------------------------------------------------------------------------
+
+📘 LÍNGUA PORTUGUESA
+
+   🔴 Situação atual: Desempenho crítico - oportunidade de atuação
+   • Alunos com aprendizado adequado: 44.0%
+      - Avançado: 10.3%
+      - Proficiente: 33.6%
+   • Alunos com aprendizado inadequado: 56.0%
+      - Básico: 42.0%
+      - Insuficiente: 14.1%
+   • Evolução (2019-2023): 📈 Melhora (+1.7pp)
+
+📘 MATEMÁTICA
+
+   🔴 Situação atual: Desempenho crítico - oportunidade de atuação
+   • Alunos com aprendizado adequado: 16.7%
+      - Avançado: 2.1%
+      - Proficiente: 14.6%
+   • Alunos com aprendizado inadequado: 82.5%
+      - Básico: 51.9%
+      - Insuficiente: 30.6%
+   • Evolução (2019-2023): 📉 Piora (-0.6pp)
+
+--------------------------------------------------------------------------------
+🎯 OPORTUNIDADES IDENTIFICADAS
+--------------------------------------------------------------------------------
+
+   🔴 Língua Portuguesa: Apenas 44.0% com aprendizado adequado
+      → 14.1% em nível insuficiente
+      → Potencial para: reforço escolar, materiais de nivelamento
+
+   🔴 Matemática: Apenas 16.7% com aprendizado adequado
+      → 30.6% em nível insuficiente
+      → Potencial para: reforço escolar, materiais de nivelamento
+
+--------------------------------------------------------------------------------
+📉 IMPACTO DA PANDEMIA E RECUPERAÇÃO
+--------------------------------------------------------------------------------
+
+   📘 Língua Portuguesa:
+      • 2019→2021 (pandemia): -0.8pp
+      • 2021→2023 (recuperação): +2.5pp
+      • Saldo total (2019→2023): +1.7pp
+      ✅ RECUPEROU o patamar pré-pandemia
+
+   📘 Matemática:
+      • 2019→2021 (pandemia): -2.4pp
+      • 2021→2023 (recuperação): +1.8pp
+      • Saldo total (2019→2023): -0.6pp
+      ⚠️ Ainda 0.6pp ABAIXO do nível pré-pandemia
+
+================================================================================
+ANÁLISE QUALITATIVA - COMPARATIVO COM SEMELHANTES E BRASIL
+================================================================================
+
+📊 Comparação de Fortaleza com municípios semelhantes e média nacional
+
+--------------------------------------------------------------------------------
+🔴 ABAIXO DA MÉDIA NACIONAL (BRASIL)
+--------------------------------------------------------------------------------
+   ✅ Nenhum indicador abaixo da média nacional.
+
+--------------------------------------------------------------------------------
+🟡 ABAIXO DE MUNICÍPIOS SEMELHANTES (mas acima do Brasil)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+🟢 ACIMA DAS MÉDIAS (Semelhantes e Brasil)
+--------------------------------------------------------------------------------
+
+   ✅ Língua Portuguesa - Adequado
+      Município: 44.0% | Semelhantes: 29.6% | Brasil: 35.9%
+      → +8.0pp vs Brasil | +14.4pp vs Semelhantes
+
+   ✅ Matemática - Adequado
+      Município: 16.7% | Semelhantes: 9.2% | Brasil: 16.5%
+      → +0.3pp vs Brasil | +7.6pp vs Semelhantes
+
+================================================================================
+📋 RESUMO COMPARATIVO
+================================================================================
+
+   🔴 Abaixo do Brasil:          0 disciplina(s)
+   🟡 Abaixo de Semelhantes:     0 disciplina(s)
+   🟢 Acima de ambos:            2 disciplina(s)
+
+================================================================================
+💡 CONCLUSÃO E RECOMENDAÇÕES PARA ABORDAGEM COMERCIAL
+================================================================================
+
+📍 FORTALEZA
+   🔴 SITUAÇÃO: CRÍTICA
+   POTENCIAL DE MERCADO: ALTO
+   → Recomendação: reforço escolar, recuperação, materiais de nivelamento
+
+
+================================================================================
+Fonte: QEdu (qedu.org.br)
+================================================================================
+================================================================================
+RELATÓRIO COMPLETO DE APRENDIZADO - DADOS QEDU
+================================================================================
+
+📍 Território: Fortaleza
+🏫 Rede: Pública (todas as redes)
+📚 Ciclo: Ensino Médio
+📅 Gerado em: 10/02/2026 15:29
+
+
+********************************************************************************
+PARTE 1: EVOLUÇÃO TEMPORAL DOS INDICADORES
+********************************************************************************
+
+        Disciplina                                    Nível    2019   2021   Variação
+ Língua Portuguesa        Adequado (Proficiente + Avançado)   34.0%  39.2%    +5.22pp
+ Língua Portuguesa                                 Avançado    1.0%   1.5%    +0.46pp
+ Língua Portuguesa                              Proficiente   33.0%  37.7%    +4.76pp
+ Língua Portuguesa                                   Básico   34.0%  34.5%    +0.51pp
+ Língua Portuguesa                             Insuficiente   32.0%  26.3%    -5.73pp
+        Matemática        Adequado (Proficiente + Avançado)    4.8%   6.1%    +1.36pp
+        Matemática                                 Avançado    0.6%   0.8%    +0.22pp
+        Matemática                              Proficiente    4.2%   5.3%    +1.14pp
+        Matemática                                   Básico   38.5%  40.8%    +2.28pp
+        Matemática                             Insuficiente   56.7%  53.1%    -3.63pp
+
+
+********************************************************************************
+PARTE 2: COMPARATIVO COM MUNICÍPIOS SEMELHANTES E BRASIL
+********************************************************************************
+
+RESUMO - % de Alunos com Aprendizado Adequado:
+
+        Disciplina  Município  Municípios semelhantes  Brasil  vs Semelhantes  vs Brasil
+ Língua Portuguesa      39.2%                   36.2%   32.5%          +3.0pp     +6.7pp
+        Matemática       6.1%                    8.2%    5.2%          -2.1pp     +1.0pp
+
+
+DETALHAMENTO POR NÍVEL:
+
+        Disciplina                                    Nível  Município  Municípios semelhantes  Brasil  vs Semelhantes  vs Brasil
+ Língua Portuguesa        Adequado (Proficiente + Avançado)      39.2%                   36.2%   32.5%          +3.0pp     +6.7pp
+ Língua Portuguesa                                 Avançado       1.5%                    1.6%    1.1%          -0.2pp     +0.3pp
+ Língua Portuguesa                              Proficiente      37.7%                   34.6%   31.3%          +3.1pp     +6.4pp
+ Língua Portuguesa                                   Básico      34.5%                   33.1%   34.4%          +1.4pp     +0.2pp
+ Língua Portuguesa                             Insuficiente      26.3%                   30.6%   33.2%          -4.4pp     -6.9pp
+        Matemática        Adequado (Proficiente + Avançado)       6.1%                    8.2%    5.2%          -2.1pp     +1.0pp
+        Matemática                                 Avançado       0.8%                    1.4%    0.7%          -0.6pp     +0.1pp
+        Matemática                              Proficiente       5.3%                    6.8%    4.5%          -1.4pp     +0.9pp
+        Matemática                                   Básico      40.8%                   37.0%   35.8%          +3.7pp     +4.9pp
+        Matemática                             Insuficiente      53.1%                   54.7%   59.0%          -1.6pp     -5.9pp
+
+
+********************************************************************************
+PARTE 3: ANÁLISE QUALITATIVA
+********************************************************************************
+
+================================================================================
+ANÁLISE QUALITATIVA - EVOLUÇÃO DO APRENDIZADO
+================================================================================
+
+📍 Território: Fortaleza
+🏫 Rede: Pública (todas as redes)
+📚 Ciclo: Ensino Médio
+📅 Período analisado: 2019 a 2021
+
+--------------------------------------------------------------------------------
+DIAGNÓSTICO ATUAL POR DISCIPLINA
+--------------------------------------------------------------------------------
+
+📘 LÍNGUA PORTUGUESA
+
+   🔴 Situação atual: Desempenho crítico - oportunidade de atuação
+   • Alunos com aprendizado adequado: 39.2%
+      - Avançado: 1.5%
+      - Proficiente: 37.7%
+   • Alunos com aprendizado inadequado: 60.8%
+      - Básico: 34.5%
+      - Insuficiente: 26.3%
+   • Evolução (2019-2021): 📈 Melhora (+5.2pp)
+
+📘 MATEMÁTICA
+
+   🔴 Situação atual: Desempenho crítico - oportunidade de atuação
+   • Alunos com aprendizado adequado: 6.1%
+      - Avançado: 0.8%
+      - Proficiente: 5.3%
+   • Alunos com aprendizado inadequado: 93.9%
+      - Básico: 40.8%
+      - Insuficiente: 53.1%
+   • Evolução (2019-2021): 📈 Melhora (+1.4pp)
+
+--------------------------------------------------------------------------------
+🎯 OPORTUNIDADES IDENTIFICADAS
+--------------------------------------------------------------------------------
+
+   🔴 Língua Portuguesa: Apenas 39.2% com aprendizado adequado
+      → 26.3% em nível insuficiente
+      → Potencial para: reforço escolar, materiais de nivelamento
+
+   🔴 Matemática: Apenas 6.1% com aprendizado adequado
+      → 53.1% em nível insuficiente
+      → Potencial para: reforço escolar, materiais de nivelamento
+
+================================================================================
+ANÁLISE QUALITATIVA - COMPARATIVO COM SEMELHANTES E BRASIL
+================================================================================
+
+📊 Comparação de Fortaleza com municípios semelhantes e média nacional
+
+--------------------------------------------------------------------------------
+🔴 ABAIXO DA MÉDIA NACIONAL (BRASIL)
+--------------------------------------------------------------------------------
+   ✅ Nenhum indicador abaixo da média nacional.
+
+--------------------------------------------------------------------------------
+🟡 ABAIXO DE MUNICÍPIOS SEMELHANTES (mas acima do Brasil)
+--------------------------------------------------------------------------------
+
+   ⚠️ Matemática - Adequado
+      Município: 6.1% | Semelhantes: 8.2% → -2.1pp
+
+--------------------------------------------------------------------------------
+🟢 ACIMA DAS MÉDIAS (Semelhantes e Brasil)
+--------------------------------------------------------------------------------
+
+   ✅ Língua Portuguesa - Adequado
+      Município: 39.2% | Semelhantes: 36.2% | Brasil: 32.5%
+      → +6.7pp vs Brasil | +3.0pp vs Semelhantes
+
+================================================================================
+📋 RESUMO COMPARATIVO
+================================================================================
+
+   🔴 Abaixo do Brasil:          0 disciplina(s)
+   🟡 Abaixo de Semelhantes:     1 disciplina(s)
+   🟢 Acima de ambos:            1 disciplina(s)
+
+================================================================================
+💡 CONCLUSÃO E RECOMENDAÇÕES PARA ABORDAGEM COMERCIAL
+================================================================================
+
+📍 FORTALEZA
+   🔴 SITUAÇÃO: CRÍTICA
+   POTENCIAL DE MERCADO: ALTO
+   → Recomendação: reforço escolar, recuperação, materiais de nivelamento
+
+
+================================================================================
+Fonte: QEdu (qedu.org.br)
+================================================================================

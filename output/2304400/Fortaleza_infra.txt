@@ -1,0 +1,98 @@
+================================================================================
+RELATÓRIO DE INFRAESTRUTURA ESCOLAR - DADOS QEDU
+================================================================================
+
+📍 Território: Fortaleza
+🏫 Rede: Municipal
+📅 Ano de referência: 2024
+📅 Gerado em: 10/02/2026 15:29
+
+
+PARTE 1: TABELA COMPARATIVA
+--------------------------------------------------------------------------------
+
+           Indicador  Município  Estado  Brasil  vs Brasil  vs Estado
+         Biblioteca*      96.0%   27.0%   23.0%    +73.0pp    +69.0pp
+    Láb. Informática      57.0%   21.0%   18.0%    +39.0pp    +36.0pp
+       Láb. Ciências      25.0%    4.0%    4.0%    +21.0pp    +21.0pp
+     Sala de Leitura      84.0%   42.0%   23.0%    +61.0pp    +42.0pp
+  Quadra de Esportes      71.0%   35.0%   28.0%    +43.0pp    +36.0pp
+            Internet     100.0%   98.0%   89.0%    +11.0pp     +2.0pp
+         Banda Larga      98.0%   78.0%   76.0%    +22.0pp    +20.0pp
+
+
+
+================================================================================
+PANORAMA COMPARATIVO - ANÁLISE QUALITATIVA
+================================================================================
+
+📊 Análise comparativa de Fortaleza em relação ao Estado e Brasil
+
+--------------------------------------------------------------------------------
+🔴 INDICADORES ABAIXO DA MÉDIA NACIONAL (BRASIL)
+--------------------------------------------------------------------------------
+
+   ✅ Nenhum indicador abaixo da média nacional.
+
+--------------------------------------------------------------------------------
+🟡 INDICADORES ABAIXO DA MÉDIA ESTADUAL (mas acima do Brasil)
+--------------------------------------------------------------------------------
+
+   ✅ Nenhum indicador abaixo da média estadual (que esteja acima da nacional).
+
+--------------------------------------------------------------------------------
+🟢 INDICADORES ACIMA DAS MÉDIAS ESTADUAL E NACIONAL
+--------------------------------------------------------------------------------
+
+   ✅ Biblioteca*
+      Município: 96.0% | Estado: 27.0% | Brasil: 23.0%
+      → +73.0pp vs Brasil | +69.0pp vs Estado
+
+   ✅ Láb. Informática
+      Município: 57.0% | Estado: 21.0% | Brasil: 18.0%
+      → +39.0pp vs Brasil | +36.0pp vs Estado
+
+   ✅ Láb. Ciências
+      Município: 25.0% | Estado: 4.0% | Brasil: 4.0%
+      → +21.0pp vs Brasil | +21.0pp vs Estado
+
+   ✅ Sala de Leitura
+      Município: 84.0% | Estado: 42.0% | Brasil: 23.0%
+      → +61.0pp vs Brasil | +42.0pp vs Estado
+
+   ✅ Quadra de Esportes
+      Município: 71.0% | Estado: 35.0% | Brasil: 28.0%
+      → +43.0pp vs Brasil | +36.0pp vs Estado
+
+   ✅ Internet
+      Município: 100.0% | Estado: 98.0% | Brasil: 89.0%
+      → +11.0pp vs Brasil | +2.0pp vs Estado
+
+   ✅ Banda Larga
+      Município: 98.0% | Estado: 78.0% | Brasil: 76.0%
+      → +22.0pp vs Brasil | +20.0pp vs Estado
+
+================================================================================
+📋 RESUMO DO PANORAMA
+================================================================================
+
+   Total de indicadores analisados: 7
+
+   🔴 Abaixo do Brasil:           0 indicador(es)
+   🟡 Abaixo do Estado:           0 indicador(es)
+   🟢 Acima de ambos:             7 indicador(es)
+
+--------------------------------------------------------------------------------
+💬 CONCLUSÃO
+--------------------------------------------------------------------------------
+
+   Fortaleza apresenta EXCELENTE infraestrutura escolar nos indicadores
+   analisados, estando ACIMA das médias estadual e nacional em todos os itens.
+
+   💡 Recomendação: Focar em soluções de ATUALIZAÇÃO e MODERNIZAÇÃO,
+   já que a infraestrutura básica está bem estabelecida.
+
+
+================================================================================
+Fonte: QEdu (qedu.org.br)
+================================================================================

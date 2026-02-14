@@ -1,0 +1,96 @@
+================================================================================
+RELATÓRIO DE INFRAESTRUTURA ESCOLAR - DADOS QEDU
+================================================================================
+
+📍 Território: São Paulo
+🏫 Rede: Municipal
+📅 Ano de referência: 2024
+📅 Gerado em: 10/02/2026 12:21
+
+
+PARTE 1: TABELA COMPARATIVA
+--------------------------------------------------------------------------------
+
+           Indicador  Município  Estado  Brasil  vs Brasil  vs Estado
+         Biblioteca*       3.0%   16.0%   23.0%    -20.0pp    -13.0pp
+    Láb. Informática      46.0%   31.0%   18.0%    +28.0pp    +15.0pp
+       Láb. Ciências      12.0%    4.0%    4.0%     +8.0pp     +8.0pp
+     Sala de Leitura      48.0%   31.0%   23.0%    +25.0pp    +17.0pp
+  Quadra de Esportes      53.0%   40.0%   28.0%    +25.0pp    +13.0pp
+            Internet     100.0%   99.0%   89.0%    +11.0pp     +1.0pp
+         Banda Larga      94.0%   94.0%   76.0%    +18.0pp     +0.0pp
+
+
+
+================================================================================
+PANORAMA COMPARATIVO - ANÁLISE QUALITATIVA
+================================================================================
+
+📊 Análise comparativa de São Paulo em relação ao Estado e Brasil
+
+--------------------------------------------------------------------------------
+🔴 INDICADORES ABAIXO DA MÉDIA NACIONAL (BRASIL)
+--------------------------------------------------------------------------------
+
+
+   ❌ Biblioteca*
+      Município: 3.0% | Estado: 16.0% | Brasil: 23.0%
+      → -20.0pp vs Brasil
+
+--------------------------------------------------------------------------------
+🟡 INDICADORES ABAIXO DA MÉDIA ESTADUAL (mas acima do Brasil)
+--------------------------------------------------------------------------------
+
+   ✅ Nenhum indicador abaixo da média estadual (que esteja acima da nacional).
+
+--------------------------------------------------------------------------------
+🟢 INDICADORES ACIMA DAS MÉDIAS ESTADUAL E NACIONAL
+--------------------------------------------------------------------------------
+
+   ✅ Láb. Informática
+      Município: 46.0% | Estado: 31.0% | Brasil: 18.0%
+      → +28.0pp vs Brasil | +15.0pp vs Estado
+
+   ✅ Láb. Ciências
+      Município: 12.0% | Estado: 4.0% | Brasil: 4.0%
+      → +8.0pp vs Brasil | +8.0pp vs Estado
+
+   ✅ Sala de Leitura
+      Município: 48.0% | Estado: 31.0% | Brasil: 23.0%
+      → +25.0pp vs Brasil | +17.0pp vs Estado
+
+   ✅ Quadra de Esportes
+      Município: 53.0% | Estado: 40.0% | Brasil: 28.0%
+      → +25.0pp vs Brasil | +13.0pp vs Estado
+
+   ✅ Internet
+      Município: 100.0% | Estado: 99.0% | Brasil: 89.0%
+      → +11.0pp vs Brasil | +1.0pp vs Estado
+
+   ✅ Banda Larga
+      Município: 94.0% | Estado: 94.0% | Brasil: 76.0%
+      → +18.0pp vs Brasil | +0.0pp vs Estado
+
+================================================================================
+📋 RESUMO DO PANORAMA
+================================================================================
+
+   Total de indicadores analisados: 7
+
+   🔴 Abaixo do Brasil:           1 indicador(es)
+   🟡 Abaixo do Estado:           0 indicador(es)
+   🟢 Acima de ambos:             6 indicador(es)
+
+--------------------------------------------------------------------------------
+💬 CONCLUSÃO
+--------------------------------------------------------------------------------
+
+   São Paulo apresenta infraestrutura PARCIALMENTE adequada,
+   com 1 indicador(es) abaixo da média nacional.
+
+   💡 Recomendação: oportunidade de melhoria rápida.
+
+
+================================================================================
+Fonte: QEdu (qedu.org.br)
+================================================================================

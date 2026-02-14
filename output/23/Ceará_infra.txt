@@ -1,0 +1,98 @@
+================================================================================
+RELATÓRIO DE INFRAESTRUTURA ESCOLAR - DADOS QEDU
+================================================================================
+
+📍 Território: Ceará
+🏫 Rede: Municipal
+📅 Ano de referência: 2024
+📅 Gerado em: 10/02/2026 15:30
+
+
+PARTE 1: TABELA COMPARATIVA
+--------------------------------------------------------------------------------
+
+           Indicador  Município  Estado  Brasil  vs Brasil  vs Estado
+         Biblioteca*      27.0% sem dados   23.0%     +4.0pp           
+    Láb. Informática      21.0% sem dados   18.0%     +3.0pp           
+       Láb. Ciências       4.0% sem dados    4.0%     +0.0pp           
+     Sala de Leitura      42.0% sem dados   23.0%    +19.0pp           
+  Quadra de Esportes      35.0% sem dados   28.0%     +7.0pp           
+            Internet      98.0% sem dados   89.0%     +9.0pp           
+         Banda Larga      78.0% sem dados   76.0%     +2.0pp           
+
+
+
+================================================================================
+PANORAMA COMPARATIVO - ANÁLISE QUALITATIVA
+================================================================================
+
+📊 Análise comparativa de Ceará em relação ao Estado e Brasil
+
+--------------------------------------------------------------------------------
+🔴 INDICADORES ABAIXO DA MÉDIA NACIONAL (BRASIL)
+--------------------------------------------------------------------------------
+
+   ✅ Nenhum indicador abaixo da média nacional.
+
+--------------------------------------------------------------------------------
+🟡 INDICADORES ABAIXO DA MÉDIA ESTADUAL (mas acima do Brasil)
+--------------------------------------------------------------------------------
+
+   ✅ Nenhum indicador abaixo da média estadual (que esteja acima da nacional).
+
+--------------------------------------------------------------------------------
+🟢 INDICADORES ACIMA DAS MÉDIAS ESTADUAL E NACIONAL
+--------------------------------------------------------------------------------
+
+   ✅ Biblioteca*
+      Município: 27.0% | Estado: sem dados | Brasil: 23.0%
+      → +4.0pp vs Brasil | +27.0pp vs Estado
+
+   ✅ Láb. Informática
+      Município: 21.0% | Estado: sem dados | Brasil: 18.0%
+      → +3.0pp vs Brasil | +21.0pp vs Estado
+
+   ✅ Láb. Ciências
+      Município: 4.0% | Estado: sem dados | Brasil: 4.0%
+      → +0.0pp vs Brasil | +4.0pp vs Estado
+
+   ✅ Sala de Leitura
+      Município: 42.0% | Estado: sem dados | Brasil: 23.0%
+      → +19.0pp vs Brasil | +42.0pp vs Estado
+
+   ✅ Quadra de Esportes
+      Município: 35.0% | Estado: sem dados | Brasil: 28.0%
+      → +7.0pp vs Brasil | +35.0pp vs Estado
+
+   ✅ Internet
+      Município: 98.0% | Estado: sem dados | Brasil: 89.0%
+      → +9.0pp vs Brasil | +98.0pp vs Estado
+
+   ✅ Banda Larga
+      Município: 78.0% | Estado: sem dados | Brasil: 76.0%
+      → +2.0pp vs Brasil | +78.0pp vs Estado
+
+================================================================================
+📋 RESUMO DO PANORAMA
+================================================================================
+
+   Total de indicadores analisados: 7
+
+   🔴 Abaixo do Brasil:           0 indicador(es)
+   🟡 Abaixo do Estado:           0 indicador(es)
+   🟢 Acima de ambos:             7 indicador(es)
+
+--------------------------------------------------------------------------------
+💬 CONCLUSÃO
+--------------------------------------------------------------------------------
+
+   Ceará apresenta EXCELENTE infraestrutura escolar nos indicadores
+   analisados, estando ACIMA das médias estadual e nacional em todos os itens.
+
+   💡 Recomendação: Focar em soluções de ATUALIZAÇÃO e MODERNIZAÇÃO,
+   já que a infraestrutura básica está bem estabelecida.
+
+
+================================================================================
+Fonte: QEdu (qedu.org.br)
+================================================================================

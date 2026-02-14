@@ -1,0 +1,1561 @@
+nome;indicador_uf;estado_id;indicador_tipo_nome;ano;valor;esfera;segmento
+ACRE;AC;22;IDEB;2005;3.3;estadual;ano iniciais
+ACRE;AC;22;IDEB;2007;3.8;estadual;ano iniciais
+ACRE;AC;22;IDEB;2009;4.5;estadual;ano iniciais
+ACRE;AC;22;IDEB;2011;4.7;estadual;ano iniciais
+ACRE;AC;22;IDEB;2013;5.2;estadual;ano iniciais
+ACRE;AC;22;IDEB;2015;5.5;estadual;ano iniciais
+ACRE;AC;22;IDEB;2017;6.1;estadual;ano iniciais
+ACRE;AC;22;IDEB;2019;6.2;estadual;ano iniciais
+ACRE;AC;22;IDEB;2021;5.7;estadual;ano iniciais
+ACRE;AC;22;IDEB;2023;6.1;estadual;ano iniciais
+ACRE;AC;22;SAEB;2005;4.2;estadual;ano iniciais
+ACRE;AC;22;SAEB;2007;4.6;estadual;ano iniciais
+ACRE;AC;22;SAEB;2009;5.1;estadual;ano iniciais
+ACRE;AC;22;SAEB;2011;5.2;estadual;ano iniciais
+ACRE;AC;22;SAEB;2013;5.8;estadual;ano iniciais
+ACRE;AC;22;SAEB;2015;6.1;estadual;ano iniciais
+ACRE;AC;22;SAEB;2017;6.5;estadual;ano iniciais
+ACRE;AC;22;SAEB;2019;6.6;estadual;ano iniciais
+ACRE;AC;22;SAEB;2021;6.0;estadual;ano iniciais
+ACRE;AC;22;SAEB;2023;6.5;estadual;ano iniciais
+ACRE;AC;22;IDEB;2005;3.5;estadual;anos finais
+ACRE;AC;22;IDEB;2007;3.8;estadual;anos finais
+ACRE;AC;22;IDEB;2009;4.1;estadual;anos finais
+ACRE;AC;22;IDEB;2011;4.2;estadual;anos finais
+ACRE;AC;22;IDEB;2013;4.4;estadual;anos finais
+ACRE;AC;22;IDEB;2015;4.4;estadual;anos finais
+ACRE;AC;22;IDEB;2017;4.7;estadual;anos finais
+ACRE;AC;22;IDEB;2019;4.8;estadual;anos finais
+ACRE;AC;22;IDEB;2021;4.8;estadual;anos finais
+ACRE;AC;22;IDEB;2023;4.7;estadual;anos finais
+ACRE;AC;22;SAEB;2005;4.2;estadual;anos finais
+ACRE;AC;22;SAEB;2007;4.3;estadual;anos finais
+ACRE;AC;22;SAEB;2009;4.6;estadual;anos finais
+ACRE;AC;22;SAEB;2011;4.6;estadual;anos finais
+ACRE;AC;22;SAEB;2013;4.8;estadual;anos finais
+ACRE;AC;22;SAEB;2015;4.9;estadual;anos finais
+ACRE;AC;22;SAEB;2017;5.1;estadual;anos finais
+ACRE;AC;22;SAEB;2019;5.2;estadual;anos finais
+ACRE;AC;22;SAEB;2021;5.1;estadual;anos finais
+ACRE;AC;22;SAEB;2023;5.2;estadual;anos finais
+ACRE;AC;22;IDEB;2005;3.0;estadual;ensino médio
+ACRE;AC;22;IDEB;2007;3.3;estadual;ensino médio
+ACRE;AC;22;IDEB;2009;3.5;estadual;ensino médio
+ACRE;AC;22;IDEB;2011;3.3;estadual;ensino médio
+ACRE;AC;22;IDEB;2013;3.3;estadual;ensino médio
+ACRE;AC;22;IDEB;2015;3.5;estadual;ensino médio
+ACRE;AC;22;IDEB;2017;3.6;estadual;ensino médio
+ACRE;AC;22;IDEB;2019;3.7;estadual;ensino médio
+ACRE;AC;22;IDEB;2021;3.9;estadual;ensino médio
+ACRE;AC;22;IDEB;2023;3.9;estadual;ensino médio
+ACRE;AC;22;SAEB;2005;3.9;estadual;ensino médio
+ACRE;AC;22;SAEB;2007;4.2;estadual;ensino médio
+ACRE;AC;22;SAEB;2009;4.3;estadual;ensino médio
+ACRE;AC;22;SAEB;2011;4.1;estadual;ensino médio
+ACRE;AC;22;SAEB;2013;4.2;estadual;ensino médio
+ACRE;AC;22;SAEB;2015;4.2;estadual;ensino médio
+ACRE;AC;22;SAEB;2017;4.3;estadual;ensino médio
+ACRE;AC;22;SAEB;2019;4.4;estadual;ensino médio
+ACRE;AC;22;SAEB;2021;4.5;estadual;ensino médio
+ACRE;AC;22;SAEB;2023;4.4;estadual;ensino médio
+ALAGOAS;AL;27;IDEB;2005;2.9;estadual;ano iniciais
+ALAGOAS;AL;27;IDEB;2007;3.3;estadual;ano iniciais
+ALAGOAS;AL;27;IDEB;2009;3.3;estadual;ano iniciais
+ALAGOAS;AL;27;IDEB;2011;3.4;estadual;ano iniciais
+ALAGOAS;AL;27;IDEB;2013;3.7;estadual;ano iniciais
+ALAGOAS;AL;27;IDEB;2015;4.1;estadual;ano iniciais
+ALAGOAS;AL;27;IDEB;2017;4.9;estadual;ano iniciais
+ALAGOAS;AL;27;IDEB;2019;5.2;estadual;ano iniciais
+ALAGOAS;AL;27;IDEB;2021;5.0;estadual;ano iniciais
+ALAGOAS;AL;27;IDEB;2023;5.5;estadual;ano iniciais
+ALAGOAS;AL;27;SAEB;2005;3.9;estadual;ano iniciais
+ALAGOAS;AL;27;SAEB;2007;4.1;estadual;ano iniciais
+ALAGOAS;AL;27;SAEB;2009;4.2;estadual;ano iniciais
+ALAGOAS;AL;27;SAEB;2011;4.3;estadual;ano iniciais
+ALAGOAS;AL;27;SAEB;2013;4.4;estadual;ano iniciais
+ALAGOAS;AL;27;SAEB;2015;4.9;estadual;ano iniciais
+ALAGOAS;AL;27;SAEB;2017;5.3;estadual;ano iniciais
+ALAGOAS;AL;27;SAEB;2019;5.5;estadual;ano iniciais
+ALAGOAS;AL;27;SAEB;2021;5.2;estadual;ano iniciais
+ALAGOAS;AL;27;SAEB;2023;5.6;estadual;ano iniciais
+ALAGOAS;AL;27;IDEB;2005;2.5;estadual;anos finais
+ALAGOAS;AL;27;IDEB;2007;2.7;estadual;anos finais
+ALAGOAS;AL;27;IDEB;2009;2.7;estadual;anos finais
+ALAGOAS;AL;27;IDEB;2011;2.5;estadual;anos finais
+ALAGOAS;AL;27;IDEB;2013;2.7;estadual;anos finais
+ALAGOAS;AL;27;IDEB;2015;3.1;estadual;anos finais
+ALAGOAS;AL;27;IDEB;2017;4.0;estadual;anos finais
+ALAGOAS;AL;27;IDEB;2019;4.4;estadual;anos finais
+ALAGOAS;AL;27;IDEB;2021;4.3;estadual;anos finais
+ALAGOAS;AL;27;IDEB;2023;4.6;estadual;anos finais
+ALAGOAS;AL;27;SAEB;2005;3.9;estadual;anos finais
+ALAGOAS;AL;27;SAEB;2007;3.9;estadual;anos finais
+ALAGOAS;AL;27;SAEB;2009;4.1;estadual;anos finais
+ALAGOAS;AL;27;SAEB;2011;4.0;estadual;anos finais
+ALAGOAS;AL;27;SAEB;2013;4.1;estadual;anos finais
+ALAGOAS;AL;27;SAEB;2015;4.4;estadual;anos finais
+ALAGOAS;AL;27;SAEB;2017;4.8;estadual;anos finais
+ALAGOAS;AL;27;SAEB;2019;4.9;estadual;anos finais
+ALAGOAS;AL;27;SAEB;2021;4.7;estadual;anos finais
+ALAGOAS;AL;27;SAEB;2023;4.9;estadual;anos finais
+ALAGOAS;AL;27;IDEB;2005;2.8;estadual;ensino médio
+ALAGOAS;AL;27;IDEB;2007;2.6;estadual;ensino médio
+ALAGOAS;AL;27;IDEB;2009;2.8;estadual;ensino médio
+ALAGOAS;AL;27;IDEB;2011;2.6;estadual;ensino médio
+ALAGOAS;AL;27;IDEB;2013;2.6;estadual;ensino médio
+ALAGOAS;AL;27;IDEB;2015;2.8;estadual;ensino médio
+ALAGOAS;AL;27;IDEB;2017;3.3;estadual;ensino médio
+ALAGOAS;AL;27;IDEB;2019;3.6;estadual;ensino médio
+ALAGOAS;AL;27;IDEB;2021;3.5;estadual;ensino médio
+ALAGOAS;AL;27;IDEB;2023;4.0;estadual;ensino médio
+ALAGOAS;AL;27;SAEB;2005;3.8;estadual;ensino médio
+ALAGOAS;AL;27;SAEB;2007;3.5;estadual;ensino médio
+ALAGOAS;AL;27;SAEB;2009;3.8;estadual;ensino médio
+ALAGOAS;AL;27;SAEB;2011;3.6;estadual;ensino médio
+ALAGOAS;AL;27;SAEB;2013;3.5;estadual;ensino médio
+ALAGOAS;AL;27;SAEB;2015;3.8;estadual;ensino médio
+ALAGOAS;AL;27;SAEB;2017;3.9;estadual;ensino médio
+ALAGOAS;AL;27;SAEB;2019;4.2;estadual;ensino médio
+ALAGOAS;AL;27;SAEB;2021;4.0;estadual;ensino médio
+ALAGOAS;AL;27;SAEB;2023;4.2;estadual;ensino médio
+AMAZONAS;AM;10;IDEB;2005;3.3;estadual;ano iniciais
+AMAZONAS;AM;10;IDEB;2007;3.9;estadual;ano iniciais
+AMAZONAS;AM;10;IDEB;2009;4.5;estadual;ano iniciais
+AMAZONAS;AM;10;IDEB;2011;4.8;estadual;ano iniciais
+AMAZONAS;AM;10;IDEB;2013;5.1;estadual;ano iniciais
+AMAZONAS;AM;10;IDEB;2015;5.5;estadual;ano iniciais
+AMAZONAS;AM;10;IDEB;2017;5.8;estadual;ano iniciais
+AMAZONAS;AM;10;IDEB;2019;5.8;estadual;ano iniciais
+AMAZONAS;AM;10;IDEB;2021;5.9;estadual;ano iniciais
+AMAZONAS;AM;10;IDEB;2023;5.9;estadual;ano iniciais
+AMAZONAS;AM;10;SAEB;2005;4.2;estadual;ano iniciais
+AMAZONAS;AM;10;SAEB;2007;4.6;estadual;ano iniciais
+AMAZONAS;AM;10;SAEB;2009;5.1;estadual;ano iniciais
+AMAZONAS;AM;10;SAEB;2011;5.2;estadual;ano iniciais
+AMAZONAS;AM;10;SAEB;2013;5.4;estadual;ano iniciais
+AMAZONAS;AM;10;SAEB;2015;5.8;estadual;ano iniciais
+AMAZONAS;AM;10;SAEB;2017;6.1;estadual;ano iniciais
+AMAZONAS;AM;10;SAEB;2019;6.0;estadual;ano iniciais
+AMAZONAS;AM;10;SAEB;2021;6.0;estadual;ano iniciais
+AMAZONAS;AM;10;SAEB;2023;6.1;estadual;ano iniciais
+AMAZONAS;AM;10;IDEB;2005;2.7;estadual;anos finais
+AMAZONAS;AM;10;IDEB;2007;3.3;estadual;anos finais
+AMAZONAS;AM;10;IDEB;2009;3.6;estadual;anos finais
+AMAZONAS;AM;10;IDEB;2011;3.9;estadual;anos finais
+AMAZONAS;AM;10;IDEB;2013;3.9;estadual;anos finais
+AMAZONAS;AM;10;IDEB;2015;4.4;estadual;anos finais
+AMAZONAS;AM;10;IDEB;2017;4.6;estadual;anos finais
+AMAZONAS;AM;10;IDEB;2019;4.6;estadual;anos finais
+AMAZONAS;AM;10;IDEB;2021;4.8;estadual;anos finais
+AMAZONAS;AM;10;IDEB;2023;4.8;estadual;anos finais
+AMAZONAS;AM;10;SAEB;2005;3.9;estadual;anos finais
+AMAZONAS;AM;10;SAEB;2007;4.4;estadual;anos finais
+AMAZONAS;AM;10;SAEB;2009;4.6;estadual;anos finais
+AMAZONAS;AM;10;SAEB;2011;4.6;estadual;anos finais
+AMAZONAS;AM;10;SAEB;2013;4.6;estadual;anos finais
+AMAZONAS;AM;10;SAEB;2015;4.9;estadual;anos finais
+AMAZONAS;AM;10;SAEB;2017;5.1;estadual;anos finais
+AMAZONAS;AM;10;SAEB;2019;5.0;estadual;anos finais
+AMAZONAS;AM;10;SAEB;2021;5.0;estadual;anos finais
+AMAZONAS;AM;10;SAEB;2023;5.1;estadual;anos finais
+AMAZONAS;AM;10;IDEB;2005;2.3;estadual;ensino médio
+AMAZONAS;AM;10;IDEB;2007;2.8;estadual;ensino médio
+AMAZONAS;AM;10;IDEB;2009;3.2;estadual;ensino médio
+AMAZONAS;AM;10;IDEB;2011;3.4;estadual;ensino médio
+AMAZONAS;AM;10;IDEB;2013;3.0;estadual;ensino médio
+AMAZONAS;AM;10;IDEB;2015;3.5;estadual;ensino médio
+AMAZONAS;AM;10;IDEB;2017;3.3;estadual;ensino médio
+AMAZONAS;AM;10;IDEB;2019;3.5;estadual;ensino médio
+AMAZONAS;AM;10;IDEB;2021;3.6;estadual;ensino médio
+AMAZONAS;AM;10;IDEB;2023;3.7;estadual;ensino médio
+AMAZONAS;AM;10;SAEB;2005;3.4;estadual;ensino médio
+AMAZONAS;AM;10;SAEB;2007;3.7;estadual;ensino médio
+AMAZONAS;AM;10;SAEB;2009;4.0;estadual;ensino médio
+AMAZONAS;AM;10;SAEB;2011;4.1;estadual;ensino médio
+AMAZONAS;AM;10;SAEB;2013;3.7;estadual;ensino médio
+AMAZONAS;AM;10;SAEB;2015;4.2;estadual;ensino médio
+AMAZONAS;AM;10;SAEB;2017;3.9;estadual;ensino médio
+AMAZONAS;AM;10;SAEB;2019;4.0;estadual;ensino médio
+AMAZONAS;AM;10;SAEB;2021;4.0;estadual;ensino médio
+AMAZONAS;AM;10;SAEB;2023;4.2;estadual;ensino médio
+BAHIA;BA;8;IDEB;2005;2.6;estadual;ano iniciais
+BAHIA;BA;8;IDEB;2007;2.6;estadual;ano iniciais
+BAHIA;BA;8;IDEB;2009;3.2;estadual;ano iniciais
+BAHIA;BA;8;IDEB;2011;3.8;estadual;ano iniciais
+BAHIA;BA;8;IDEB;2013;4.0;estadual;ano iniciais
+BAHIA;BA;8;IDEB;2015;4.3;estadual;ano iniciais
+BAHIA;BA;8;IDEB;2017;4.9;estadual;ano iniciais
+BAHIA;BA;8;IDEB;2019;5.0;estadual;ano iniciais
+BAHIA;BA;8;IDEB;2021;6.0;estadual;ano iniciais
+BAHIA;BA;8;IDEB;2023;5.1;estadual;ano iniciais
+BAHIA;BA;8;SAEB;2005;4.1;estadual;ano iniciais
+BAHIA;BA;8;SAEB;2007;4.3;estadual;ano iniciais
+BAHIA;BA;8;SAEB;2009;4.6;estadual;ano iniciais
+BAHIA;BA;8;SAEB;2011;4.7;estadual;ano iniciais
+BAHIA;BA;8;SAEB;2013;4.7;estadual;ano iniciais
+BAHIA;BA;8;SAEB;2015;5.2;estadual;ano iniciais
+BAHIA;BA;8;SAEB;2017;5.8;estadual;ano iniciais
+BAHIA;BA;8;SAEB;2019;5.8;estadual;ano iniciais
+BAHIA;BA;8;SAEB;2021;6.1;estadual;ano iniciais
+BAHIA;BA;8;SAEB;2023;5.9;estadual;ano iniciais
+BAHIA;BA;8;IDEB;2005;2.6;estadual;anos finais
+BAHIA;BA;8;IDEB;2007;2.7;estadual;anos finais
+BAHIA;BA;8;IDEB;2009;2.8;estadual;anos finais
+BAHIA;BA;8;IDEB;2011;2.9;estadual;anos finais
+BAHIA;BA;8;IDEB;2013;3.1;estadual;anos finais
+BAHIA;BA;8;IDEB;2015;3.2;estadual;anos finais
+BAHIA;BA;8;IDEB;2017;3.2;estadual;anos finais
+BAHIA;BA;8;IDEB;2019;3.7;estadual;anos finais
+BAHIA;BA;8;IDEB;2021;4.5;estadual;anos finais
+BAHIA;BA;8;IDEB;2023;4.0;estadual;anos finais
+BAHIA;BA;8;SAEB;2005;4.1;estadual;anos finais
+BAHIA;BA;8;SAEB;2007;4.1;estadual;anos finais
+BAHIA;BA;8;SAEB;2009;4.2;estadual;anos finais
+BAHIA;BA;8;SAEB;2011;4.3;estadual;anos finais
+BAHIA;BA;8;SAEB;2013;4.3;estadual;anos finais
+BAHIA;BA;8;SAEB;2015;4.6;estadual;anos finais
+BAHIA;BA;8;SAEB;2017;4.6;estadual;anos finais
+BAHIA;BA;8;SAEB;2019;4.7;estadual;anos finais
+BAHIA;BA;8;SAEB;2021;4.7;estadual;anos finais
+BAHIA;BA;8;SAEB;2023;4.3;estadual;anos finais
+BAHIA;BA;8;IDEB;2005;2.7;estadual;ensino médio
+BAHIA;BA;8;IDEB;2007;2.8;estadual;ensino médio
+BAHIA;BA;8;IDEB;2009;3.1;estadual;ensino médio
+BAHIA;BA;8;IDEB;2011;3.0;estadual;ensino médio
+BAHIA;BA;8;IDEB;2013;2.8;estadual;ensino médio
+BAHIA;BA;8;IDEB;2015;2.9;estadual;ensino médio
+BAHIA;BA;8;IDEB;2017;2.7;estadual;ensino médio
+BAHIA;BA;8;IDEB;2019;3.2;estadual;ensino médio
+BAHIA;BA;8;IDEB;2021;3.5;estadual;ensino médio
+BAHIA;BA;8;IDEB;2023;3.7;estadual;ensino médio
+BAHIA;BA;8;SAEB;2005;3.8;estadual;ensino médio
+BAHIA;BA;8;SAEB;2007;4.0;estadual;ensino médio
+BAHIA;BA;8;SAEB;2009;4.3;estadual;ensino médio
+BAHIA;BA;8;SAEB;2011;4.0;estadual;ensino médio
+BAHIA;BA;8;SAEB;2013;3.5;estadual;ensino médio
+BAHIA;BA;8;SAEB;2015;3.8;estadual;ensino médio
+BAHIA;BA;8;SAEB;2017;3.7;estadual;ensino médio
+BAHIA;BA;8;SAEB;2019;4.1;estadual;ensino médio
+BAHIA;BA;8;SAEB;2021;4.0;estadual;ensino médio
+BAHIA;BA;8;SAEB;2023;4.0;estadual;ensino médio
+CEARA;CE;15;IDEB;2005;3.2;estadual;ano iniciais
+CEARA;CE;15;IDEB;2007;3.5;estadual;ano iniciais
+CEARA;CE;15;IDEB;2009;4.2;estadual;ano iniciais
+CEARA;CE;15;IDEB;2011;4.4;estadual;ano iniciais
+CEARA;CE;15;IDEB;2013;5.0;estadual;ano iniciais
+CEARA;CE;15;IDEB;2015;5.8;estadual;ano iniciais
+CEARA;CE;15;IDEB;2017;6.7;estadual;ano iniciais
+CEARA;CE;15;IDEB;2019;6.5;estadual;ano iniciais
+CEARA;CE;15;IDEB;2021;7.2;estadual;ano iniciais
+CEARA;CE;15;IDEB;2023;7.7;estadual;ano iniciais
+CEARA;CE;15;SAEB;2005;4.0;estadual;ano iniciais
+CEARA;CE;15;SAEB;2007;4.5;estadual;ano iniciais
+CEARA;CE;15;SAEB;2009;4.9;estadual;ano iniciais
+CEARA;CE;15;SAEB;2011;5.1;estadual;ano iniciais
+CEARA;CE;15;SAEB;2013;5.5;estadual;ano iniciais
+CEARA;CE;15;SAEB;2015;6.5;estadual;ano iniciais
+CEARA;CE;15;SAEB;2017;7.1;estadual;ano iniciais
+CEARA;CE;15;SAEB;2019;6.9;estadual;ano iniciais
+CEARA;CE;15;SAEB;2021;7.2;estadual;ano iniciais
+CEARA;CE;15;SAEB;2023;7.8;estadual;ano iniciais
+CEARA;CE;15;IDEB;2005;2.8;estadual;anos finais
+CEARA;CE;15;IDEB;2007;3.4;estadual;anos finais
+CEARA;CE;15;IDEB;2009;3.6;estadual;anos finais
+CEARA;CE;15;IDEB;2011;3.7;estadual;anos finais
+CEARA;CE;15;IDEB;2013;3.9;estadual;anos finais
+CEARA;CE;15;IDEB;2015;4.2;estadual;anos finais
+CEARA;CE;15;IDEB;2017;4.5;estadual;anos finais
+CEARA;CE;15;IDEB;2019;4.7;estadual;anos finais
+CEARA;CE;15;IDEB;2021;5.3;estadual;anos finais
+CEARA;CE;15;IDEB;2023;5.3;estadual;anos finais
+CEARA;CE;15;SAEB;2005;3.7;estadual;anos finais
+CEARA;CE;15;SAEB;2007;4.2;estadual;anos finais
+CEARA;CE;15;SAEB;2009;4.5;estadual;anos finais
+CEARA;CE;15;SAEB;2011;4.6;estadual;anos finais
+CEARA;CE;15;SAEB;2013;4.7;estadual;anos finais
+CEARA;CE;15;SAEB;2015;5.0;estadual;anos finais
+CEARA;CE;15;SAEB;2017;5.1;estadual;anos finais
+CEARA;CE;15;SAEB;2019;5.2;estadual;anos finais
+CEARA;CE;15;SAEB;2021;5.3;estadual;anos finais
+CEARA;CE;15;SAEB;2023;5.4;estadual;anos finais
+CEARA;CE;15;IDEB;2005;3.0;estadual;ensino médio
+CEARA;CE;15;IDEB;2007;3.1;estadual;ensino médio
+CEARA;CE;15;IDEB;2009;3.4;estadual;ensino médio
+CEARA;CE;15;IDEB;2011;3.4;estadual;ensino médio
+CEARA;CE;15;IDEB;2013;3.3;estadual;ensino médio
+CEARA;CE;15;IDEB;2015;3.4;estadual;ensino médio
+CEARA;CE;15;IDEB;2017;3.8;estadual;ensino médio
+CEARA;CE;15;IDEB;2019;4.2;estadual;ensino médio
+CEARA;CE;15;IDEB;2021;4.4;estadual;ensino médio
+CEARA;CE;15;IDEB;2023;4.4;estadual;ensino médio
+CEARA;CE;15;SAEB;2005;4.0;estadual;ensino médio
+CEARA;CE;15;SAEB;2007;4.0;estadual;ensino médio
+CEARA;CE;15;SAEB;2009;4.1;estadual;ensino médio
+CEARA;CE;15;SAEB;2011;4.1;estadual;ensino médio
+CEARA;CE;15;SAEB;2013;4.0;estadual;ensino médio
+CEARA;CE;15;SAEB;2015;3.9;estadual;ensino médio
+CEARA;CE;15;SAEB;2017;4.2;estadual;ensino médio
+CEARA;CE;15;SAEB;2019;4.5;estadual;ensino médio
+CEARA;CE;15;SAEB;2021;4.4;estadual;ensino médio
+CEARA;CE;15;SAEB;2023;4.4;estadual;ensino médio
+DISTRITO FEDERAL;DF;;IDEB;2005;4.4;estadual;ano iniciais
+DISTRITO FEDERAL;DF;;IDEB;2007;4.8;estadual;ano iniciais
+DISTRITO FEDERAL;DF;;IDEB;2009;5.4;estadual;ano iniciais
+DISTRITO FEDERAL;DF;;IDEB;2011;5.4;estadual;ano iniciais
+DISTRITO FEDERAL;DF;;IDEB;2013;5.6;estadual;ano iniciais
+DISTRITO FEDERAL;DF;;IDEB;2015;5.6;estadual;ano iniciais
+DISTRITO FEDERAL;DF;;IDEB;2017;6.0;estadual;ano iniciais
+DISTRITO FEDERAL;DF;;IDEB;2019;6.1;estadual;ano iniciais
+DISTRITO FEDERAL;DF;;IDEB;2021;5.9;estadual;ano iniciais
+DISTRITO FEDERAL;DF;;IDEB;2023;5.9;estadual;ano iniciais
+DISTRITO FEDERAL;DF;;SAEB;2005;5.2;estadual;ano iniciais
+DISTRITO FEDERAL;DF;;SAEB;2007;5.4;estadual;ano iniciais
+DISTRITO FEDERAL;DF;;SAEB;2009;5.9;estadual;ano iniciais
+DISTRITO FEDERAL;DF;;SAEB;2011;5.9;estadual;ano iniciais
+DISTRITO FEDERAL;DF;;SAEB;2013;6.0;estadual;ano iniciais
+DISTRITO FEDERAL;DF;;SAEB;2015;6.1;estadual;ano iniciais
+DISTRITO FEDERAL;DF;;SAEB;2017;6.4;estadual;ano iniciais
+DISTRITO FEDERAL;DF;;SAEB;2019;6.5;estadual;ano iniciais
+DISTRITO FEDERAL;DF;;SAEB;2021;6.2;estadual;ano iniciais
+DISTRITO FEDERAL;DF;;SAEB;2023;6.2;estadual;ano iniciais
+DISTRITO FEDERAL;DF;;IDEB;2005;3.3;estadual;anos finais
+DISTRITO FEDERAL;DF;;IDEB;2007;3.5;estadual;anos finais
+DISTRITO FEDERAL;DF;;IDEB;2009;3.9;estadual;anos finais
+DISTRITO FEDERAL;DF;;IDEB;2011;3.9;estadual;anos finais
+DISTRITO FEDERAL;DF;;IDEB;2013;3.8;estadual;anos finais
+DISTRITO FEDERAL;DF;;IDEB;2015;4.0;estadual;anos finais
+DISTRITO FEDERAL;DF;;IDEB;2017;4.3;estadual;anos finais
+DISTRITO FEDERAL;DF;;IDEB;2019;4.6;estadual;anos finais
+DISTRITO FEDERAL;DF;;IDEB;2021;4.9;estadual;anos finais
+DISTRITO FEDERAL;DF;;IDEB;2023;4.6;estadual;anos finais
+DISTRITO FEDERAL;DF;;SAEB;2005;4.7;estadual;anos finais
+DISTRITO FEDERAL;DF;;SAEB;2007;4.8;estadual;anos finais
+DISTRITO FEDERAL;DF;;SAEB;2009;4.9;estadual;anos finais
+DISTRITO FEDERAL;DF;;SAEB;2011;4.9;estadual;anos finais
+DISTRITO FEDERAL;DF;;SAEB;2013;4.8;estadual;anos finais
+DISTRITO FEDERAL;DF;;SAEB;2015;5.1;estadual;anos finais
+DISTRITO FEDERAL;DF;;SAEB;2017;5.2;estadual;anos finais
+DISTRITO FEDERAL;DF;;SAEB;2019;5.2;estadual;anos finais
+DISTRITO FEDERAL;DF;;SAEB;2021;5.2;estadual;anos finais
+DISTRITO FEDERAL;DF;;SAEB;2023;4.9;estadual;anos finais
+DISTRITO FEDERAL;DF;;IDEB;2005;3.0;estadual;ensino médio
+DISTRITO FEDERAL;DF;;IDEB;2007;3.2;estadual;ensino médio
+DISTRITO FEDERAL;DF;;IDEB;2009;3.2;estadual;ensino médio
+DISTRITO FEDERAL;DF;;IDEB;2011;3.1;estadual;ensino médio
+DISTRITO FEDERAL;DF;;IDEB;2013;3.3;estadual;ensino médio
+DISTRITO FEDERAL;DF;;IDEB;2015;3.5;estadual;ensino médio
+DISTRITO FEDERAL;DF;;IDEB;2017;3.4;estadual;ensino médio
+DISTRITO FEDERAL;DF;;IDEB;2019;4.0;estadual;ensino médio
+DISTRITO FEDERAL;DF;;IDEB;2021;4.0;estadual;ensino médio
+DISTRITO FEDERAL;DF;;IDEB;2023;3.7;estadual;ensino médio
+DISTRITO FEDERAL;DF;;SAEB;2005;4.6;estadual;ensino médio
+DISTRITO FEDERAL;DF;;SAEB;2007;4.9;estadual;ensino médio
+DISTRITO FEDERAL;DF;;SAEB;2009;4.3;estadual;ensino médio
+DISTRITO FEDERAL;DF;;SAEB;2011;4.5;estadual;ensino médio
+DISTRITO FEDERAL;DF;;SAEB;2013;4.3;estadual;ensino médio
+DISTRITO FEDERAL;DF;;SAEB;2015;4.4;estadual;ensino médio
+DISTRITO FEDERAL;DF;;SAEB;2017;4.3;estadual;ensino médio
+DISTRITO FEDERAL;DF;;SAEB;2019;4.8;estadual;ensino médio
+DISTRITO FEDERAL;DF;;SAEB;2021;4.7;estadual;ensino médio
+DISTRITO FEDERAL;DF;;SAEB;2023;4.4;estadual;ensino médio
+ESPIRITO SANTO;ES;17;IDEB;2005;3.7;estadual;ano iniciais
+ESPIRITO SANTO;ES;17;IDEB;2007;4.1;estadual;ano iniciais
+ESPIRITO SANTO;ES;17;IDEB;2009;5.0;estadual;ano iniciais
+ESPIRITO SANTO;ES;17;IDEB;2011;5.0;estadual;ano iniciais
+ESPIRITO SANTO;ES;17;IDEB;2013;5.3;estadual;ano iniciais
+ESPIRITO SANTO;ES;17;IDEB;2015;5.5;estadual;ano iniciais
+ESPIRITO SANTO;ES;17;IDEB;2017;5.9;estadual;ano iniciais
+ESPIRITO SANTO;ES;17;IDEB;2019;6.1;estadual;ano iniciais
+ESPIRITO SANTO;ES;17;IDEB;2021;6.0;estadual;ano iniciais
+ESPIRITO SANTO;ES;17;IDEB;2023;6.4;estadual;ano iniciais
+ESPIRITO SANTO;ES;17;SAEB;2005;4.8;estadual;ano iniciais
+ESPIRITO SANTO;ES;17;SAEB;2007;4.9;estadual;ano iniciais
+ESPIRITO SANTO;ES;17;SAEB;2009;5.4;estadual;ano iniciais
+ESPIRITO SANTO;ES;17;SAEB;2011;5.4;estadual;ano iniciais
+ESPIRITO SANTO;ES;17;SAEB;2013;5.6;estadual;ano iniciais
+ESPIRITO SANTO;ES;17;SAEB;2015;5.9;estadual;ano iniciais
+ESPIRITO SANTO;ES;17;SAEB;2017;6.2;estadual;ano iniciais
+ESPIRITO SANTO;ES;17;SAEB;2019;6.3;estadual;ano iniciais
+ESPIRITO SANTO;ES;17;SAEB;2021;6.2;estadual;ano iniciais
+ESPIRITO SANTO;ES;17;SAEB;2023;6.5;estadual;ano iniciais
+ESPIRITO SANTO;ES;17;IDEB;2005;3.5;estadual;anos finais
+ESPIRITO SANTO;ES;17;IDEB;2007;3.6;estadual;anos finais
+ESPIRITO SANTO;ES;17;IDEB;2009;3.8;estadual;anos finais
+ESPIRITO SANTO;ES;17;IDEB;2011;3.7;estadual;anos finais
+ESPIRITO SANTO;ES;17;IDEB;2013;4.0;estadual;anos finais
+ESPIRITO SANTO;ES;17;IDEB;2015;4.0;estadual;anos finais
+ESPIRITO SANTO;ES;17;IDEB;2017;4.4;estadual;anos finais
+ESPIRITO SANTO;ES;17;IDEB;2019;4.8;estadual;anos finais
+ESPIRITO SANTO;ES;17;IDEB;2021;4.8;estadual;anos finais
+ESPIRITO SANTO;ES;17;IDEB;2023;5.3;estadual;anos finais
+ESPIRITO SANTO;ES;17;SAEB;2005;4.6;estadual;anos finais
+ESPIRITO SANTO;ES;17;SAEB;2007;4.6;estadual;anos finais
+ESPIRITO SANTO;ES;17;SAEB;2009;4.8;estadual;anos finais
+ESPIRITO SANTO;ES;17;SAEB;2011;4.8;estadual;anos finais
+ESPIRITO SANTO;ES;17;SAEB;2013;4.9;estadual;anos finais
+ESPIRITO SANTO;ES;17;SAEB;2015;5.0;estadual;anos finais
+ESPIRITO SANTO;ES;17;SAEB;2017;5.3;estadual;anos finais
+ESPIRITO SANTO;ES;17;SAEB;2019;5.3;estadual;anos finais
+ESPIRITO SANTO;ES;17;SAEB;2021;5.1;estadual;anos finais
+ESPIRITO SANTO;ES;17;SAEB;2023;5.4;estadual;anos finais
+ESPIRITO SANTO;ES;17;IDEB;2005;3.1;estadual;ensino médio
+ESPIRITO SANTO;ES;17;IDEB;2007;3.2;estadual;ensino médio
+ESPIRITO SANTO;ES;17;IDEB;2009;3.4;estadual;ensino médio
+ESPIRITO SANTO;ES;17;IDEB;2011;3.3;estadual;ensino médio
+ESPIRITO SANTO;ES;17;IDEB;2013;3.4;estadual;ensino médio
+ESPIRITO SANTO;ES;17;IDEB;2015;3.7;estadual;ensino médio
+ESPIRITO SANTO;ES;17;IDEB;2017;4.1;estadual;ensino médio
+ESPIRITO SANTO;ES;17;IDEB;2019;4.6;estadual;ensino médio
+ESPIRITO SANTO;ES;17;IDEB;2021;4.4;estadual;ensino médio
+ESPIRITO SANTO;ES;17;IDEB;2023;4.7;estadual;ensino médio
+ESPIRITO SANTO;ES;17;SAEB;2005;4.3;estadual;ensino médio
+ESPIRITO SANTO;ES;17;SAEB;2007;4.1;estadual;ensino médio
+ESPIRITO SANTO;ES;17;SAEB;2009;4.7;estadual;ensino médio
+ESPIRITO SANTO;ES;17;SAEB;2011;4.4;estadual;ensino médio
+ESPIRITO SANTO;ES;17;SAEB;2013;4.3;estadual;ensino médio
+ESPIRITO SANTO;ES;17;SAEB;2015;4.5;estadual;ensino médio
+ESPIRITO SANTO;ES;17;SAEB;2017;4.8;estadual;ensino médio
+ESPIRITO SANTO;ES;17;SAEB;2019;5.0;estadual;ensino médio
+ESPIRITO SANTO;ES;17;SAEB;2021;4.8;estadual;ensino médio
+ESPIRITO SANTO;ES;17;SAEB;2023;4.9;estadual;ensino médio
+GOIAS;GO;6;IDEB;2005;3.9;estadual;ano iniciais
+GOIAS;GO;6;IDEB;2007;4.3;estadual;ano iniciais
+GOIAS;GO;6;IDEB;2009;4.9;estadual;ano iniciais
+GOIAS;GO;6;IDEB;2011;5.3;estadual;ano iniciais
+GOIAS;GO;6;IDEB;2013;6.0;estadual;ano iniciais
+GOIAS;GO;6;IDEB;2015;6.1;estadual;ano iniciais
+GOIAS;GO;6;IDEB;2017;6.6;estadual;ano iniciais
+GOIAS;GO;6;IDEB;2019;6.4;estadual;ano iniciais
+GOIAS;GO;6;IDEB;2021;6.1;estadual;ano iniciais
+GOIAS;GO;6;IDEB;2023;6.7;estadual;ano iniciais
+GOIAS;GO;6;SAEB;2005;4.4;estadual;ano iniciais
+GOIAS;GO;6;SAEB;2007;4.7;estadual;ano iniciais
+GOIAS;GO;6;SAEB;2009;5.3;estadual;ano iniciais
+GOIAS;GO;6;SAEB;2011;5.6;estadual;ano iniciais
+GOIAS;GO;6;SAEB;2013;6.1;estadual;ano iniciais
+GOIAS;GO;6;SAEB;2015;6.3;estadual;ano iniciais
+GOIAS;GO;6;SAEB;2017;6.7;estadual;ano iniciais
+GOIAS;GO;6;SAEB;2019;6.5;estadual;ano iniciais
+GOIAS;GO;6;SAEB;2021;6.1;estadual;ano iniciais
+GOIAS;GO;6;SAEB;2023;6.7;estadual;ano iniciais
+GOIAS;GO;6;IDEB;2005;3.3;estadual;anos finais
+GOIAS;GO;6;IDEB;2007;3.4;estadual;anos finais
+GOIAS;GO;6;IDEB;2009;3.6;estadual;anos finais
+GOIAS;GO;6;IDEB;2011;4.0;estadual;anos finais
+GOIAS;GO;6;IDEB;2013;4.5;estadual;anos finais
+GOIAS;GO;6;IDEB;2015;4.7;estadual;anos finais
+GOIAS;GO;6;IDEB;2017;5.2;estadual;anos finais
+GOIAS;GO;6;IDEB;2019;5.2;estadual;anos finais
+GOIAS;GO;6;IDEB;2021;5.3;estadual;anos finais
+GOIAS;GO;6;IDEB;2023;5.5;estadual;anos finais
+GOIAS;GO;6;SAEB;2005;4.2;estadual;anos finais
+GOIAS;GO;6;SAEB;2007;4.4;estadual;anos finais
+GOIAS;GO;6;SAEB;2009;4.5;estadual;anos finais
+GOIAS;GO;6;SAEB;2011;4.7;estadual;anos finais
+GOIAS;GO;6;SAEB;2013;5.0;estadual;anos finais
+GOIAS;GO;6;SAEB;2015;5.2;estadual;anos finais
+GOIAS;GO;6;SAEB;2017;5.5;estadual;anos finais
+GOIAS;GO;6;SAEB;2019;5.5;estadual;anos finais
+GOIAS;GO;6;SAEB;2021;5.3;estadual;anos finais
+GOIAS;GO;6;SAEB;2023;5.6;estadual;anos finais
+GOIAS;GO;6;IDEB;2005;2.9;estadual;ensino médio
+GOIAS;GO;6;IDEB;2007;2.8;estadual;ensino médio
+GOIAS;GO;6;IDEB;2009;3.1;estadual;ensino médio
+GOIAS;GO;6;IDEB;2011;3.6;estadual;ensino médio
+GOIAS;GO;6;IDEB;2013;3.8;estadual;ensino médio
+GOIAS;GO;6;IDEB;2015;3.8;estadual;ensino médio
+GOIAS;GO;6;IDEB;2017;4.3;estadual;ensino médio
+GOIAS;GO;6;IDEB;2019;4.7;estadual;ensino médio
+GOIAS;GO;6;IDEB;2021;4.5;estadual;ensino médio
+GOIAS;GO;6;IDEB;2023;4.8;estadual;ensino médio
+GOIAS;GO;6;SAEB;2005;3.9;estadual;ensino médio
+GOIAS;GO;6;SAEB;2007;3.9;estadual;ensino médio
+GOIAS;GO;6;SAEB;2009;4.2;estadual;ensino médio
+GOIAS;GO;6;SAEB;2011;4.4;estadual;ensino médio
+GOIAS;GO;6;SAEB;2013;4.3;estadual;ensino médio
+GOIAS;GO;6;SAEB;2015;4.4;estadual;ensino médio
+GOIAS;GO;6;SAEB;2017;4.6;estadual;ensino médio
+GOIAS;GO;6;SAEB;2019;4.9;estadual;ensino médio
+GOIAS;GO;6;SAEB;2021;4.6;estadual;ensino médio
+GOIAS;GO;6;SAEB;2023;4.9;estadual;ensino médio
+MARANHAO;MA;11;IDEB;2005;3.2;estadual;ano iniciais
+MARANHAO;MA;11;IDEB;2007;3.3;estadual;ano iniciais
+MARANHAO;MA;11;IDEB;2009;4.0;estadual;ano iniciais
+MARANHAO;MA;11;IDEB;2011;4.0;estadual;ano iniciais
+MARANHAO;MA;11;IDEB;2013;4.2;estadual;ano iniciais
+MARANHAO;MA;11;IDEB;2015;4.3;estadual;ano iniciais
+MARANHAO;MA;11;IDEB;2017;4.1;estadual;ano iniciais
+MARANHAO;MA;11;IDEB;2019;3.9;estadual;ano iniciais
+MARANHAO;MA;11;IDEB;2021;4.1;estadual;ano iniciais
+MARANHAO;MA;11;IDEB;2023;4.1;estadual;ano iniciais
+MARANHAO;MA;11;SAEB;2005;4.1;estadual;ano iniciais
+MARANHAO;MA;11;SAEB;2007;4.4;estadual;ano iniciais
+MARANHAO;MA;11;SAEB;2009;4.5;estadual;ano iniciais
+MARANHAO;MA;11;SAEB;2011;4.6;estadual;ano iniciais
+MARANHAO;MA;11;SAEB;2013;4.8;estadual;ano iniciais
+MARANHAO;MA;11;SAEB;2015;5.2;estadual;ano iniciais
+MARANHAO;MA;11;SAEB;2017;5.3;estadual;ano iniciais
+MARANHAO;MA;11;SAEB;2019;4.7;estadual;ano iniciais
+MARANHAO;MA;11;SAEB;2021;4.7;estadual;ano iniciais
+MARANHAO;MA;11;SAEB;2023;4.8;estadual;ano iniciais
+MARANHAO;MA;11;IDEB;2005;3.2;estadual;anos finais
+MARANHAO;MA;11;IDEB;2007;3.4;estadual;anos finais
+MARANHAO;MA;11;IDEB;2009;3.6;estadual;anos finais
+MARANHAO;MA;11;IDEB;2011;3.6;estadual;anos finais
+MARANHAO;MA;11;IDEB;2013;3.8;estadual;anos finais
+MARANHAO;MA;11;IDEB;2015;3.8;estadual;anos finais
+MARANHAO;MA;11;IDEB;2017;4.2;estadual;anos finais
+MARANHAO;MA;11;IDEB;2019;4.5;estadual;anos finais
+MARANHAO;MA;11;IDEB;2021;4.6;estadual;anos finais
+MARANHAO;MA;11;IDEB;2023;4.8;estadual;anos finais
+MARANHAO;MA;11;SAEB;2005;4.0;estadual;anos finais
+MARANHAO;MA;11;SAEB;2007;4.1;estadual;anos finais
+MARANHAO;MA;11;SAEB;2009;4.3;estadual;anos finais
+MARANHAO;MA;11;SAEB;2011;4.3;estadual;anos finais
+MARANHAO;MA;11;SAEB;2013;4.4;estadual;anos finais
+MARANHAO;MA;11;SAEB;2015;4.6;estadual;anos finais
+MARANHAO;MA;11;SAEB;2017;4.9;estadual;anos finais
+MARANHAO;MA;11;SAEB;2019;4.9;estadual;anos finais
+MARANHAO;MA;11;SAEB;2021;5.0;estadual;anos finais
+MARANHAO;MA;11;SAEB;2023;5.2;estadual;anos finais
+MARANHAO;MA;11;IDEB;2005;2.4;estadual;ensino médio
+MARANHAO;MA;11;IDEB;2007;2.8;estadual;ensino médio
+MARANHAO;MA;11;IDEB;2009;3.0;estadual;ensino médio
+MARANHAO;MA;11;IDEB;2011;3.0;estadual;ensino médio
+MARANHAO;MA;11;IDEB;2013;2.8;estadual;ensino médio
+MARANHAO;MA;11;IDEB;2015;3.1;estadual;ensino médio
+MARANHAO;MA;11;IDEB;2017;3.4;estadual;ensino médio
+MARANHAO;MA;11;IDEB;2019;3.7;estadual;ensino médio
+MARANHAO;MA;11;IDEB;2021;3.5;estadual;ensino médio
+MARANHAO;MA;11;IDEB;2023;3.7;estadual;ensino médio
+MARANHAO;MA;11;SAEB;2005;3.3;estadual;ensino médio
+MARANHAO;MA;11;SAEB;2007;3.6;estadual;ensino médio
+MARANHAO;MA;11;SAEB;2009;3.7;estadual;ensino médio
+MARANHAO;MA;11;SAEB;2011;3.8;estadual;ensino médio
+MARANHAO;MA;11;SAEB;2013;3.6;estadual;ensino médio
+MARANHAO;MA;11;SAEB;2015;3.8;estadual;ensino médio
+MARANHAO;MA;11;SAEB;2017;3.9;estadual;ensino médio
+MARANHAO;MA;11;SAEB;2019;4.0;estadual;ensino médio
+MARANHAO;MA;11;SAEB;2021;3.9;estadual;ensino médio
+MARANHAO;MA;11;SAEB;2023;4.0;estadual;ensino médio
+MINAS GERAIS;MG;4;IDEB;2005;4.9;estadual;ano iniciais
+MINAS GERAIS;MG;4;IDEB;2007;4.9;estadual;ano iniciais
+MINAS GERAIS;MG;4;IDEB;2009;5.8;estadual;ano iniciais
+MINAS GERAIS;MG;4;IDEB;2011;6.0;estadual;ano iniciais
+MINAS GERAIS;MG;4;IDEB;2013;6.2;estadual;ano iniciais
+MINAS GERAIS;MG;4;IDEB;2015;6.3;estadual;ano iniciais
+MINAS GERAIS;MG;4;IDEB;2017;6.5;estadual;ano iniciais
+MINAS GERAIS;MG;4;IDEB;2019;6.5;estadual;ano iniciais
+MINAS GERAIS;MG;4;IDEB;2021;6.0;estadual;ano iniciais
+MINAS GERAIS;MG;4;IDEB;2023;6.2;estadual;ano iniciais
+MINAS GERAIS;MG;4;SAEB;2005;5.3;estadual;ano iniciais
+MINAS GERAIS;MG;4;SAEB;2007;5.2;estadual;ano iniciais
+MINAS GERAIS;MG;4;SAEB;2009;6.0;estadual;ano iniciais
+MINAS GERAIS;MG;4;SAEB;2011;6.1;estadual;ano iniciais
+MINAS GERAIS;MG;4;SAEB;2013;6.2;estadual;ano iniciais
+MINAS GERAIS;MG;4;SAEB;2015;6.4;estadual;ano iniciais
+MINAS GERAIS;MG;4;SAEB;2017;6.5;estadual;ano iniciais
+MINAS GERAIS;MG;4;SAEB;2019;6.5;estadual;ano iniciais
+MINAS GERAIS;MG;4;SAEB;2021;6.0;estadual;ano iniciais
+MINAS GERAIS;MG;4;SAEB;2023;6.3;estadual;ano iniciais
+MINAS GERAIS;MG;4;IDEB;2005;3.6;estadual;anos finais
+MINAS GERAIS;MG;4;IDEB;2007;3.7;estadual;anos finais
+MINAS GERAIS;MG;4;IDEB;2009;4.1;estadual;anos finais
+MINAS GERAIS;MG;4;IDEB;2011;4.4;estadual;anos finais
+MINAS GERAIS;MG;4;IDEB;2013;4.7;estadual;anos finais
+MINAS GERAIS;MG;4;IDEB;2015;4.5;estadual;anos finais
+MINAS GERAIS;MG;4;IDEB;2017;4.4;estadual;anos finais
+MINAS GERAIS;MG;4;IDEB;2019;4.6;estadual;anos finais
+MINAS GERAIS;MG;4;IDEB;2021;5.0;estadual;anos finais
+MINAS GERAIS;MG;4;IDEB;2023;4.6;estadual;anos finais
+MINAS GERAIS;MG;4;SAEB;2005;4.8;estadual;anos finais
+MINAS GERAIS;MG;4;SAEB;2007;4.8;estadual;anos finais
+MINAS GERAIS;MG;4;SAEB;2009;5.2;estadual;anos finais
+MINAS GERAIS;MG;4;SAEB;2011;5.3;estadual;anos finais
+MINAS GERAIS;MG;4;SAEB;2013;5.2;estadual;anos finais
+MINAS GERAIS;MG;4;SAEB;2015;5.2;estadual;anos finais
+MINAS GERAIS;MG;4;SAEB;2017;5.2;estadual;anos finais
+MINAS GERAIS;MG;4;SAEB;2019;5.3;estadual;anos finais
+MINAS GERAIS;MG;4;SAEB;2021;5.2;estadual;anos finais
+MINAS GERAIS;MG;4;SAEB;2023;5.0;estadual;anos finais
+MINAS GERAIS;MG;4;IDEB;2005;3.4;estadual;ensino médio
+MINAS GERAIS;MG;4;IDEB;2007;3.5;estadual;ensino médio
+MINAS GERAIS;MG;4;IDEB;2009;3.6;estadual;ensino médio
+MINAS GERAIS;MG;4;IDEB;2011;3.7;estadual;ensino médio
+MINAS GERAIS;MG;4;IDEB;2013;3.6;estadual;ensino médio
+MINAS GERAIS;MG;4;IDEB;2015;3.5;estadual;ensino médio
+MINAS GERAIS;MG;4;IDEB;2017;3.6;estadual;ensino médio
+MINAS GERAIS;MG;4;IDEB;2019;4.0;estadual;ensino médio
+MINAS GERAIS;MG;4;IDEB;2021;4.0;estadual;ensino médio
+MINAS GERAIS;MG;4;IDEB;2023;4.0;estadual;ensino médio
+MINAS GERAIS;MG;4;SAEB;2005;4.5;estadual;ensino médio
+MINAS GERAIS;MG;4;SAEB;2007;4.7;estadual;ensino médio
+MINAS GERAIS;MG;4;SAEB;2009;4.6;estadual;ensino médio
+MINAS GERAIS;MG;4;SAEB;2011;4.7;estadual;ensino médio
+MINAS GERAIS;MG;4;SAEB;2013;4.4;estadual;ensino médio
+MINAS GERAIS;MG;4;SAEB;2015;4.4;estadual;ensino médio
+MINAS GERAIS;MG;4;SAEB;2017;4.5;estadual;ensino médio
+MINAS GERAIS;MG;4;SAEB;2019;4.8;estadual;ensino médio
+MINAS GERAIS;MG;4;SAEB;2021;4.6;estadual;ensino médio
+MINAS GERAIS;MG;4;SAEB;2023;4.6;estadual;ensino médio
+MATO GROSSO DO SUL;MS;12;IDEB;2005;3.2;estadual;ano iniciais
+MATO GROSSO DO SUL;MS;12;IDEB;2007;4.0;estadual;ano iniciais
+MATO GROSSO DO SUL;MS;12;IDEB;2009;4.4;estadual;ano iniciais
+MATO GROSSO DO SUL;MS;12;IDEB;2011;4.9;estadual;ano iniciais
+MATO GROSSO DO SUL;MS;12;IDEB;2013;5.1;estadual;ano iniciais
+MATO GROSSO DO SUL;MS;12;IDEB;2015;5.4;estadual;ano iniciais
+MATO GROSSO DO SUL;MS;12;IDEB;2017;5.6;estadual;ano iniciais
+MATO GROSSO DO SUL;MS;12;IDEB;2019;5.7;estadual;ano iniciais
+MATO GROSSO DO SUL;MS;12;IDEB;2021;5.2;estadual;ano iniciais
+MATO GROSSO DO SUL;MS;12;IDEB;2023;5.4;estadual;ano iniciais
+MATO GROSSO DO SUL;MS;12;SAEB;2005;4.4;estadual;ano iniciais
+MATO GROSSO DO SUL;MS;12;SAEB;2007;4.8;estadual;ano iniciais
+MATO GROSSO DO SUL;MS;12;SAEB;2009;5.3;estadual;ano iniciais
+MATO GROSSO DO SUL;MS;12;SAEB;2011;5.8;estadual;ano iniciais
+MATO GROSSO DO SUL;MS;12;SAEB;2013;5.8;estadual;ano iniciais
+MATO GROSSO DO SUL;MS;12;SAEB;2015;6.0;estadual;ano iniciais
+MATO GROSSO DO SUL;MS;12;SAEB;2017;6.2;estadual;ano iniciais
+MATO GROSSO DO SUL;MS;12;SAEB;2019;6.1;estadual;ano iniciais
+MATO GROSSO DO SUL;MS;12;SAEB;2021;5.5;estadual;ano iniciais
+MATO GROSSO DO SUL;MS;12;SAEB;2023;5.7;estadual;ano iniciais
+MATO GROSSO DO SUL;MS;12;IDEB;2005;2.9;estadual;anos finais
+MATO GROSSO DO SUL;MS;12;IDEB;2007;3.5;estadual;anos finais
+MATO GROSSO DO SUL;MS;12;IDEB;2009;3.6;estadual;anos finais
+MATO GROSSO DO SUL;MS;12;IDEB;2011;3.5;estadual;anos finais
+MATO GROSSO DO SUL;MS;12;IDEB;2013;3.7;estadual;anos finais
+MATO GROSSO DO SUL;MS;12;IDEB;2015;4.1;estadual;anos finais
+MATO GROSSO DO SUL;MS;12;IDEB;2017;4.6;estadual;anos finais
+MATO GROSSO DO SUL;MS;12;IDEB;2019;4.6;estadual;anos finais
+MATO GROSSO DO SUL;MS;12;IDEB;2021;4.7;estadual;anos finais
+MATO GROSSO DO SUL;MS;12;IDEB;2023;4.6;estadual;anos finais
+MATO GROSSO DO SUL;MS;12;SAEB;2005;4.5;estadual;anos finais
+MATO GROSSO DO SUL;MS;12;SAEB;2007;4.8;estadual;anos finais
+MATO GROSSO DO SUL;MS;12;SAEB;2009;5.0;estadual;anos finais
+MATO GROSSO DO SUL;MS;12;SAEB;2011;5.0;estadual;anos finais
+MATO GROSSO DO SUL;MS;12;SAEB;2013;5.0;estadual;anos finais
+MATO GROSSO DO SUL;MS;12;SAEB;2015;5.4;estadual;anos finais
+MATO GROSSO DO SUL;MS;12;SAEB;2017;5.4;estadual;anos finais
+MATO GROSSO DO SUL;MS;12;SAEB;2019;5.2;estadual;anos finais
+MATO GROSSO DO SUL;MS;12;SAEB;2021;5.0;estadual;anos finais
+MATO GROSSO DO SUL;MS;12;SAEB;2023;4.9;estadual;anos finais
+MATO GROSSO DO SUL;MS;12;IDEB;2005;2.8;estadual;ensino médio
+MATO GROSSO DO SUL;MS;12;IDEB;2007;3.4;estadual;ensino médio
+MATO GROSSO DO SUL;MS;12;IDEB;2009;3.5;estadual;ensino médio
+MATO GROSSO DO SUL;MS;12;IDEB;2011;3.5;estadual;ensino médio
+MATO GROSSO DO SUL;MS;12;IDEB;2013;3.4;estadual;ensino médio
+MATO GROSSO DO SUL;MS;12;IDEB;2015;3.5;estadual;ensino médio
+MATO GROSSO DO SUL;MS;12;IDEB;2017;3.6;estadual;ensino médio
+MATO GROSSO DO SUL;MS;12;IDEB;2019;4.1;estadual;ensino médio
+MATO GROSSO DO SUL;MS;12;IDEB;2021;3.7;estadual;ensino médio
+MATO GROSSO DO SUL;MS;12;IDEB;2023;3.8;estadual;ensino médio
+MATO GROSSO DO SUL;MS;12;SAEB;2005;4.4;estadual;ensino médio
+MATO GROSSO DO SUL;MS;12;SAEB;2007;4.5;estadual;ensino médio
+MATO GROSSO DO SUL;MS;12;SAEB;2009;4.8;estadual;ensino médio
+MATO GROSSO DO SUL;MS;12;SAEB;2011;4.9;estadual;ensino médio
+MATO GROSSO DO SUL;MS;12;SAEB;2013;4.5;estadual;ensino médio
+MATO GROSSO DO SUL;MS;12;SAEB;2015;4.6;estadual;ensino médio
+MATO GROSSO DO SUL;MS;12;SAEB;2017;4.4;estadual;ensino médio
+MATO GROSSO DO SUL;MS;12;SAEB;2019;4.8;estadual;ensino médio
+MATO GROSSO DO SUL;MS;12;SAEB;2021;4.5;estadual;ensino médio
+MATO GROSSO DO SUL;MS;12;SAEB;2023;4.5;estadual;ensino médio
+MATO GROSSO;MT;18;IDEB;2005;3.6;estadual;ano iniciais
+MATO GROSSO;MT;18;IDEB;2007;4.4;estadual;ano iniciais
+MATO GROSSO;MT;18;IDEB;2009;4.9;estadual;ano iniciais
+MATO GROSSO;MT;18;IDEB;2011;5.1;estadual;ano iniciais
+MATO GROSSO;MT;18;IDEB;2013;5.1;estadual;ano iniciais
+MATO GROSSO;MT;18;IDEB;2015;5.6;estadual;ano iniciais
+MATO GROSSO;MT;18;IDEB;2017;5.8;estadual;ano iniciais
+MATO GROSSO;MT;18;IDEB;2019;5.6;estadual;ano iniciais
+MATO GROSSO;MT;18;IDEB;2021;5.5;estadual;ano iniciais
+MATO GROSSO;MT;18;IDEB;2023;5.7;estadual;ano iniciais
+MATO GROSSO;MT;18;SAEB;2005;4.3;estadual;ano iniciais
+MATO GROSSO;MT;18;SAEB;2007;4.8;estadual;ano iniciais
+MATO GROSSO;MT;18;SAEB;2009;5.1;estadual;ano iniciais
+MATO GROSSO;MT;18;SAEB;2011;5.1;estadual;ano iniciais
+MATO GROSSO;MT;18;SAEB;2013;5.2;estadual;ano iniciais
+MATO GROSSO;MT;18;SAEB;2015;5.6;estadual;ano iniciais
+MATO GROSSO;MT;18;SAEB;2017;5.8;estadual;ano iniciais
+MATO GROSSO;MT;18;SAEB;2019;5.8;estadual;ano iniciais
+MATO GROSSO;MT;18;SAEB;2021;5.6;estadual;ano iniciais
+MATO GROSSO;MT;18;SAEB;2023;5.7;estadual;ano iniciais
+MATO GROSSO;MT;18;IDEB;2005;2.9;estadual;anos finais
+MATO GROSSO;MT;18;IDEB;2007;3.6;estadual;anos finais
+MATO GROSSO;MT;18;IDEB;2009;4.2;estadual;anos finais
+MATO GROSSO;MT;18;IDEB;2011;4.3;estadual;anos finais
+MATO GROSSO;MT;18;IDEB;2013;4.2;estadual;anos finais
+MATO GROSSO;MT;18;IDEB;2015;4.5;estadual;anos finais
+MATO GROSSO;MT;18;IDEB;2017;4.6;estadual;anos finais
+MATO GROSSO;MT;18;IDEB;2019;4.5;estadual;anos finais
+MATO GROSSO;MT;18;IDEB;2021;4.7;estadual;anos finais
+MATO GROSSO;MT;18;IDEB;2023;4.8;estadual;anos finais
+MATO GROSSO;MT;18;SAEB;2005;4.2;estadual;anos finais
+MATO GROSSO;MT;18;SAEB;2007;4.4;estadual;anos finais
+MATO GROSSO;MT;18;SAEB;2009;4.7;estadual;anos finais
+MATO GROSSO;MT;18;SAEB;2011;4.5;estadual;anos finais
+MATO GROSSO;MT;18;SAEB;2013;4.4;estadual;anos finais
+MATO GROSSO;MT;18;SAEB;2015;4.7;estadual;anos finais
+MATO GROSSO;MT;18;SAEB;2017;4.8;estadual;anos finais
+MATO GROSSO;MT;18;SAEB;2019;4.9;estadual;anos finais
+MATO GROSSO;MT;18;SAEB;2021;4.9;estadual;anos finais
+MATO GROSSO;MT;18;SAEB;2023;4.8;estadual;anos finais
+MATO GROSSO;MT;18;IDEB;2005;2.6;estadual;ensino médio
+MATO GROSSO;MT;18;IDEB;2007;3.0;estadual;ensino médio
+MATO GROSSO;MT;18;IDEB;2009;2.9;estadual;ensino médio
+MATO GROSSO;MT;18;IDEB;2011;3.1;estadual;ensino médio
+MATO GROSSO;MT;18;IDEB;2013;2.7;estadual;ensino médio
+MATO GROSSO;MT;18;IDEB;2015;3.0;estadual;ensino médio
+MATO GROSSO;MT;18;IDEB;2017;3.2;estadual;ensino médio
+MATO GROSSO;MT;18;IDEB;2019;3.4;estadual;ensino médio
+MATO GROSSO;MT;18;IDEB;2021;3.6;estadual;ensino médio
+MATO GROSSO;MT;18;IDEB;2023;4.2;estadual;ensino médio
+MATO GROSSO;MT;18;SAEB;2005;4.0;estadual;ensino médio
+MATO GROSSO;MT;18;SAEB;2007;4.0;estadual;ensino médio
+MATO GROSSO;MT;18;SAEB;2009;4.1;estadual;ensino médio
+MATO GROSSO;MT;18;SAEB;2011;4.2;estadual;ensino médio
+MATO GROSSO;MT;18;SAEB;2013;4.0;estadual;ensino médio
+MATO GROSSO;MT;18;SAEB;2015;4.2;estadual;ensino médio
+MATO GROSSO;MT;18;SAEB;2017;4.2;estadual;ensino médio
+MATO GROSSO;MT;18;SAEB;2019;4.4;estadual;ensino médio
+MATO GROSSO;MT;18;SAEB;2021;4.3;estadual;ensino médio
+MATO GROSSO;MT;18;SAEB;2023;4.3;estadual;ensino médio
+PARA;PA;5;IDEB;2005;2.8;estadual;ano iniciais
+PARA;PA;5;IDEB;2007;2.8;estadual;ano iniciais
+PARA;PA;5;IDEB;2009;3.7;estadual;ano iniciais
+PARA;PA;5;IDEB;2011;4.0;estadual;ano iniciais
+PARA;PA;5;IDEB;2013;3.6;estadual;ano iniciais
+PARA;PA;5;IDEB;2015;4.2;estadual;ano iniciais
+PARA;PA;5;IDEB;2017;4.5;estadual;ano iniciais
+PARA;PA;5;IDEB;2019;5.0;estadual;ano iniciais
+PARA;PA;5;IDEB;2021;5.0;estadual;ano iniciais
+PARA;PA;5;IDEB;2023;5.7;estadual;ano iniciais
+PARA;PA;5;SAEB;2005;4.0;estadual;ano iniciais
+PARA;PA;5;SAEB;2007;4.2;estadual;ano iniciais
+PARA;PA;5;SAEB;2009;4.5;estadual;ano iniciais
+PARA;PA;5;SAEB;2011;4.5;estadual;ano iniciais
+PARA;PA;5;SAEB;2013;4.2;estadual;ano iniciais
+PARA;PA;5;SAEB;2015;4.9;estadual;ano iniciais
+PARA;PA;5;SAEB;2017;5.1;estadual;ano iniciais
+PARA;PA;5;SAEB;2019;5.4;estadual;ano iniciais
+PARA;PA;5;SAEB;2021;5.4;estadual;ano iniciais
+PARA;PA;5;SAEB;2023;5.7;estadual;ano iniciais
+PARA;PA;5;IDEB;2005;3.1;estadual;anos finais
+PARA;PA;5;IDEB;2007;2.9;estadual;anos finais
+PARA;PA;5;IDEB;2009;3.1;estadual;anos finais
+PARA;PA;5;IDEB;2011;3.1;estadual;anos finais
+PARA;PA;5;IDEB;2013;3.0;estadual;anos finais
+PARA;PA;5;IDEB;2015;3.2;estadual;anos finais
+PARA;PA;5;IDEB;2017;3.3;estadual;anos finais
+PARA;PA;5;IDEB;2019;3.8;estadual;anos finais
+PARA;PA;5;IDEB;2021;4.0;estadual;anos finais
+PARA;PA;5;IDEB;2023;4.8;estadual;anos finais
+PARA;PA;5;SAEB;2005;4.2;estadual;anos finais
+PARA;PA;5;SAEB;2007;4.2;estadual;anos finais
+PARA;PA;5;SAEB;2009;4.3;estadual;anos finais
+PARA;PA;5;SAEB;2011;4.3;estadual;anos finais
+PARA;PA;5;SAEB;2013;4.3;estadual;anos finais
+PARA;PA;5;SAEB;2015;4.4;estadual;anos finais
+PARA;PA;5;SAEB;2017;4.3;estadual;anos finais
+PARA;PA;5;SAEB;2019;4.5;estadual;anos finais
+PARA;PA;5;SAEB;2021;4.7;estadual;anos finais
+PARA;PA;5;SAEB;2023;4.8;estadual;anos finais
+PARA;PA;5;IDEB;2005;2.6;estadual;ensino médio
+PARA;PA;5;IDEB;2007;2.3;estadual;ensino médio
+PARA;PA;5;IDEB;2009;3.0;estadual;ensino médio
+PARA;PA;5;IDEB;2011;2.8;estadual;ensino médio
+PARA;PA;5;IDEB;2013;2.7;estadual;ensino médio
+PARA;PA;5;IDEB;2015;3.0;estadual;ensino médio
+PARA;PA;5;IDEB;2017;2.8;estadual;ensino médio
+PARA;PA;5;IDEB;2019;3.2;estadual;ensino médio
+PARA;PA;5;IDEB;2021;3.0;estadual;ensino médio
+PARA;PA;5;IDEB;2023;4.3;estadual;ensino médio
+PARA;PA;5;SAEB;2005;3.6;estadual;ensino médio
+PARA;PA;5;SAEB;2007;3.7;estadual;ensino médio
+PARA;PA;5;SAEB;2009;4.1;estadual;ensino médio
+PARA;PA;5;SAEB;2011;3.7;estadual;ensino médio
+PARA;PA;5;SAEB;2013;3.6;estadual;ensino médio
+PARA;PA;5;SAEB;2015;4.0;estadual;ensino médio
+PARA;PA;5;SAEB;2017;3.6;estadual;ensino médio
+PARA;PA;5;SAEB;2019;3.9;estadual;ensino médio
+PARA;PA;5;SAEB;2021;4.0;estadual;ensino médio
+PARA;PA;5;SAEB;2023;4.3;estadual;ensino médio
+PARAIBA;PB;14;IDEB;2005;3.0;estadual;ano iniciais
+PARAIBA;PB;14;IDEB;2007;3.5;estadual;ano iniciais
+PARAIBA;PB;14;IDEB;2009;3.7;estadual;ano iniciais
+PARAIBA;PB;14;IDEB;2011;4.0;estadual;ano iniciais
+PARAIBA;PB;14;IDEB;2013;4.2;estadual;ano iniciais
+PARAIBA;PB;14;IDEB;2015;4.4;estadual;ano iniciais
+PARAIBA;PB;14;IDEB;2017;4.7;estadual;ano iniciais
+PARAIBA;PB;14;IDEB;2019;4.9;estadual;ano iniciais
+PARAIBA;PB;14;IDEB;2021;5.1;estadual;ano iniciais
+PARAIBA;PB;14;IDEB;2023;5.2;estadual;ano iniciais
+PARAIBA;PB;14;SAEB;2005;4.0;estadual;ano iniciais
+PARAIBA;PB;14;SAEB;2007;4.4;estadual;ano iniciais
+PARAIBA;PB;14;SAEB;2009;4.6;estadual;ano iniciais
+PARAIBA;PB;14;SAEB;2011;4.7;estadual;ano iniciais
+PARAIBA;PB;14;SAEB;2013;4.7;estadual;ano iniciais
+PARAIBA;PB;14;SAEB;2015;5.0;estadual;ano iniciais
+PARAIBA;PB;14;SAEB;2017;5.2;estadual;ano iniciais
+PARAIBA;PB;14;SAEB;2019;5.4;estadual;ano iniciais
+PARAIBA;PB;14;SAEB;2021;5.2;estadual;ano iniciais
+PARAIBA;PB;14;SAEB;2023;5.4;estadual;ano iniciais
+PARAIBA;PB;14;IDEB;2005;2.5;estadual;anos finais
+PARAIBA;PB;14;IDEB;2007;2.8;estadual;anos finais
+PARAIBA;PB;14;IDEB;2009;2.8;estadual;anos finais
+PARAIBA;PB;14;IDEB;2011;2.9;estadual;anos finais
+PARAIBA;PB;14;IDEB;2013;3.0;estadual;anos finais
+PARAIBA;PB;14;IDEB;2015;3.3;estadual;anos finais
+PARAIBA;PB;14;IDEB;2017;3.4;estadual;anos finais
+PARAIBA;PB;14;IDEB;2019;3.8;estadual;anos finais
+PARAIBA;PB;14;IDEB;2021;4.6;estadual;anos finais
+PARAIBA;PB;14;IDEB;2023;3.9;estadual;anos finais
+PARAIBA;PB;14;SAEB;2005;3.9;estadual;anos finais
+PARAIBA;PB;14;SAEB;2007;4.1;estadual;anos finais
+PARAIBA;PB;14;SAEB;2009;4.2;estadual;anos finais
+PARAIBA;PB;14;SAEB;2011;4.2;estadual;anos finais
+PARAIBA;PB;14;SAEB;2013;4.2;estadual;anos finais
+PARAIBA;PB;14;SAEB;2015;4.4;estadual;anos finais
+PARAIBA;PB;14;SAEB;2017;4.5;estadual;anos finais
+PARAIBA;PB;14;SAEB;2019;4.9;estadual;anos finais
+PARAIBA;PB;14;SAEB;2021;4.7;estadual;anos finais
+PARAIBA;PB;14;SAEB;2023;4.7;estadual;anos finais
+PARAIBA;PB;14;IDEB;2005;2.6;estadual;ensino médio
+PARAIBA;PB;14;IDEB;2007;2.9;estadual;ensino médio
+PARAIBA;PB;14;IDEB;2009;3.0;estadual;ensino médio
+PARAIBA;PB;14;IDEB;2011;2.9;estadual;ensino médio
+PARAIBA;PB;14;IDEB;2013;3.0;estadual;ensino médio
+PARAIBA;PB;14;IDEB;2015;3.1;estadual;ensino médio
+PARAIBA;PB;14;IDEB;2017;3.1;estadual;ensino médio
+PARAIBA;PB;14;IDEB;2019;3.6;estadual;ensino médio
+PARAIBA;PB;14;IDEB;2021;3.9;estadual;ensino médio
+PARAIBA;PB;14;IDEB;2023;3.6;estadual;ensino médio
+PARAIBA;PB;14;SAEB;2005;3.5;estadual;ensino médio
+PARAIBA;PB;14;SAEB;2007;3.8;estadual;ensino médio
+PARAIBA;PB;14;SAEB;2009;4.0;estadual;ensino médio
+PARAIBA;PB;14;SAEB;2011;3.9;estadual;ensino médio
+PARAIBA;PB;14;SAEB;2013;3.8;estadual;ensino médio
+PARAIBA;PB;14;SAEB;2015;3.9;estadual;ensino médio
+PARAIBA;PB;14;SAEB;2017;3.9;estadual;ensino médio
+PARAIBA;PB;14;SAEB;2019;4.3;estadual;ensino médio
+PARAIBA;PB;14;SAEB;2021;4.1;estadual;ensino médio
+PARAIBA;PB;14;SAEB;2023;4.3;estadual;ensino médio
+PERNAMBUCO;PE;13;IDEB;2005;3.1;estadual;ano iniciais
+PERNAMBUCO;PE;13;IDEB;2007;3.5;estadual;ano iniciais
+PERNAMBUCO;PE;13;IDEB;2009;3.9;estadual;ano iniciais
+PERNAMBUCO;PE;13;IDEB;2011;4.2;estadual;ano iniciais
+PERNAMBUCO;PE;13;IDEB;2013;4.3;estadual;ano iniciais
+PERNAMBUCO;PE;13;IDEB;2015;4.7;estadual;ano iniciais
+PERNAMBUCO;PE;13;IDEB;2017;4.9;estadual;ano iniciais
+PERNAMBUCO;PE;13;IDEB;2019;5.0;estadual;ano iniciais
+PERNAMBUCO;PE;13;IDEB;2021;5.3;estadual;ano iniciais
+PERNAMBUCO;PE;13;IDEB;2023;6.2;estadual;ano iniciais
+PERNAMBUCO;PE;13;SAEB;2005;3.8;estadual;ano iniciais
+PERNAMBUCO;PE;13;SAEB;2007;4.3;estadual;ano iniciais
+PERNAMBUCO;PE;13;SAEB;2009;4.5;estadual;ano iniciais
+PERNAMBUCO;PE;13;SAEB;2011;4.8;estadual;ano iniciais
+PERNAMBUCO;PE;13;SAEB;2013;4.9;estadual;ano iniciais
+PERNAMBUCO;PE;13;SAEB;2015;5.4;estadual;ano iniciais
+PERNAMBUCO;PE;13;SAEB;2017;5.6;estadual;ano iniciais
+PERNAMBUCO;PE;13;SAEB;2019;5.9;estadual;ano iniciais
+PERNAMBUCO;PE;13;SAEB;2021;6.2;estadual;ano iniciais
+PERNAMBUCO;PE;13;SAEB;2023;6.9;estadual;ano iniciais
+PERNAMBUCO;PE;13;IDEB;2005;2.4;estadual;anos finais
+PERNAMBUCO;PE;13;IDEB;2007;2.5;estadual;anos finais
+PERNAMBUCO;PE;13;IDEB;2009;3.0;estadual;anos finais
+PERNAMBUCO;PE;13;IDEB;2011;3.3;estadual;anos finais
+PERNAMBUCO;PE;13;IDEB;2013;3.6;estadual;anos finais
+PERNAMBUCO;PE;13;IDEB;2015;4.1;estadual;anos finais
+PERNAMBUCO;PE;13;IDEB;2017;4.5;estadual;anos finais
+PERNAMBUCO;PE;13;IDEB;2019;4.7;estadual;anos finais
+PERNAMBUCO;PE;13;IDEB;2021;4.8;estadual;anos finais
+PERNAMBUCO;PE;13;IDEB;2023;4.9;estadual;anos finais
+PERNAMBUCO;PE;13;SAEB;2005;3.8;estadual;anos finais
+PERNAMBUCO;PE;13;SAEB;2007;3.9;estadual;anos finais
+PERNAMBUCO;PE;13;SAEB;2009;4.2;estadual;anos finais
+PERNAMBUCO;PE;13;SAEB;2011;4.3;estadual;anos finais
+PERNAMBUCO;PE;13;SAEB;2013;4.4;estadual;anos finais
+PERNAMBUCO;PE;13;SAEB;2015;4.8;estadual;anos finais
+PERNAMBUCO;PE;13;SAEB;2017;4.8;estadual;anos finais
+PERNAMBUCO;PE;13;SAEB;2019;5.1;estadual;anos finais
+PERNAMBUCO;PE;13;SAEB;2021;5.1;estadual;anos finais
+PERNAMBUCO;PE;13;SAEB;2023;5.1;estadual;anos finais
+PERNAMBUCO;PE;13;IDEB;2005;2.7;estadual;ensino médio
+PERNAMBUCO;PE;13;IDEB;2007;2.7;estadual;ensino médio
+PERNAMBUCO;PE;13;IDEB;2009;3.0;estadual;ensino médio
+PERNAMBUCO;PE;13;IDEB;2011;3.1;estadual;ensino médio
+PERNAMBUCO;PE;13;IDEB;2013;3.6;estadual;ensino médio
+PERNAMBUCO;PE;13;IDEB;2015;3.9;estadual;ensino médio
+PERNAMBUCO;PE;13;IDEB;2017;4.0;estadual;ensino médio
+PERNAMBUCO;PE;13;IDEB;2019;4.4;estadual;ensino médio
+PERNAMBUCO;PE;13;IDEB;2021;4.4;estadual;ensino médio
+PERNAMBUCO;PE;13;IDEB;2023;4.5;estadual;ensino médio
+PERNAMBUCO;PE;13;SAEB;2005;3.7;estadual;ensino médio
+PERNAMBUCO;PE;13;SAEB;2007;3.7;estadual;ensino médio
+PERNAMBUCO;PE;13;SAEB;2009;3.9;estadual;ensino médio
+PERNAMBUCO;PE;13;SAEB;2011;3.9;estadual;ensino médio
+PERNAMBUCO;PE;13;SAEB;2013;4.2;estadual;ensino médio
+PERNAMBUCO;PE;13;SAEB;2015;4.4;estadual;ensino médio
+PERNAMBUCO;PE;13;SAEB;2017;4.3;estadual;ensino médio
+PERNAMBUCO;PE;13;SAEB;2019;4.7;estadual;ensino médio
+PERNAMBUCO;PE;13;SAEB;2021;4.6;estadual;ensino médio
+PERNAMBUCO;PE;13;SAEB;2023;4.7;estadual;ensino médio
+PIAUI;PI;26;IDEB;2005;2.6;estadual;ano iniciais
+PIAUI;PI;26;IDEB;2007;3.2;estadual;ano iniciais
+PIAUI;PI;26;IDEB;2009;3.8;estadual;ano iniciais
+PIAUI;PI;26;IDEB;2011;4.1;estadual;ano iniciais
+PIAUI;PI;26;IDEB;2013;4.5;estadual;ano iniciais
+PIAUI;PI;26;IDEB;2015;4.6;estadual;ano iniciais
+PIAUI;PI;26;IDEB;2017;5.5;estadual;ano iniciais
+PIAUI;PI;26;IDEB;2019;6.0;estadual;ano iniciais
+PIAUI;PI;26;IDEB;2021;6.1;estadual;ano iniciais
+PIAUI;PI;26;IDEB;2023;6.4;estadual;ano iniciais
+PIAUI;PI;26;SAEB;2005;3.7;estadual;ano iniciais
+PIAUI;PI;26;SAEB;2007;4.3;estadual;ano iniciais
+PIAUI;PI;26;SAEB;2009;4.8;estadual;ano iniciais
+PIAUI;PI;26;SAEB;2011;4.9;estadual;ano iniciais
+PIAUI;PI;26;SAEB;2013;5.2;estadual;ano iniciais
+PIAUI;PI;26;SAEB;2015;5.5;estadual;ano iniciais
+PIAUI;PI;26;SAEB;2017;6.2;estadual;ano iniciais
+PIAUI;PI;26;SAEB;2019;6.4;estadual;ano iniciais
+PIAUI;PI;26;SAEB;2021;6.2;estadual;ano iniciais
+PIAUI;PI;26;SAEB;2023;6.5;estadual;ano iniciais
+PIAUI;PI;26;IDEB;2005;2.6;estadual;anos finais
+PIAUI;PI;26;IDEB;2007;3.1;estadual;anos finais
+PIAUI;PI;26;IDEB;2009;3.4;estadual;anos finais
+PIAUI;PI;26;IDEB;2011;3.6;estadual;anos finais
+PIAUI;PI;26;IDEB;2013;3.5;estadual;anos finais
+PIAUI;PI;26;IDEB;2015;3.8;estadual;anos finais
+PIAUI;PI;26;IDEB;2017;4.0;estadual;anos finais
+PIAUI;PI;26;IDEB;2019;4.3;estadual;anos finais
+PIAUI;PI;26;IDEB;2021;4.9;estadual;anos finais
+PIAUI;PI;26;IDEB;2023;5.2;estadual;anos finais
+PIAUI;PI;26;SAEB;2005;3.9;estadual;anos finais
+PIAUI;PI;26;SAEB;2007;4.2;estadual;anos finais
+PIAUI;PI;26;SAEB;2009;4.4;estadual;anos finais
+PIAUI;PI;26;SAEB;2011;4.5;estadual;anos finais
+PIAUI;PI;26;SAEB;2013;4.5;estadual;anos finais
+PIAUI;PI;26;SAEB;2015;4.7;estadual;anos finais
+PIAUI;PI;26;SAEB;2017;4.9;estadual;anos finais
+PIAUI;PI;26;SAEB;2019;5.0;estadual;anos finais
+PIAUI;PI;26;SAEB;2021;5.0;estadual;anos finais
+PIAUI;PI;26;SAEB;2023;5.3;estadual;anos finais
+PIAUI;PI;26;IDEB;2005;2.3;estadual;ensino médio
+PIAUI;PI;26;IDEB;2007;2.5;estadual;ensino médio
+PIAUI;PI;26;IDEB;2009;2.7;estadual;ensino médio
+PIAUI;PI;26;IDEB;2011;2.9;estadual;ensino médio
+PIAUI;PI;26;IDEB;2013;3.0;estadual;ensino médio
+PIAUI;PI;26;IDEB;2015;3.2;estadual;ensino médio
+PIAUI;PI;26;IDEB;2017;3.3;estadual;ensino médio
+PIAUI;PI;26;IDEB;2019;3.7;estadual;ensino médio
+PIAUI;PI;26;IDEB;2021;4.0;estadual;ensino médio
+PIAUI;PI;26;IDEB;2023;4.3;estadual;ensino médio
+PIAUI;PI;26;SAEB;2005;3.6;estadual;ensino médio
+PIAUI;PI;26;SAEB;2007;3.6;estadual;ensino médio
+PIAUI;PI;26;SAEB;2009;3.7;estadual;ensino médio
+PIAUI;PI;26;SAEB;2011;3.8;estadual;ensino médio
+PIAUI;PI;26;SAEB;2013;3.7;estadual;ensino médio
+PIAUI;PI;26;SAEB;2015;3.9;estadual;ensino médio
+PIAUI;PI;26;SAEB;2017;3.9;estadual;ensino médio
+PIAUI;PI;26;SAEB;2019;4.3;estadual;ensino médio
+PIAUI;PI;26;SAEB;2021;4.2;estadual;ensino médio
+PIAUI;PI;26;SAEB;2023;4.4;estadual;ensino médio
+PARANA;PR;1;IDEB;2005;5.0;estadual;ano iniciais
+PARANA;PR;1;IDEB;2007;5.2;estadual;ano iniciais
+PARANA;PR;1;IDEB;2009;5.2;estadual;ano iniciais
+PARANA;PR;1;IDEB;2011;5.2;estadual;ano iniciais
+PARANA;PR;1;IDEB;2013;6.2;estadual;ano iniciais
+PARANA;PR;1;IDEB;2015;6.2;estadual;ano iniciais
+PARANA;PR;1;IDEB;2017;6.3;estadual;ano iniciais
+PARANA;PR;1;IDEB;2019;6.8;estadual;ano iniciais
+PARANA;PR;1;IDEB;2021;7.1;estadual;ano iniciais
+PARANA;PR;1;IDEB;2023;7.1;estadual;ano iniciais
+PARANA;PR;1;SAEB;2005;5.5;estadual;ano iniciais
+PARANA;PR;1;SAEB;2007;5.5;estadual;ano iniciais
+PARANA;PR;1;SAEB;2009;5.7;estadual;ano iniciais
+PARANA;PR;1;SAEB;2011;5.9;estadual;ano iniciais
+PARANA;PR;1;SAEB;2013;7.0;estadual;ano iniciais
+PARANA;PR;1;SAEB;2015;7.0;estadual;ano iniciais
+PARANA;PR;1;SAEB;2017;7.1;estadual;ano iniciais
+PARANA;PR;1;SAEB;2019;7.6;estadual;ano iniciais
+PARANA;PR;1;SAEB;2021;7.3;estadual;ano iniciais
+PARANA;PR;1;SAEB;2023;7.4;estadual;ano iniciais
+PARANA;PR;1;IDEB;2005;3.3;estadual;anos finais
+PARANA;PR;1;IDEB;2007;4.0;estadual;anos finais
+PARANA;PR;1;IDEB;2009;4.1;estadual;anos finais
+PARANA;PR;1;IDEB;2011;4.0;estadual;anos finais
+PARANA;PR;1;IDEB;2013;4.1;estadual;anos finais
+PARANA;PR;1;IDEB;2015;4.3;estadual;anos finais
+PARANA;PR;1;IDEB;2017;4.6;estadual;anos finais
+PARANA;PR;1;IDEB;2019;5.1;estadual;anos finais
+PARANA;PR;1;IDEB;2021;5.2;estadual;anos finais
+PARANA;PR;1;IDEB;2023;5.4;estadual;anos finais
+PARANA;PR;1;SAEB;2005;4.4;estadual;anos finais
+PARANA;PR;1;SAEB;2007;4.8;estadual;anos finais
+PARANA;PR;1;SAEB;2009;5.0;estadual;anos finais
+PARANA;PR;1;SAEB;2011;4.9;estadual;anos finais
+PARANA;PR;1;SAEB;2013;4.9;estadual;anos finais
+PARANA;PR;1;SAEB;2015;5.1;estadual;anos finais
+PARANA;PR;1;SAEB;2017;5.4;estadual;anos finais
+PARANA;PR;1;SAEB;2019;5.5;estadual;anos finais
+PARANA;PR;1;SAEB;2021;5.4;estadual;anos finais
+PARANA;PR;1;SAEB;2023;5.5;estadual;anos finais
+PARANA;PR;1;IDEB;2005;3.3;estadual;ensino médio
+PARANA;PR;1;IDEB;2007;3.7;estadual;ensino médio
+PARANA;PR;1;IDEB;2009;3.9;estadual;ensino médio
+PARANA;PR;1;IDEB;2011;3.7;estadual;ensino médio
+PARANA;PR;1;IDEB;2013;3.4;estadual;ensino médio
+PARANA;PR;1;IDEB;2015;3.6;estadual;ensino médio
+PARANA;PR;1;IDEB;2017;3.7;estadual;ensino médio
+PARANA;PR;1;IDEB;2019;4.4;estadual;ensino médio
+PARANA;PR;1;IDEB;2021;4.6;estadual;ensino médio
+PARANA;PR;1;IDEB;2023;4.7;estadual;ensino médio
+PARANA;PR;1;SAEB;2005;4.4;estadual;ensino médio
+PARANA;PR;1;SAEB;2007;4.6;estadual;ensino médio
+PARANA;PR;1;SAEB;2009;4.8;estadual;ensino médio
+PARANA;PR;1;SAEB;2011;4.5;estadual;ensino médio
+PARANA;PR;1;SAEB;2013;4.2;estadual;ensino médio
+PARANA;PR;1;SAEB;2015;4.4;estadual;ensino médio
+PARANA;PR;1;SAEB;2017;4.5;estadual;ensino médio
+PARANA;PR;1;SAEB;2019;4.9;estadual;ensino médio
+PARANA;PR;1;SAEB;2021;4.8;estadual;ensino médio
+PARANA;PR;1;SAEB;2023;4.9;estadual;ensino médio
+RIO DE JANEIRO;RJ;9;IDEB;2005;3.7;estadual;ano iniciais
+RIO DE JANEIRO;RJ;9;IDEB;2007;3.8;estadual;ano iniciais
+RIO DE JANEIRO;RJ;9;IDEB;2009;4.0;estadual;ano iniciais
+RIO DE JANEIRO;RJ;9;IDEB;2011;4.3;estadual;ano iniciais
+RIO DE JANEIRO;RJ;9;IDEB;2013;4.7;estadual;ano iniciais
+RIO DE JANEIRO;RJ;9;IDEB;2015;5.1;estadual;ano iniciais
+RIO DE JANEIRO;RJ;9;IDEB;2017;4.8;estadual;ano iniciais
+RIO DE JANEIRO;RJ;9;IDEB;2019;5.4;estadual;ano iniciais
+RIO DE JANEIRO;RJ;9;IDEB;2021;5.3;estadual;ano iniciais
+RIO DE JANEIRO;RJ;9;IDEB;2023;5.8;estadual;ano iniciais
+RIO DE JANEIRO;RJ;9;SAEB;2005;4.5;estadual;ano iniciais
+RIO DE JANEIRO;RJ;9;SAEB;2007;4.7;estadual;ano iniciais
+RIO DE JANEIRO;RJ;9;SAEB;2009;4.9;estadual;ano iniciais
+RIO DE JANEIRO;RJ;9;SAEB;2011;5.1;estadual;ano iniciais
+RIO DE JANEIRO;RJ;9;SAEB;2013;5.4;estadual;ano iniciais
+RIO DE JANEIRO;RJ;9;SAEB;2015;5.9;estadual;ano iniciais
+RIO DE JANEIRO;RJ;9;SAEB;2017;6.0;estadual;ano iniciais
+RIO DE JANEIRO;RJ;9;SAEB;2019;6.1;estadual;ano iniciais
+RIO DE JANEIRO;RJ;9;SAEB;2021;5.8;estadual;ano iniciais
+RIO DE JANEIRO;RJ;9;SAEB;2023;6.0;estadual;ano iniciais
+RIO DE JANEIRO;RJ;9;IDEB;2005;2.9;estadual;anos finais
+RIO DE JANEIRO;RJ;9;IDEB;2007;2.9;estadual;anos finais
+RIO DE JANEIRO;RJ;9;IDEB;2009;3.1;estadual;anos finais
+RIO DE JANEIRO;RJ;9;IDEB;2011;3.2;estadual;anos finais
+RIO DE JANEIRO;RJ;9;IDEB;2013;3.6;estadual;anos finais
+RIO DE JANEIRO;RJ;9;IDEB;2015;3.7;estadual;anos finais
+RIO DE JANEIRO;RJ;9;IDEB;2017;3.7;estadual;anos finais
+RIO DE JANEIRO;RJ;9;IDEB;2019;3.9;estadual;anos finais
+RIO DE JANEIRO;RJ;9;IDEB;2021;4.5;estadual;anos finais
+RIO DE JANEIRO;RJ;9;IDEB;2023;3.8;estadual;anos finais
+RIO DE JANEIRO;RJ;9;SAEB;2005;4.1;estadual;anos finais
+RIO DE JANEIRO;RJ;9;SAEB;2007;4.3;estadual;anos finais
+RIO DE JANEIRO;RJ;9;SAEB;2009;4.6;estadual;anos finais
+RIO DE JANEIRO;RJ;9;SAEB;2011;4.4;estadual;anos finais
+RIO DE JANEIRO;RJ;9;SAEB;2013;4.4;estadual;anos finais
+RIO DE JANEIRO;RJ;9;SAEB;2015;4.6;estadual;anos finais
+RIO DE JANEIRO;RJ;9;SAEB;2017;4.8;estadual;anos finais
+RIO DE JANEIRO;RJ;9;SAEB;2019;4.9;estadual;anos finais
+RIO DE JANEIRO;RJ;9;SAEB;2021;4.7;estadual;anos finais
+RIO DE JANEIRO;RJ;9;SAEB;2023;4.5;estadual;anos finais
+RIO DE JANEIRO;RJ;9;IDEB;2005;2.8;estadual;ensino médio
+RIO DE JANEIRO;RJ;9;IDEB;2007;2.8;estadual;ensino médio
+RIO DE JANEIRO;RJ;9;IDEB;2009;2.8;estadual;ensino médio
+RIO DE JANEIRO;RJ;9;IDEB;2011;3.2;estadual;ensino médio
+RIO DE JANEIRO;RJ;9;IDEB;2013;3.6;estadual;ensino médio
+RIO DE JANEIRO;RJ;9;IDEB;2015;3.6;estadual;ensino médio
+RIO DE JANEIRO;RJ;9;IDEB;2017;3.3;estadual;ensino médio
+RIO DE JANEIRO;RJ;9;IDEB;2019;3.5;estadual;ensino médio
+RIO DE JANEIRO;RJ;9;IDEB;2021;3.9;estadual;ensino médio
+RIO DE JANEIRO;RJ;9;IDEB;2023;3.3;estadual;ensino médio
+RIO DE JANEIRO;RJ;9;SAEB;2005;3.8;estadual;ensino médio
+RIO DE JANEIRO;RJ;9;SAEB;2007;4.0;estadual;ensino médio
+RIO DE JANEIRO;RJ;9;SAEB;2009;4.1;estadual;ensino médio
+RIO DE JANEIRO;RJ;9;SAEB;2011;4.4;estadual;ensino médio
+RIO DE JANEIRO;RJ;9;SAEB;2013;4.5;estadual;ensino médio
+RIO DE JANEIRO;RJ;9;SAEB;2015;4.3;estadual;ensino médio
+RIO DE JANEIRO;RJ;9;SAEB;2017;4.2;estadual;ensino médio
+RIO DE JANEIRO;RJ;9;SAEB;2019;4.4;estadual;ensino médio
+RIO DE JANEIRO;RJ;9;SAEB;2021;4.2;estadual;ensino médio
+RIO DE JANEIRO;RJ;9;SAEB;2023;4.1;estadual;ensino médio
+RIO GRANDE DO NORTE;RN;25;IDEB;2005;2.6;estadual;ano iniciais
+RIO GRANDE DO NORTE;RN;25;IDEB;2007;3.0;estadual;ano iniciais
+RIO GRANDE DO NORTE;RN;25;IDEB;2009;3.5;estadual;ano iniciais
+RIO GRANDE DO NORTE;RN;25;IDEB;2011;3.7;estadual;ano iniciais
+RIO GRANDE DO NORTE;RN;25;IDEB;2013;3.9;estadual;ano iniciais
+RIO GRANDE DO NORTE;RN;25;IDEB;2015;4.5;estadual;ano iniciais
+RIO GRANDE DO NORTE;RN;25;IDEB;2017;4.6;estadual;ano iniciais
+RIO GRANDE DO NORTE;RN;25;IDEB;2019;4.9;estadual;ano iniciais
+RIO GRANDE DO NORTE;RN;25;IDEB;2021;4.7;estadual;ano iniciais
+RIO GRANDE DO NORTE;RN;25;IDEB;2023;5.0;estadual;ano iniciais
+RIO GRANDE DO NORTE;RN;25;SAEB;2005;3.4;estadual;ano iniciais
+RIO GRANDE DO NORTE;RN;25;SAEB;2007;3.9;estadual;ano iniciais
+RIO GRANDE DO NORTE;RN;25;SAEB;2009;4.4;estadual;ano iniciais
+RIO GRANDE DO NORTE;RN;25;SAEB;2011;4.5;estadual;ano iniciais
+RIO GRANDE DO NORTE;RN;25;SAEB;2013;4.6;estadual;ano iniciais
+RIO GRANDE DO NORTE;RN;25;SAEB;2015;5.1;estadual;ano iniciais
+RIO GRANDE DO NORTE;RN;25;SAEB;2017;5.2;estadual;ano iniciais
+RIO GRANDE DO NORTE;RN;25;SAEB;2019;5.4;estadual;ano iniciais
+RIO GRANDE DO NORTE;RN;25;SAEB;2021;5.1;estadual;ano iniciais
+RIO GRANDE DO NORTE;RN;25;SAEB;2023;5.3;estadual;ano iniciais
+RIO GRANDE DO NORTE;RN;25;IDEB;2005;2.6;estadual;anos finais
+RIO GRANDE DO NORTE;RN;25;IDEB;2007;2.7;estadual;anos finais
+RIO GRANDE DO NORTE;RN;25;IDEB;2009;2.9;estadual;anos finais
+RIO GRANDE DO NORTE;RN;25;IDEB;2011;2.9;estadual;anos finais
+RIO GRANDE DO NORTE;RN;25;IDEB;2013;3.1;estadual;anos finais
+RIO GRANDE DO NORTE;RN;25;IDEB;2015;3.2;estadual;anos finais
+RIO GRANDE DO NORTE;RN;25;IDEB;2017;3.3;estadual;anos finais
+RIO GRANDE DO NORTE;RN;25;IDEB;2019;3.6;estadual;anos finais
+RIO GRANDE DO NORTE;RN;25;IDEB;2021;3.9;estadual;anos finais
+RIO GRANDE DO NORTE;RN;25;IDEB;2023;3.7;estadual;anos finais
+RIO GRANDE DO NORTE;RN;25;SAEB;2005;3.8;estadual;anos finais
+RIO GRANDE DO NORTE;RN;25;SAEB;2007;4.1;estadual;anos finais
+RIO GRANDE DO NORTE;RN;25;SAEB;2009;4.3;estadual;anos finais
+RIO GRANDE DO NORTE;RN;25;SAEB;2011;4.3;estadual;anos finais
+RIO GRANDE DO NORTE;RN;25;SAEB;2013;4.4;estadual;anos finais
+RIO GRANDE DO NORTE;RN;25;SAEB;2015;4.6;estadual;anos finais
+RIO GRANDE DO NORTE;RN;25;SAEB;2017;4.6;estadual;anos finais
+RIO GRANDE DO NORTE;RN;25;SAEB;2019;4.7;estadual;anos finais
+RIO GRANDE DO NORTE;RN;25;SAEB;2021;4.8;estadual;anos finais
+RIO GRANDE DO NORTE;RN;25;SAEB;2023;4.6;estadual;anos finais
+RIO GRANDE DO NORTE;RN;25;IDEB;2005;2.6;estadual;ensino médio
+RIO GRANDE DO NORTE;RN;25;IDEB;2007;2.6;estadual;ensino médio
+RIO GRANDE DO NORTE;RN;25;IDEB;2009;2.8;estadual;ensino médio
+RIO GRANDE DO NORTE;RN;25;IDEB;2011;2.8;estadual;ensino médio
+RIO GRANDE DO NORTE;RN;25;IDEB;2013;2.7;estadual;ensino médio
+RIO GRANDE DO NORTE;RN;25;IDEB;2015;2.8;estadual;ensino médio
+RIO GRANDE DO NORTE;RN;25;IDEB;2017;2.9;estadual;ensino médio
+RIO GRANDE DO NORTE;RN;25;IDEB;2019;3.2;estadual;ensino médio
+RIO GRANDE DO NORTE;RN;25;IDEB;2021;2.8;estadual;ensino médio
+RIO GRANDE DO NORTE;RN;25;IDEB;2023;3.2;estadual;ensino médio
+RIO GRANDE DO NORTE;RN;25;SAEB;2005;3.6;estadual;ensino médio
+RIO GRANDE DO NORTE;RN;25;SAEB;2007;3.8;estadual;ensino médio
+RIO GRANDE DO NORTE;RN;25;SAEB;2009;4.0;estadual;ensino médio
+RIO GRANDE DO NORTE;RN;25;SAEB;2011;3.9;estadual;ensino médio
+RIO GRANDE DO NORTE;RN;25;SAEB;2013;3.6;estadual;ensino médio
+RIO GRANDE DO NORTE;RN;25;SAEB;2015;3.8;estadual;ensino médio
+RIO GRANDE DO NORTE;RN;25;SAEB;2017;3.8;estadual;ensino médio
+RIO GRANDE DO NORTE;RN;25;SAEB;2019;4.0;estadual;ensino médio
+RIO GRANDE DO NORTE;RN;25;SAEB;2021;4.1;estadual;ensino médio
+RIO GRANDE DO NORTE;RN;25;SAEB;2023;4.1;estadual;ensino médio
+RONDONIA;RO;21;IDEB;2005;3.6;estadual;ano iniciais
+RONDONIA;RO;21;IDEB;2007;4.0;estadual;ano iniciais
+RONDONIA;RO;21;IDEB;2009;4.4;estadual;ano iniciais
+RONDONIA;RO;21;IDEB;2011;4.7;estadual;ano iniciais
+RONDONIA;RO;21;IDEB;2013;5.4;estadual;ano iniciais
+RONDONIA;RO;21;IDEB;2015;5.7;estadual;ano iniciais
+RONDONIA;RO;21;IDEB;2017;6.1;estadual;ano iniciais
+RONDONIA;RO;21;IDEB;2019;5.7;estadual;ano iniciais
+RONDONIA;RO;21;IDEB;2021;5.6;estadual;ano iniciais
+RONDONIA;RO;21;IDEB;2023;5.8;estadual;ano iniciais
+RONDONIA;RO;21;SAEB;2005;4.3;estadual;ano iniciais
+RONDONIA;RO;21;SAEB;2007;4.6;estadual;ano iniciais
+RONDONIA;RO;21;SAEB;2009;5.1;estadual;ano iniciais
+RONDONIA;RO;21;SAEB;2011;5.3;estadual;ano iniciais
+RONDONIA;RO;21;SAEB;2013;5.8;estadual;ano iniciais
+RONDONIA;RO;21;SAEB;2015;6.1;estadual;ano iniciais
+RONDONIA;RO;21;SAEB;2017;6.4;estadual;ano iniciais
+RONDONIA;RO;21;SAEB;2019;6.0;estadual;ano iniciais
+RONDONIA;RO;21;SAEB;2021;5.7;estadual;ano iniciais
+RONDONIA;RO;21;SAEB;2023;5.9;estadual;ano iniciais
+RONDONIA;RO;21;IDEB;2005;3.2;estadual;anos finais
+RONDONIA;RO;21;IDEB;2007;3.3;estadual;anos finais
+RONDONIA;RO;21;IDEB;2009;3.4;estadual;anos finais
+RONDONIA;RO;21;IDEB;2011;3.5;estadual;anos finais
+RONDONIA;RO;21;IDEB;2013;3.7;estadual;anos finais
+RONDONIA;RO;21;IDEB;2015;4.0;estadual;anos finais
+RONDONIA;RO;21;IDEB;2017;4.9;estadual;anos finais
+RONDONIA;RO;21;IDEB;2019;4.8;estadual;anos finais
+RONDONIA;RO;21;IDEB;2021;4.8;estadual;anos finais
+RONDONIA;RO;21;IDEB;2023;4.7;estadual;anos finais
+RONDONIA;RO;21;SAEB;2005;4.3;estadual;anos finais
+RONDONIA;RO;21;SAEB;2007;4.4;estadual;anos finais
+RONDONIA;RO;21;SAEB;2009;4.6;estadual;anos finais
+RONDONIA;RO;21;SAEB;2011;4.8;estadual;anos finais
+RONDONIA;RO;21;SAEB;2013;4.8;estadual;anos finais
+RONDONIA;RO;21;SAEB;2015;5.1;estadual;anos finais
+RONDONIA;RO;21;SAEB;2017;5.3;estadual;anos finais
+RONDONIA;RO;21;SAEB;2019;5.2;estadual;anos finais
+RONDONIA;RO;21;SAEB;2021;5.0;estadual;anos finais
+RONDONIA;RO;21;SAEB;2023;4.9;estadual;anos finais
+RONDONIA;RO;21;IDEB;2005;3.0;estadual;ensino médio
+RONDONIA;RO;21;IDEB;2007;3.1;estadual;ensino médio
+RONDONIA;RO;21;IDEB;2009;3.7;estadual;ensino médio
+RONDONIA;RO;21;IDEB;2011;3.3;estadual;ensino médio
+RONDONIA;RO;21;IDEB;2013;3.4;estadual;ensino médio
+RONDONIA;RO;21;IDEB;2015;3.3;estadual;ensino médio
+RONDONIA;RO;21;IDEB;2017;3.8;estadual;ensino médio
+RONDONIA;RO;21;IDEB;2019;4.0;estadual;ensino médio
+RONDONIA;RO;21;IDEB;2021;3.9;estadual;ensino médio
+RONDONIA;RO;21;IDEB;2023;4.0;estadual;ensino médio
+RONDONIA;RO;21;SAEB;2005;4.2;estadual;ensino médio
+RONDONIA;RO;21;SAEB;2007;4.2;estadual;ensino médio
+RONDONIA;RO;21;SAEB;2009;4.6;estadual;ensino médio
+RONDONIA;RO;21;SAEB;2011;4.5;estadual;ensino médio
+RONDONIA;RO;21;SAEB;2013;4.4;estadual;ensino médio
+RONDONIA;RO;21;SAEB;2015;4.3;estadual;ensino médio
+RONDONIA;RO;21;SAEB;2017;4.4;estadual;ensino médio
+RONDONIA;RO;21;SAEB;2019;4.7;estadual;ensino médio
+RONDONIA;RO;21;SAEB;2021;4.5;estadual;ensino médio
+RONDONIA;RO;21;SAEB;2023;4.4;estadual;ensino médio
+RORAIMA;RR;20;IDEB;2005;3.5;estadual;ano iniciais
+RORAIMA;RR;20;IDEB;2007;3.5;estadual;ano iniciais
+RORAIMA;RR;20;IDEB;2009;4.2;estadual;ano iniciais
+RORAIMA;RR;20;IDEB;2011;4.5;estadual;ano iniciais
+RORAIMA;RR;20;IDEB;2013;4.8;estadual;ano iniciais
+RORAIMA;RR;20;IDEB;2015;5.1;estadual;ano iniciais
+RORAIMA;RR;20;IDEB;2017;0.0;estadual;ano iniciais
+RORAIMA;RR;20;IDEB;2019;0.0;estadual;ano iniciais
+RORAIMA;RR;20;IDEB;2021;0.0;estadual;ano iniciais
+RORAIMA;RR;20;IDEB;2023;0.0;estadual;ano iniciais
+RORAIMA;RR;20;SAEB;2005;4.1;estadual;ano iniciais
+RORAIMA;RR;20;SAEB;2007;4.6;estadual;ano iniciais
+RORAIMA;RR;20;SAEB;2009;4.6;estadual;ano iniciais
+RORAIMA;RR;20;SAEB;2011;4.9;estadual;ano iniciais
+RORAIMA;RR;20;SAEB;2013;5.1;estadual;ano iniciais
+RORAIMA;RR;20;SAEB;2015;5.5;estadual;ano iniciais
+RORAIMA;RR;20;SAEB;2017;0.0;estadual;ano iniciais
+RORAIMA;RR;20;SAEB;2019;0.0;estadual;ano iniciais
+RORAIMA;RR;20;SAEB;2021;0.0;estadual;ano iniciais
+RORAIMA;RR;20;SAEB;2023;0.0;estadual;ano iniciais
+RORAIMA;RR;20;IDEB;2005;3.2;estadual;anos finais
+RORAIMA;RR;20;IDEB;2007;3.5;estadual;anos finais
+RORAIMA;RR;20;IDEB;2009;3.7;estadual;anos finais
+RORAIMA;RR;20;IDEB;2011;3.6;estadual;anos finais
+RORAIMA;RR;20;IDEB;2013;3.5;estadual;anos finais
+RORAIMA;RR;20;IDEB;2015;3.7;estadual;anos finais
+RORAIMA;RR;20;IDEB;2017;4.0;estadual;anos finais
+RORAIMA;RR;20;IDEB;2019;4.1;estadual;anos finais
+RORAIMA;RR;20;IDEB;2021;4.6;estadual;anos finais
+RORAIMA;RR;20;IDEB;2023;4.2;estadual;anos finais
+RORAIMA;RR;20;SAEB;2005;4.0;estadual;anos finais
+RORAIMA;RR;20;SAEB;2007;4.3;estadual;anos finais
+RORAIMA;RR;20;SAEB;2009;4.4;estadual;anos finais
+RORAIMA;RR;20;SAEB;2011;4.4;estadual;anos finais
+RORAIMA;RR;20;SAEB;2013;4.3;estadual;anos finais
+RORAIMA;RR;20;SAEB;2015;4.5;estadual;anos finais
+RORAIMA;RR;20;SAEB;2017;4.6;estadual;anos finais
+RORAIMA;RR;20;SAEB;2019;4.6;estadual;anos finais
+RORAIMA;RR;20;SAEB;2021;4.9;estadual;anos finais
+RORAIMA;RR;20;SAEB;2023;4.6;estadual;anos finais
+RORAIMA;RR;20;IDEB;2005;3.2;estadual;ensino médio
+RORAIMA;RR;20;IDEB;2007;3.1;estadual;ensino médio
+RORAIMA;RR;20;IDEB;2009;3.5;estadual;ensino médio
+RORAIMA;RR;20;IDEB;2011;3.5;estadual;ensino médio
+RORAIMA;RR;20;IDEB;2013;3.2;estadual;ensino médio
+RORAIMA;RR;20;IDEB;2015;3.4;estadual;ensino médio
+RORAIMA;RR;20;IDEB;2017;3.3;estadual;ensino médio
+RORAIMA;RR;20;IDEB;2019;3.5;estadual;ensino médio
+RORAIMA;RR;20;IDEB;2021;3.7;estadual;ensino médio
+RORAIMA;RR;20;IDEB;2023;3.6;estadual;ensino médio
+RORAIMA;RR;20;SAEB;2005;4.2;estadual;ensino médio
+RORAIMA;RR;20;SAEB;2007;4.0;estadual;ensino médio
+RORAIMA;RR;20;SAEB;2009;4.3;estadual;ensino médio
+RORAIMA;RR;20;SAEB;2011;4.3;estadual;ensino médio
+RORAIMA;RR;20;SAEB;2013;4.0;estadual;ensino médio
+RORAIMA;RR;20;SAEB;2015;4.1;estadual;ensino médio
+RORAIMA;RR;20;SAEB;2017;3.9;estadual;ensino médio
+RORAIMA;RR;20;SAEB;2019;4.3;estadual;ensino médio
+RORAIMA;RR;20;SAEB;2021;4.3;estadual;ensino médio
+RORAIMA;RR;20;SAEB;2023;4.1;estadual;ensino médio
+RIO GRANDE DO SUL;RS;7;IDEB;2005;4.2;estadual;ano iniciais
+RIO GRANDE DO SUL;RS;7;IDEB;2007;4.5;estadual;ano iniciais
+RIO GRANDE DO SUL;RS;7;IDEB;2009;4.8;estadual;ano iniciais
+RIO GRANDE DO SUL;RS;7;IDEB;2011;5.1;estadual;ano iniciais
+RIO GRANDE DO SUL;RS;7;IDEB;2013;5.5;estadual;ano iniciais
+RIO GRANDE DO SUL;RS;7;IDEB;2015;5.5;estadual;ano iniciais
+RIO GRANDE DO SUL;RS;7;IDEB;2017;5.7;estadual;ano iniciais
+RIO GRANDE DO SUL;RS;7;IDEB;2019;5.8;estadual;ano iniciais
+RIO GRANDE DO SUL;RS;7;IDEB;2021;5.9;estadual;ano iniciais
+RIO GRANDE DO SUL;RS;7;IDEB;2023;5.8;estadual;ano iniciais
+RIO GRANDE DO SUL;RS;7;SAEB;2005;5.0;estadual;ano iniciais
+RIO GRANDE DO SUL;RS;7;SAEB;2007;5.1;estadual;ano iniciais
+RIO GRANDE DO SUL;RS;7;SAEB;2009;5.5;estadual;ano iniciais
+RIO GRANDE DO SUL;RS;7;SAEB;2011;5.6;estadual;ano iniciais
+RIO GRANDE DO SUL;RS;7;SAEB;2013;6.0;estadual;ano iniciais
+RIO GRANDE DO SUL;RS;7;SAEB;2015;6.0;estadual;ano iniciais
+RIO GRANDE DO SUL;RS;7;SAEB;2017;6.2;estadual;ano iniciais
+RIO GRANDE DO SUL;RS;7;SAEB;2019;6.3;estadual;ano iniciais
+RIO GRANDE DO SUL;RS;7;SAEB;2021;6.0;estadual;ano iniciais
+RIO GRANDE DO SUL;RS;7;SAEB;2023;6.1;estadual;ano iniciais
+RIO GRANDE DO SUL;RS;7;IDEB;2005;3.5;estadual;anos finais
+RIO GRANDE DO SUL;RS;7;IDEB;2007;3.7;estadual;anos finais
+RIO GRANDE DO SUL;RS;7;IDEB;2009;3.8;estadual;anos finais
+RIO GRANDE DO SUL;RS;7;IDEB;2011;3.8;estadual;anos finais
+RIO GRANDE DO SUL;RS;7;IDEB;2013;3.9;estadual;anos finais
+RIO GRANDE DO SUL;RS;7;IDEB;2015;4.0;estadual;anos finais
+RIO GRANDE DO SUL;RS;7;IDEB;2017;4.3;estadual;anos finais
+RIO GRANDE DO SUL;RS;7;IDEB;2019;4.4;estadual;anos finais
+RIO GRANDE DO SUL;RS;7;IDEB;2021;5.0;estadual;anos finais
+RIO GRANDE DO SUL;RS;7;IDEB;2023;4.7;estadual;anos finais
+RIO GRANDE DO SUL;RS;7;SAEB;2005;4.9;estadual;anos finais
+RIO GRANDE DO SUL;RS;7;SAEB;2007;4.9;estadual;anos finais
+RIO GRANDE DO SUL;RS;7;SAEB;2009;5.2;estadual;anos finais
+RIO GRANDE DO SUL;RS;7;SAEB;2011;5.1;estadual;anos finais
+RIO GRANDE DO SUL;RS;7;SAEB;2013;5.1;estadual;anos finais
+RIO GRANDE DO SUL;RS;7;SAEB;2015;5.2;estadual;anos finais
+RIO GRANDE DO SUL;RS;7;SAEB;2017;5.4;estadual;anos finais
+RIO GRANDE DO SUL;RS;7;SAEB;2019;5.4;estadual;anos finais
+RIO GRANDE DO SUL;RS;7;SAEB;2021;5.3;estadual;anos finais
+RIO GRANDE DO SUL;RS;7;SAEB;2023;5.2;estadual;anos finais
+RIO GRANDE DO SUL;RS;7;IDEB;2005;3.4;estadual;ensino médio
+RIO GRANDE DO SUL;RS;7;IDEB;2007;3.4;estadual;ensino médio
+RIO GRANDE DO SUL;RS;7;IDEB;2009;3.6;estadual;ensino médio
+RIO GRANDE DO SUL;RS;7;IDEB;2011;3.4;estadual;ensino médio
+RIO GRANDE DO SUL;RS;7;IDEB;2013;3.7;estadual;ensino médio
+RIO GRANDE DO SUL;RS;7;IDEB;2015;3.3;estadual;ensino médio
+RIO GRANDE DO SUL;RS;7;IDEB;2017;3.4;estadual;ensino médio
+RIO GRANDE DO SUL;RS;7;IDEB;2019;4.0;estadual;ensino médio
+RIO GRANDE DO SUL;RS;7;IDEB;2021;4.1;estadual;ensino médio
+RIO GRANDE DO SUL;RS;7;IDEB;2023;3.9;estadual;ensino médio
+RIO GRANDE DO SUL;RS;7;SAEB;2005;5.0;estadual;ensino médio
+RIO GRANDE DO SUL;RS;7;SAEB;2007;4.8;estadual;ensino médio
+RIO GRANDE DO SUL;RS;7;SAEB;2009;5.2;estadual;ensino médio
+RIO GRANDE DO SUL;RS;7;SAEB;2011;4.8;estadual;ensino médio
+RIO GRANDE DO SUL;RS;7;SAEB;2013;4.7;estadual;ensino médio
+RIO GRANDE DO SUL;RS;7;SAEB;2015;4.4;estadual;ensino médio
+RIO GRANDE DO SUL;RS;7;SAEB;2017;4.6;estadual;ensino médio
+RIO GRANDE DO SUL;RS;7;SAEB;2019;4.9;estadual;ensino médio
+RIO GRANDE DO SUL;RS;7;SAEB;2021;4.7;estadual;ensino médio
+RIO GRANDE DO SUL;RS;7;SAEB;2023;4.7;estadual;ensino médio
+SANTA CATARINA;SC;2;IDEB;2005;4.3;estadual;ano iniciais
+SANTA CATARINA;SC;2;IDEB;2007;4.7;estadual;ano iniciais
+SANTA CATARINA;SC;2;IDEB;2009;5.0;estadual;ano iniciais
+SANTA CATARINA;SC;2;IDEB;2011;5.7;estadual;ano iniciais
+SANTA CATARINA;SC;2;IDEB;2013;5.7;estadual;ano iniciais
+SANTA CATARINA;SC;2;IDEB;2015;5.9;estadual;ano iniciais
+SANTA CATARINA;SC;2;IDEB;2017;6.0;estadual;ano iniciais
+SANTA CATARINA;SC;2;IDEB;2019;5.9;estadual;ano iniciais
+SANTA CATARINA;SC;2;IDEB;2021;6.1;estadual;ano iniciais
+SANTA CATARINA;SC;2;IDEB;2023;5.8;estadual;ano iniciais
+SANTA CATARINA;SC;2;SAEB;2005;4.8;estadual;ano iniciais
+SANTA CATARINA;SC;2;SAEB;2007;5.0;estadual;ano iniciais
+SANTA CATARINA;SC;2;SAEB;2009;5.2;estadual;ano iniciais
+SANTA CATARINA;SC;2;SAEB;2011;5.9;estadual;ano iniciais
+SANTA CATARINA;SC;2;SAEB;2013;5.9;estadual;ano iniciais
+SANTA CATARINA;SC;2;SAEB;2015;6.2;estadual;ano iniciais
+SANTA CATARINA;SC;2;SAEB;2017;6.3;estadual;ano iniciais
+SANTA CATARINA;SC;2;SAEB;2019;6.2;estadual;ano iniciais
+SANTA CATARINA;SC;2;SAEB;2021;6.2;estadual;ano iniciais
+SANTA CATARINA;SC;2;SAEB;2023;6.1;estadual;ano iniciais
+SANTA CATARINA;SC;2;IDEB;2005;4.1;estadual;anos finais
+SANTA CATARINA;SC;2;IDEB;2007;4.1;estadual;anos finais
+SANTA CATARINA;SC;2;IDEB;2009;4.2;estadual;anos finais
+SANTA CATARINA;SC;2;IDEB;2011;4.7;estadual;anos finais
+SANTA CATARINA;SC;2;IDEB;2013;4.1;estadual;anos finais
+SANTA CATARINA;SC;2;IDEB;2015;4.7;estadual;anos finais
+SANTA CATARINA;SC;2;IDEB;2017;4.8;estadual;anos finais
+SANTA CATARINA;SC;2;IDEB;2019;4.5;estadual;anos finais
+SANTA CATARINA;SC;2;IDEB;2021;4.8;estadual;anos finais
+SANTA CATARINA;SC;2;IDEB;2023;4.6;estadual;anos finais
+SANTA CATARINA;SC;2;SAEB;2005;4.8;estadual;anos finais
+SANTA CATARINA;SC;2;SAEB;2007;4.8;estadual;anos finais
+SANTA CATARINA;SC;2;SAEB;2009;5.0;estadual;anos finais
+SANTA CATARINA;SC;2;SAEB;2011;5.0;estadual;anos finais
+SANTA CATARINA;SC;2;SAEB;2013;4.8;estadual;anos finais
+SANTA CATARINA;SC;2;SAEB;2015;5.5;estadual;anos finais
+SANTA CATARINA;SC;2;SAEB;2017;5.4;estadual;anos finais
+SANTA CATARINA;SC;2;SAEB;2019;5.4;estadual;anos finais
+SANTA CATARINA;SC;2;SAEB;2021;5.4;estadual;anos finais
+SANTA CATARINA;SC;2;SAEB;2023;5.2;estadual;anos finais
+SANTA CATARINA;SC;2;IDEB;2005;3.5;estadual;ensino médio
+SANTA CATARINA;SC;2;IDEB;2007;3.8;estadual;ensino médio
+SANTA CATARINA;SC;2;IDEB;2009;3.7;estadual;ensino médio
+SANTA CATARINA;SC;2;IDEB;2011;4.0;estadual;ensino médio
+SANTA CATARINA;SC;2;IDEB;2013;3.6;estadual;ensino médio
+SANTA CATARINA;SC;2;IDEB;2015;3.4;estadual;ensino médio
+SANTA CATARINA;SC;2;IDEB;2017;3.6;estadual;ensino médio
+SANTA CATARINA;SC;2;IDEB;2019;3.8;estadual;ensino médio
+SANTA CATARINA;SC;2;IDEB;2021;3.6;estadual;ensino médio
+SANTA CATARINA;SC;2;IDEB;2023;3.8;estadual;ensino médio
+SANTA CATARINA;SC;2;SAEB;2005;4.4;estadual;ensino médio
+SANTA CATARINA;SC;2;SAEB;2007;4.6;estadual;ensino médio
+SANTA CATARINA;SC;2;SAEB;2009;4.5;estadual;ensino médio
+SANTA CATARINA;SC;2;SAEB;2011;4.8;estadual;ensino médio
+SANTA CATARINA;SC;2;SAEB;2013;4.5;estadual;ensino médio
+SANTA CATARINA;SC;2;SAEB;2015;4.5;estadual;ensino médio
+SANTA CATARINA;SC;2;SAEB;2017;4.4;estadual;ensino médio
+SANTA CATARINA;SC;2;SAEB;2019;4.8;estadual;ensino médio
+SANTA CATARINA;SC;2;SAEB;2021;4.8;estadual;ensino médio
+SANTA CATARINA;SC;2;SAEB;2023;4.6;estadual;ensino médio
+SERGIPE;SE;24;IDEB;2005;3.0;estadual;ano iniciais
+SERGIPE;SE;24;IDEB;2007;3.4;estadual;ano iniciais
+SERGIPE;SE;24;IDEB;2009;3.7;estadual;ano iniciais
+SERGIPE;SE;24;IDEB;2011;3.9;estadual;ano iniciais
+SERGIPE;SE;24;IDEB;2013;4.1;estadual;ano iniciais
+SERGIPE;SE;24;IDEB;2015;4.3;estadual;ano iniciais
+SERGIPE;SE;24;IDEB;2017;4.7;estadual;ano iniciais
+SERGIPE;SE;24;IDEB;2019;5.0;estadual;ano iniciais
+SERGIPE;SE;24;IDEB;2021;5.2;estadual;ano iniciais
+SERGIPE;SE;24;IDEB;2023;5.3;estadual;ano iniciais
+SERGIPE;SE;24;SAEB;2005;4.2;estadual;ano iniciais
+SERGIPE;SE;24;SAEB;2007;4.4;estadual;ano iniciais
+SERGIPE;SE;24;SAEB;2009;4.6;estadual;ano iniciais
+SERGIPE;SE;24;SAEB;2011;4.7;estadual;ano iniciais
+SERGIPE;SE;24;SAEB;2013;4.7;estadual;ano iniciais
+SERGIPE;SE;24;SAEB;2015;5.1;estadual;ano iniciais
+SERGIPE;SE;24;SAEB;2017;5.4;estadual;ano iniciais
+SERGIPE;SE;24;SAEB;2019;5.4;estadual;ano iniciais
+SERGIPE;SE;24;SAEB;2021;5.2;estadual;ano iniciais
+SERGIPE;SE;24;SAEB;2023;5.4;estadual;ano iniciais
+SERGIPE;SE;24;IDEB;2005;2.9;estadual;anos finais
+SERGIPE;SE;24;IDEB;2007;2.9;estadual;anos finais
+SERGIPE;SE;24;IDEB;2009;2.7;estadual;anos finais
+SERGIPE;SE;24;IDEB;2011;2.9;estadual;anos finais
+SERGIPE;SE;24;IDEB;2013;2.7;estadual;anos finais
+SERGIPE;SE;24;IDEB;2015;2.9;estadual;anos finais
+SERGIPE;SE;24;IDEB;2017;3.5;estadual;anos finais
+SERGIPE;SE;24;IDEB;2019;3.6;estadual;anos finais
+SERGIPE;SE;24;IDEB;2021;4.5;estadual;anos finais
+SERGIPE;SE;24;IDEB;2023;4.2;estadual;anos finais
+SERGIPE;SE;24;SAEB;2005;4.3;estadual;anos finais
+SERGIPE;SE;24;SAEB;2007;4.1;estadual;anos finais
+SERGIPE;SE;24;SAEB;2009;4.3;estadual;anos finais
+SERGIPE;SE;24;SAEB;2011;4.4;estadual;anos finais
+SERGIPE;SE;24;SAEB;2013;4.3;estadual;anos finais
+SERGIPE;SE;24;SAEB;2015;4.7;estadual;anos finais
+SERGIPE;SE;24;SAEB;2017;4.8;estadual;anos finais
+SERGIPE;SE;24;SAEB;2019;4.8;estadual;anos finais
+SERGIPE;SE;24;SAEB;2021;4.6;estadual;anos finais
+SERGIPE;SE;24;SAEB;2023;4.8;estadual;anos finais
+SERGIPE;SE;24;IDEB;2005;2.8;estadual;ensino médio
+SERGIPE;SE;24;IDEB;2007;2.6;estadual;ensino médio
+SERGIPE;SE;24;IDEB;2009;2.9;estadual;ensino médio
+SERGIPE;SE;24;IDEB;2011;2.9;estadual;ensino médio
+SERGIPE;SE;24;IDEB;2013;2.8;estadual;ensino médio
+SERGIPE;SE;24;IDEB;2015;2.6;estadual;ensino médio
+SERGIPE;SE;24;IDEB;2017;3.1;estadual;ensino médio
+SERGIPE;SE;24;IDEB;2019;3.3;estadual;ensino médio
+SERGIPE;SE;24;IDEB;2021;3.9;estadual;ensino médio
+SERGIPE;SE;24;IDEB;2023;3.7;estadual;ensino médio
+SERGIPE;SE;24;SAEB;2005;4.0;estadual;ensino médio
+SERGIPE;SE;24;SAEB;2007;3.6;estadual;ensino médio
+SERGIPE;SE;24;SAEB;2009;4.1;estadual;ensino médio
+SERGIPE;SE;24;SAEB;2011;3.9;estadual;ensino médio
+SERGIPE;SE;24;SAEB;2013;3.8;estadual;ensino médio
+SERGIPE;SE;24;SAEB;2015;3.8;estadual;ensino médio
+SERGIPE;SE;24;SAEB;2017;4.1;estadual;ensino médio
+SERGIPE;SE;24;SAEB;2019;4.2;estadual;ensino médio
+SERGIPE;SE;24;SAEB;2021;4.1;estadual;ensino médio
+SERGIPE;SE;24;SAEB;2023;4.2;estadual;ensino médio
+SAO PAULO;SP;3;IDEB;2005;4.5;estadual;ano iniciais
+SAO PAULO;SP;3;IDEB;2007;4.7;estadual;ano iniciais
+SAO PAULO;SP;3;IDEB;2009;5.4;estadual;ano iniciais
+SAO PAULO;SP;3;IDEB;2011;5.4;estadual;ano iniciais
+SAO PAULO;SP;3;IDEB;2013;5.7;estadual;ano iniciais
+SAO PAULO;SP;3;IDEB;2015;6.4;estadual;ano iniciais
+SAO PAULO;SP;3;IDEB;2017;6.5;estadual;ano iniciais
+SAO PAULO;SP;3;IDEB;2019;6.6;estadual;ano iniciais
+SAO PAULO;SP;3;IDEB;2021;6.1;estadual;ano iniciais
+SAO PAULO;SP;3;IDEB;2023;6.2;estadual;ano iniciais
+SAO PAULO;SP;3;SAEB;2005;4.7;estadual;ano iniciais
+SAO PAULO;SP;3;SAEB;2007;4.9;estadual;ano iniciais
+SAO PAULO;SP;3;SAEB;2009;5.5;estadual;ano iniciais
+SAO PAULO;SP;3;SAEB;2011;5.5;estadual;ano iniciais
+SAO PAULO;SP;3;SAEB;2013;5.8;estadual;ano iniciais
+SAO PAULO;SP;3;SAEB;2015;6.5;estadual;ano iniciais
+SAO PAULO;SP;3;SAEB;2017;6.6;estadual;ano iniciais
+SAO PAULO;SP;3;SAEB;2019;6.7;estadual;ano iniciais
+SAO PAULO;SP;3;SAEB;2021;6.2;estadual;ano iniciais
+SAO PAULO;SP;3;SAEB;2023;6.2;estadual;ano iniciais
+SAO PAULO;SP;3;IDEB;2005;3.8;estadual;anos finais
+SAO PAULO;SP;3;IDEB;2007;4.0;estadual;anos finais
+SAO PAULO;SP;3;IDEB;2009;4.3;estadual;anos finais
+SAO PAULO;SP;3;IDEB;2011;4.3;estadual;anos finais
+SAO PAULO;SP;3;IDEB;2013;4.4;estadual;anos finais
+SAO PAULO;SP;3;IDEB;2015;4.7;estadual;anos finais
+SAO PAULO;SP;3;IDEB;2017;4.8;estadual;anos finais
+SAO PAULO;SP;3;IDEB;2019;5.2;estadual;anos finais
+SAO PAULO;SP;3;IDEB;2021;5.3;estadual;anos finais
+SAO PAULO;SP;3;IDEB;2023;5.1;estadual;anos finais
+SAO PAULO;SP;3;SAEB;2005;4.3;estadual;anos finais
+SAO PAULO;SP;3;SAEB;2007;4.6;estadual;anos finais
+SAO PAULO;SP;3;SAEB;2009;4.7;estadual;anos finais
+SAO PAULO;SP;3;SAEB;2011;4.8;estadual;anos finais
+SAO PAULO;SP;3;SAEB;2013;4.8;estadual;anos finais
+SAO PAULO;SP;3;SAEB;2015;5.0;estadual;anos finais
+SAO PAULO;SP;3;SAEB;2017;5.2;estadual;anos finais
+SAO PAULO;SP;3;SAEB;2019;5.4;estadual;anos finais
+SAO PAULO;SP;3;SAEB;2021;5.4;estadual;anos finais
+SAO PAULO;SP;3;SAEB;2023;5.3;estadual;anos finais
+SAO PAULO;SP;3;IDEB;2005;3.3;estadual;ensino médio
+SAO PAULO;SP;3;IDEB;2007;3.4;estadual;ensino médio
+SAO PAULO;SP;3;IDEB;2009;3.6;estadual;ensino médio
+SAO PAULO;SP;3;IDEB;2011;3.9;estadual;ensino médio
+SAO PAULO;SP;3;IDEB;2013;3.7;estadual;ensino médio
+SAO PAULO;SP;3;IDEB;2015;3.9;estadual;ensino médio
+SAO PAULO;SP;3;IDEB;2017;3.8;estadual;ensino médio
+SAO PAULO;SP;3;IDEB;2019;4.3;estadual;ensino médio
+SAO PAULO;SP;3;IDEB;2021;4.4;estadual;ensino médio
+SAO PAULO;SP;3;IDEB;2023;4.2;estadual;ensino médio
+SAO PAULO;SP;3;SAEB;2005;4.2;estadual;ensino médio
+SAO PAULO;SP;3;SAEB;2007;4.4;estadual;ensino médio
+SAO PAULO;SP;3;SAEB;2009;4.5;estadual;ensino médio
+SAO PAULO;SP;3;SAEB;2011;4.6;estadual;ensino médio
+SAO PAULO;SP;3;SAEB;2013;4.5;estadual;ensino médio
+SAO PAULO;SP;3;SAEB;2015;4.4;estadual;ensino médio
+SAO PAULO;SP;3;SAEB;2017;4.4;estadual;ensino médio
+SAO PAULO;SP;3;SAEB;2019;4.7;estadual;ensino médio
+SAO PAULO;SP;3;SAEB;2021;4.6;estadual;ensino médio
+SAO PAULO;SP;3;SAEB;2023;4.5;estadual;ensino médio
+TOCANTINS;TO;19;IDEB;2005;3.6;estadual;ano iniciais
+TOCANTINS;TO;19;IDEB;2007;4.2;estadual;ano iniciais
+TOCANTINS;TO;19;IDEB;2009;4.5;estadual;ano iniciais
+TOCANTINS;TO;19;IDEB;2011;4.9;estadual;ano iniciais
+TOCANTINS;TO;19;IDEB;2013;5.1;estadual;ano iniciais
+TOCANTINS;TO;19;IDEB;2015;5.0;estadual;ano iniciais
+TOCANTINS;TO;19;IDEB;2017;5.8;estadual;ano iniciais
+TOCANTINS;TO;19;IDEB;2019;5.8;estadual;ano iniciais
+TOCANTINS;TO;19;IDEB;2021;5.5;estadual;ano iniciais
+TOCANTINS;TO;19;IDEB;2023;6.2;estadual;ano iniciais
+TOCANTINS;TO;19;SAEB;2005;4.1;estadual;ano iniciais
+TOCANTINS;TO;19;SAEB;2007;4.5;estadual;ano iniciais
+TOCANTINS;TO;19;SAEB;2009;4.9;estadual;ano iniciais
+TOCANTINS;TO;19;SAEB;2011;5.3;estadual;ano iniciais
+TOCANTINS;TO;19;SAEB;2013;5.3;estadual;ano iniciais
+TOCANTINS;TO;19;SAEB;2015;5.6;estadual;ano iniciais
+TOCANTINS;TO;19;SAEB;2017;6.2;estadual;ano iniciais
+TOCANTINS;TO;19;SAEB;2019;6.2;estadual;ano iniciais
+TOCANTINS;TO;19;SAEB;2021;5.6;estadual;ano iniciais
+TOCANTINS;TO;19;SAEB;2023;6.4;estadual;ano iniciais
+TOCANTINS;TO;19;IDEB;2005;3.4;estadual;anos finais
+TOCANTINS;TO;19;IDEB;2007;3.6;estadual;anos finais
+TOCANTINS;TO;19;IDEB;2009;3.9;estadual;anos finais
+TOCANTINS;TO;19;IDEB;2011;3.9;estadual;anos finais
+TOCANTINS;TO;19;IDEB;2013;3.7;estadual;anos finais
+TOCANTINS;TO;19;IDEB;2015;3.8;estadual;anos finais
+TOCANTINS;TO;19;IDEB;2017;4.4;estadual;anos finais
+TOCANTINS;TO;19;IDEB;2019;4.4;estadual;anos finais
+TOCANTINS;TO;19;IDEB;2021;4.7;estadual;anos finais
+TOCANTINS;TO;19;IDEB;2023;4.7;estadual;anos finais
+TOCANTINS;TO;19;SAEB;2005;4.0;estadual;anos finais
+TOCANTINS;TO;19;SAEB;2007;4.2;estadual;anos finais
+TOCANTINS;TO;19;SAEB;2009;4.5;estadual;anos finais
+TOCANTINS;TO;19;SAEB;2011;4.6;estadual;anos finais
+TOCANTINS;TO;19;SAEB;2013;4.5;estadual;anos finais
+TOCANTINS;TO;19;SAEB;2015;4.7;estadual;anos finais
+TOCANTINS;TO;19;SAEB;2017;5.1;estadual;anos finais
+TOCANTINS;TO;19;SAEB;2019;5.0;estadual;anos finais
+TOCANTINS;TO;19;SAEB;2021;4.8;estadual;anos finais
+TOCANTINS;TO;19;SAEB;2023;4.9;estadual;anos finais
+TOCANTINS;TO;19;IDEB;2005;2.9;estadual;ensino médio
+TOCANTINS;TO;19;IDEB;2007;3.1;estadual;ensino médio
+TOCANTINS;TO;19;IDEB;2009;3.3;estadual;ensino médio
+TOCANTINS;TO;19;IDEB;2011;3.5;estadual;ensino médio
+TOCANTINS;TO;19;IDEB;2013;3.2;estadual;ensino médio
+TOCANTINS;TO;19;IDEB;2015;3.3;estadual;ensino médio
+TOCANTINS;TO;19;IDEB;2017;3.7;estadual;ensino médio
+TOCANTINS;TO;19;IDEB;2019;3.9;estadual;ensino médio
+TOCANTINS;TO;19;IDEB;2021;4.1;estadual;ensino médio
+TOCANTINS;TO;19;IDEB;2023;4.1;estadual;ensino médio
+TOCANTINS;TO;19;SAEB;2005;3.6;estadual;ensino médio
+TOCANTINS;TO;19;SAEB;2007;3.8;estadual;ensino médio
+TOCANTINS;TO;19;SAEB;2009;4.0;estadual;ensino médio
+TOCANTINS;TO;19;SAEB;2011;4.2;estadual;ensino médio
+TOCANTINS;TO;19;SAEB;2013;3.9;estadual;ensino médio
+TOCANTINS;TO;19;SAEB;2015;4.0;estadual;ensino médio
+TOCANTINS;TO;19;SAEB;2017;4.2;estadual;ensino médio
+TOCANTINS;TO;19;SAEB;2019;4.3;estadual;ensino médio
+TOCANTINS;TO;19;SAEB;2021;4.3;estadual;ensino médio
+TOCANTINS;TO;19;SAEB;2023;4.3;estadual;ensino médio

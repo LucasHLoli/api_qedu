@@ -1,0 +1,20 @@
+# =============================================================================
+# render.yaml — Deploy automático no Render
+# =============================================================================
+# 1. Crie um "New Web Service" no Render
+# 2. Conecte o repo Git
+# 3. O Render detecta este arquivo e configura tudo
+# =============================================================================
+
+services:
+  - type: web
+    name: api-qedu
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app --bind 0.0.0.0:$PORT --timeout 300 --workers 1
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.11.7"
+    plan: free
+    healthCheckPath: /health
+    region: oregon

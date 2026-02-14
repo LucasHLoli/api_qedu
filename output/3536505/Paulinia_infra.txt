@@ -1,0 +1,94 @@
+================================================================================
+RELATÓRIO DE INFRAESTRUTURA ESCOLAR - DADOS QEDU
+================================================================================
+
+📍 Território: Paulínia
+🏫 Rede: Municipal
+📅 Ano de referência: 2024
+📅 Gerado em: 10/02/2026 15:30
+
+
+PARTE 1: TABELA COMPARATIVA
+--------------------------------------------------------------------------------
+
+           Indicador  Município  Estado  Brasil  vs Brasil  vs Estado
+         Biblioteca*      47.0%   16.0%   23.0%    +24.0pp    +31.0pp
+    Láb. Informática       9.0%   31.0%   18.0%     -9.0pp    -22.0pp
+       Láb. Ciências       0.0%    4.0%    4.0%     -4.0pp     -4.0pp
+     Sala de Leitura      29.0%   31.0%   23.0%     +6.0pp     -2.0pp
+  Quadra de Esportes      40.0%   40.0%   28.0%    +12.0pp     +0.0pp
+            Internet     100.0%   99.0%   89.0%    +11.0pp     +1.0pp
+         Banda Larga     100.0%   94.0%   76.0%    +24.0pp     +6.0pp
+
+
+
+================================================================================
+PANORAMA COMPARATIVO - ANÁLISE QUALITATIVA
+================================================================================
+
+📊 Análise comparativa de Paulínia em relação ao Estado e Brasil
+
+--------------------------------------------------------------------------------
+🔴 INDICADORES ABAIXO DA MÉDIA NACIONAL (BRASIL)
+--------------------------------------------------------------------------------
+
+
+   ❌ Láb. Informática
+      Município: 9.0% | Estado: 31.0% | Brasil: 18.0%
+      → -9.0pp vs Brasil
+
+   ❌ Láb. Ciências
+      Município: 0.0% | Estado: 4.0% | Brasil: 4.0%
+      → -4.0pp vs Brasil
+
+--------------------------------------------------------------------------------
+🟡 INDICADORES ABAIXO DA MÉDIA ESTADUAL (mas acima do Brasil)
+--------------------------------------------------------------------------------
+
+
+   ⚠️ Sala de Leitura
+      Município: 29.0% | Estado: 31.0% | Brasil: 23.0%
+
+--------------------------------------------------------------------------------
+🟢 INDICADORES ACIMA DAS MÉDIAS ESTADUAL E NACIONAL
+--------------------------------------------------------------------------------
+
+   ✅ Biblioteca*
+      Município: 47.0% | Estado: 16.0% | Brasil: 23.0%
+      → +24.0pp vs Brasil | +31.0pp vs Estado
+
+   ✅ Quadra de Esportes
+      Município: 40.0% | Estado: 40.0% | Brasil: 28.0%
+      → +12.0pp vs Brasil | +0.0pp vs Estado
+
+   ✅ Internet
+      Município: 100.0% | Estado: 99.0% | Brasil: 89.0%
+      → +11.0pp vs Brasil | +1.0pp vs Estado
+
+   ✅ Banda Larga
+      Município: 100.0% | Estado: 94.0% | Brasil: 76.0%
+      → +24.0pp vs Brasil | +6.0pp vs Estado
+
+================================================================================
+📋 RESUMO DO PANORAMA
+================================================================================
+
+   Total de indicadores analisados: 7
+
+   🔴 Abaixo do Brasil:           2 indicador(es)
+   🟡 Abaixo do Estado:           1 indicador(es)
+   🟢 Acima de ambos:             4 indicador(es)
+
+--------------------------------------------------------------------------------
+💬 CONCLUSÃO
+--------------------------------------------------------------------------------
+
+   Paulínia apresenta infraestrutura PARCIALMENTE adequada,
+   com 2 indicador(es) abaixo da média nacional.
+
+   💡 Recomendação: oportunidade de melhoria rápida.
+
+
+================================================================================
+Fonte: QEdu (qedu.org.br)
+================================================================================

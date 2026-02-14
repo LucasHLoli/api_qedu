@@ -1,0 +1,109 @@
+================================================================================
+RELATÓRIO DO CENSO ESCOLAR - DADOS QEDU
+================================================================================
+
+📍 Território: Ceará
+📅 Gerado em: 10/02/2026 15:30
+
+
+********************************************************************************
+PARTE 1: RESUMO GERAL
+********************************************************************************
+
+                Indicador                  Valor
+        Número de Escolas                  5,138
+      Total de Matrículas              1,408,181
+Média de Alunos por Escola                  274.1
+                     Rede              Municipal
+              Localização Urbana e Rural (todas)
+        Ano de Referência                   2024
+
+
+********************************************************************************
+PARTE 2: MATRÍCULAS POR ETAPA DE ENSINO
+********************************************************************************
+
+          Etapa de Ensino  Matrículas  % do Total  Média por Escola
+                   Creche     145,621       10.3%              28.3
+               Pré-Escola     191,807       13.6%              37.3
+ Anos Iniciais (1º ao 5º)     487,556       34.6%              94.9
+   Anos Finais (6º ao 9º)     402,801       28.6%              78.4
+             Ensino Médio           0        0.0%               0.0
+                      EJA      85,880        6.1%              16.7
+        Educação Especial      94,516        6.7%              18.4
+                    TOTAL   1,408,181        100%             274.1
+
+
+********************************************************************************
+PARTE 3: MATRÍCULAS POR SÉRIE/ANO
+********************************************************************************
+
+          Ciclo  Série/Ano  Matrículas
+  Anos Iniciais     1º Ano      94,952
+  Anos Iniciais     2º Ano      93,707
+  Anos Iniciais     3º Ano     101,506
+  Anos Iniciais     4º Ano     101,600
+  Anos Iniciais     5º Ano      95,791
+    Anos Finais     6º Ano      97,329
+    Anos Finais     7º Ano     102,232
+    Anos Finais     8º Ano     102,981
+    Anos Finais     9º Ano     100,259
+  Anos Iniciais   Subtotal     487,556
+    Anos Finais   Subtotal     402,801
+
+
+================================================================================
+ANÁLISE QUALITATIVA - CENSO ESCOLAR
+================================================================================
+
+📍 Território: Ceará
+🏫 Rede: Municipal
+📍 Localização: Urbana e Rural (todas)
+📅 Ano de referência: 2024
+
+--------------------------------------------------------------------------------
+📊 VISÃO GERAL
+--------------------------------------------------------------------------------
+
+   • Total de Escolas: 5,138
+   • Total de Matrículas: 1,408,181
+   • Média de alunos por escola: 274.1
+
+--------------------------------------------------------------------------------
+📚 DISTRIBUIÇÃO POR ETAPA DE ENSINO
+--------------------------------------------------------------------------------
+
+   • Anos Iniciais (1º ao 5º): 487,556 matrículas (34.6%)
+   • Anos Finais (6º ao 9º): 402,801 matrículas (28.6%)
+   • Pré-Escola: 191,807 matrículas (13.6%)
+   • Creche: 145,621 matrículas (10.3%)
+   • Educação Especial: 94,516 matrículas (6.7%)
+   • EJA: 85,880 matrículas (6.1%)
+   • Ensino Médio: 0 matrículas (0.0%)
+
+   📌 Maior concentração: Anos Iniciais (1º ao 5º)
+      com 487,556 matrículas
+
+--------------------------------------------------------------------------------
+💡 INSIGHTS PARA ABORDAGEM COMERCIAL
+--------------------------------------------------------------------------------
+
+   👶 EDUCAÇÃO INFANTIL: 337,428 matrículas
+      → Potencial para: materiais lúdicos, livros infantis, brinquedos educativos
+
+   📖 ENSINO FUNDAMENTAL: 890,357 matrículas
+      • Anos Iniciais: 487,556
+      • Anos Finais: 402,801
+      → Potencial para: livros didáticos, paradidáticos, materiais de alfabetização
+
+   📚 EJA: 85,880 matrículas
+      → Potencial para: materiais específicos para jovens e adultos
+
+   ♿ EDUCAÇÃO ESPECIAL: 94,516 matrículas
+      → Potencial para: materiais adaptados, recursos de acessibilidade
+
+
+
+================================================================================
+Fonte: QEdu - Censo Escolar (qedu.org.br)
+================================================================================

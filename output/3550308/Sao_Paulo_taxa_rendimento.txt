@@ -1,0 +1,125 @@
+================================================================================
+RELATÓRIO DE TAXAS DE RENDIMENTO - DADOS QEDU
+================================================================================
+
+📍 Território: São Paulo
+📅 Ano de referência: 2024
+📅 Período histórico: 2010 a 2024
+📅 Gerado em: 10/02/2026 12:21
+
+
+********************************************************************************
+PARTE 1: TAXAS DE RENDIMENTO POR ETAPA
+********************************************************************************
+
+                       Etapa  Aprovação  Reprovação  Abandono
+    Anos Iniciais (1º ao 5º)      99.3%        0.2%      0.5%
+      Anos Finais (6º ao 9º)      97.8%        1.4%      0.8%
+                Ensino Médio      93.5%        4.4%      2.1%
+
+
+********************************************************************************
+PARTE 2: COMPARATIVO 2024 - MUNICÍPIO vs ESTADO vs BRASIL
+********************************************************************************
+
+ Indicador  Município  Estado  Brasil  vs Estado  vs Brasil
+ Aprovação      99.3%   99.1%   97.4%    +0.20pp    +1.90pp
+Reprovação       0.2%    0.7%    2.3%    -0.50pp    -2.10pp
+  Abandono       0.5%    0.2%    0.3%    +0.30pp    +0.20pp
+
+
+********************************************************************************
+PARTE 3: EVOLUÇÃO HISTÓRICA (2010 a 2024)
+********************************************************************************
+
+ Indicador   Entidade   2022  2023  2024   Variação
+ Aprovação  Município  99.1% 99.2% 99.3%    +0.20pp
+ Aprovação  São Paulo  98.7% 99.1% 99.1%    +0.40pp
+ Aprovação     Brasil  96.0% 97.2% 97.4%    +1.40pp
+Reprovação  Município   0.5%  0.3%  0.2%    -0.30pp
+Reprovação  São Paulo   1.1%  0.7%  0.7%    -0.40pp
+Reprovação     Brasil   3.5%  2.5%  2.3%    -1.20pp
+  Abandono  Município   0.4%  0.5%  0.5%    +0.10pp
+  Abandono  São Paulo   0.2%  0.2%  0.2%    +0.00pp
+  Abandono     Brasil   0.5%  0.3%  0.3%    -0.20pp
+
+
+================================================================================
+ANÁLISE QUALITATIVA - TAXAS DE RENDIMENTO
+================================================================================
+
+--------------------------------------------------------------------------------
+📊 DIAGNÓSTICO POR ETAPA DE ENSINO
+--------------------------------------------------------------------------------
+
+   📌 ANOS INICIAIS (1º AO 5º)
+
+      ✅ Aprovação: 99.3% - Excelente
+      ✅ Reprovação: 0.2% - Excelente
+      ✅ Abandono: 0.5% - Excelente
+
+   📌 ANOS FINAIS (6º AO 9º)
+
+      🟢 Aprovação: 97.8% - Bom
+      🟢 Reprovação: 1.4% - Bom
+      🟢 Abandono: 0.8% - Bom
+
+   📌 ENSINO MÉDIO
+
+      🟡 Aprovação: 93.5% - Regular
+      🟡 Reprovação: 4.4% - Regular
+      🟡 Abandono: 2.1% - Regular
+
+--------------------------------------------------------------------------------
+📈 COMPARATIVO 2024: SÃO PAULO vs SÃO PAULO vs BRASIL
+--------------------------------------------------------------------------------
+
+   Aprovação:
+      • São Paulo: 99.3%
+      • São Paulo: 99.1%
+      • Brasil: 97.4%
+      → ✅ acima do estado (+0.20pp)
+      → ✅ acima do Brasil (+1.90pp)
+
+   Reprovação:
+      • São Paulo: 0.2%
+      • São Paulo: 0.7%
+      • Brasil: 2.3%
+      → ✅ melhor do estado (-0.50pp)
+      → ✅ melhor do Brasil (-2.10pp)
+
+   Abandono:
+      • São Paulo: 0.5%
+      • São Paulo: 0.2%
+      • Brasil: 0.3%
+      → 🔴 pior do estado (+0.30pp)
+      → 🔴 pior do Brasil (+0.20pp)
+
+--------------------------------------------------------------------------------
+📅 EVOLUÇÃO TEMPORAL (2010 a 2024)
+--------------------------------------------------------------------------------
+
+   Aprovação: 96.7% → 99.3% (+2.55pp) 📈 Melhora
+   Reprovação: 2.8% → 0.2% (-2.63pp) 📈 Melhora
+   Abandono: 0.4% → 0.5% (+0.07pp) 📉 Piora
+
+--------------------------------------------------------------------------------
+🌟 DESTAQUES POSITIVOS
+--------------------------------------------------------------------------------
+
+   ✅ Anos Iniciais (1º ao 5º): Excelente aprovação (99.3%)
+
+--------------------------------------------------------------------------------
+💡 CONCLUSÃO E RECOMENDAÇÕES
+--------------------------------------------------------------------------------
+
+   ✅ São Paulo apresenta EXCELENTES taxas de rendimento escolar.
+   O fluxo escolar está saudável, com baixa reprovação e abandono.
+
+   💼 Abordagem comercial: Focar em soluções de EXCELÊNCIA
+   e enriquecimento curricular para manter os bons indicadores.
+
+
+================================================================================
+Fonte: QEdu - Taxas de Rendimento / INEP (qedu.org.br)
+================================================================================

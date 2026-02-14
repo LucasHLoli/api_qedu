@@ -1,0 +1,112 @@
+================================================================================
+RELATÓRIO DO CENSO ESCOLAR - DADOS QEDU
+================================================================================
+
+📍 Território: Paulínia
+📅 Gerado em: 10/02/2026 15:30
+
+
+********************************************************************************
+PARTE 1: RESUMO GERAL
+********************************************************************************
+
+                Indicador                  Valor
+        Número de Escolas                     58
+      Total de Matrículas                 14,963
+Média de Alunos por Escola                  258.0
+                     Rede              Municipal
+              Localização Urbana e Rural (todas)
+        Ano de Referência                   2024
+
+
+********************************************************************************
+PARTE 2: MATRÍCULAS POR ETAPA DE ENSINO
+********************************************************************************
+
+          Etapa de Ensino  Matrículas  % do Total  Média por Escola
+                   Creche       1,981       13.2%              34.2
+               Pré-Escola       2,627       17.6%              45.3
+ Anos Iniciais (1º ao 5º)       6,002       40.1%             103.5
+   Anos Finais (6º ao 9º)       2,875       19.2%              49.6
+             Ensino Médio         407        2.7%               7.0
+                      EJA         352        2.4%               6.1
+        Educação Especial         719        4.8%              12.4
+                    TOTAL      14,963        100%             258.0
+
+
+********************************************************************************
+PARTE 3: MATRÍCULAS POR SÉRIE/ANO
+********************************************************************************
+
+          Ciclo  Série/Ano  Matrículas
+  Anos Iniciais     1º Ano       1,157
+  Anos Iniciais     2º Ano       1,135
+  Anos Iniciais     3º Ano       1,304
+  Anos Iniciais     4º Ano       1,228
+  Anos Iniciais     5º Ano       1,178
+    Anos Finais     6º Ano         710
+    Anos Finais     7º Ano         772
+    Anos Finais     8º Ano         696
+    Anos Finais     9º Ano         697
+  Anos Iniciais   Subtotal       6,002
+    Anos Finais   Subtotal       2,875
+
+
+================================================================================
+ANÁLISE QUALITATIVA - CENSO ESCOLAR
+================================================================================
+
+📍 Território: Paulínia
+🏫 Rede: Municipal
+📍 Localização: Urbana e Rural (todas)
+📅 Ano de referência: 2024
+
+--------------------------------------------------------------------------------
+📊 VISÃO GERAL
+--------------------------------------------------------------------------------
+
+   • Total de Escolas: 58
+   • Total de Matrículas: 14,963
+   • Média de alunos por escola: 258.0
+
+--------------------------------------------------------------------------------
+📚 DISTRIBUIÇÃO POR ETAPA DE ENSINO
+--------------------------------------------------------------------------------
+
+   • Anos Iniciais (1º ao 5º): 6,002 matrículas (40.1%)
+   • Anos Finais (6º ao 9º): 2,875 matrículas (19.2%)
+   • Pré-Escola: 2,627 matrículas (17.6%)
+   • Creche: 1,981 matrículas (13.2%)
+   • Educação Especial: 719 matrículas (4.8%)
+   • Ensino Médio: 407 matrículas (2.7%)
+   • EJA: 352 matrículas (2.4%)
+
+   📌 Maior concentração: Anos Iniciais (1º ao 5º)
+      com 6,002 matrículas
+
+--------------------------------------------------------------------------------
+💡 INSIGHTS PARA ABORDAGEM COMERCIAL
+--------------------------------------------------------------------------------
+
+   👶 EDUCAÇÃO INFANTIL: 4,608 matrículas
+      → Potencial para: materiais lúdicos, livros infantis, brinquedos educativos
+
+   📖 ENSINO FUNDAMENTAL: 8,877 matrículas
+      • Anos Iniciais: 6,002
+      • Anos Finais: 2,875
+      → Potencial para: livros didáticos, paradidáticos, materiais de alfabetização
+
+   🎓 ENSINO MÉDIO: 407 matrículas
+      → Potencial para: materiais preparatórios ENEM/vestibular, livros técnicos
+
+   📚 EJA: 352 matrículas
+      → Potencial para: materiais específicos para jovens e adultos
+
+   ♿ EDUCAÇÃO ESPECIAL: 719 matrículas
+      → Potencial para: materiais adaptados, recursos de acessibilidade
+
+
+
+================================================================================
+Fonte: QEdu - Censo Escolar (qedu.org.br)
+================================================================================

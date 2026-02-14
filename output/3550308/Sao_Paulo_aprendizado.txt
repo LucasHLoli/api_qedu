@@ -1,0 +1,479 @@
+================================================================================
+RELATÓRIO COMPLETO DE APRENDIZADO - DADOS QEDU
+================================================================================
+
+📍 Território: São Paulo
+🏫 Rede: Pública (todas as redes)
+📚 Ciclo: Anos Iniciais do Ensino Fundamental (1º ao 5º)
+📅 Gerado em: 10/02/2026 12:21
+
+
+********************************************************************************
+PARTE 1: EVOLUÇÃO TEMPORAL DOS INDICADORES
+********************************************************************************
+
+        Disciplina                                    Nível    2019   2021   2023   Variação
+ Língua Portuguesa        Adequado (Proficiente + Avançado)   65.3%  58.7%  55.6%    -9.71pp
+ Língua Portuguesa                                 Avançado   27.7%  22.1%  20.8%    -6.85pp
+ Língua Portuguesa                              Proficiente   37.6%  36.6%  34.7%    -2.86pp
+ Língua Portuguesa                                   Básico   25.0%  27.6%  29.1%    +4.16pp
+ Língua Portuguesa                             Insuficiente    9.8%  13.7%  15.3%    +5.56pp
+        Matemática        Adequado (Proficiente + Avançado)   56.6%  45.3%  44.5%   -12.15pp
+        Matemática                                 Avançado   19.6%  12.0%  14.3%    -5.35pp
+        Matemática                              Proficiente   37.0%  33.4%  30.2%    -6.79pp
+        Matemática                                   Básico   31.8%  37.3%  35.4%    +3.56pp
+        Matemática                             Insuficiente   11.6%  17.3%  20.1%    +8.57pp
+
+
+********************************************************************************
+PARTE 2: COMPARATIVO COM MUNICÍPIOS SEMELHANTES E BRASIL
+********************************************************************************
+
+RESUMO - % de Alunos com Aprendizado Adequado:
+
+        Disciplina  Município  Municípios semelhantes  Brasil  vs Semelhantes  vs Brasil
+ Língua Portuguesa      55.6%                   62.7%   55.1%          -7.1pp     +0.5pp
+        Matemática      44.5%                   53.0%   43.5%          -8.5pp     +1.0pp
+
+
+DETALHAMENTO POR NÍVEL:
+
+        Disciplina                                    Nível  Município  Municípios semelhantes  Brasil  vs Semelhantes  vs Brasil
+ Língua Portuguesa        Adequado (Proficiente + Avançado)      55.6%                   62.7%   55.1%          -7.1pp     +0.5pp
+ Língua Portuguesa                                 Avançado      20.8%                   26.6%   21.9%          -5.7pp     -1.0pp
+ Língua Portuguesa                              Proficiente      34.7%                   36.1%   33.2%          -1.4pp     +1.5pp
+ Língua Portuguesa                                   Básico      29.1%                   25.9%   29.0%          +3.3pp     +0.1pp
+ Língua Portuguesa                             Insuficiente      15.3%                   11.5%   15.9%          +3.9pp     -0.6pp
+        Matemática        Adequado (Proficiente + Avançado)      44.5%                   53.0%   43.5%          -8.5pp     +1.0pp
+        Matemática                                 Avançado      14.3%                   20.3%   15.1%          -6.1pp     -0.9pp
+        Matemática                              Proficiente      30.2%                   32.7%   28.4%          -2.5pp     +1.9pp
+        Matemática                                   Básico      35.4%                   31.5%   34.4%          +3.9pp     +0.9pp
+        Matemática                             Insuficiente      20.1%                   15.5%   22.1%          +4.7pp     -1.9pp
+
+
+********************************************************************************
+PARTE 3: ANÁLISE QUALITATIVA
+********************************************************************************
+
+================================================================================
+ANÁLISE QUALITATIVA - EVOLUÇÃO DO APRENDIZADO
+================================================================================
+
+📍 Território: São Paulo
+🏫 Rede: Pública (todas as redes)
+📚 Ciclo: Anos Iniciais do Ensino Fundamental (1º ao 5º)
+📅 Período analisado: 2019 a 2023
+
+--------------------------------------------------------------------------------
+DIAGNÓSTICO ATUAL POR DISCIPLINA
+--------------------------------------------------------------------------------
+
+📘 LÍNGUA PORTUGUESA
+
+   ⚠️ Situação atual: Desempenho intermediário
+   • Alunos com aprendizado adequado: 55.6%
+      - Avançado: 20.8%
+      - Proficiente: 34.7%
+   • Alunos com aprendizado inadequado: 44.5%
+      - Básico: 29.1%
+      - Insuficiente: 15.3%
+   • Evolução (2019-2023): 📉 Piora (-9.7pp)
+
+📘 MATEMÁTICA
+
+   🔴 Situação atual: Desempenho crítico - oportunidade de atuação
+   • Alunos com aprendizado adequado: 44.5%
+      - Avançado: 14.3%
+      - Proficiente: 30.2%
+   • Alunos com aprendizado inadequado: 55.5%
+      - Básico: 35.4%
+      - Insuficiente: 20.1%
+   • Evolução (2019-2023): 📉 Piora (-12.2pp)
+
+--------------------------------------------------------------------------------
+🎯 OPORTUNIDADES IDENTIFICADAS
+--------------------------------------------------------------------------------
+
+   🔴 Matemática: Apenas 44.5% com aprendizado adequado
+      → 20.1% em nível insuficiente
+      → Potencial para: reforço escolar, materiais de nivelamento
+
+--------------------------------------------------------------------------------
+📉 IMPACTO DA PANDEMIA E RECUPERAÇÃO
+--------------------------------------------------------------------------------
+
+   📘 Língua Portuguesa:
+      • 2019→2021 (pandemia): -6.5pp
+      • 2021→2023 (recuperação): -3.2pp
+      • Saldo total (2019→2023): -9.7pp
+      ⚠️ Ainda 9.7pp ABAIXO do nível pré-pandemia
+
+   📘 Matemática:
+      • 2019→2021 (pandemia): -11.3pp
+      • 2021→2023 (recuperação): -0.8pp
+      • Saldo total (2019→2023): -12.2pp
+      ⚠️ Ainda 12.2pp ABAIXO do nível pré-pandemia
+
+================================================================================
+ANÁLISE QUALITATIVA - COMPARATIVO COM SEMELHANTES E BRASIL
+================================================================================
+
+📊 Comparação de São Paulo com municípios semelhantes e média nacional
+
+--------------------------------------------------------------------------------
+🔴 ABAIXO DA MÉDIA NACIONAL (BRASIL)
+--------------------------------------------------------------------------------
+   ✅ Nenhum indicador abaixo da média nacional.
+
+--------------------------------------------------------------------------------
+🟡 ABAIXO DE MUNICÍPIOS SEMELHANTES (mas acima do Brasil)
+--------------------------------------------------------------------------------
+
+   ⚠️ Língua Portuguesa - Adequado
+      Município: 55.6% | Semelhantes: 62.7% → -7.1pp
+
+   ⚠️ Matemática - Adequado
+      Município: 44.5% | Semelhantes: 53.0% → -8.5pp
+
+--------------------------------------------------------------------------------
+🟢 ACIMA DAS MÉDIAS (Semelhantes e Brasil)
+--------------------------------------------------------------------------------
+
+================================================================================
+📋 RESUMO COMPARATIVO
+================================================================================
+
+   🔴 Abaixo do Brasil:          0 disciplina(s)
+   🟡 Abaixo de Semelhantes:     2 disciplina(s)
+   🟢 Acima de ambos:            0 disciplina(s)
+
+================================================================================
+💡 CONCLUSÃO E RECOMENDAÇÕES PARA ABORDAGEM COMERCIAL
+================================================================================
+
+📍 SÃO PAULO
+   🔴 SITUAÇÃO: CRÍTICA
+   POTENCIAL DE MERCADO: ALTO
+   → Recomendação: reforço escolar, recuperação, materiais de nivelamento
+
+
+================================================================================
+Fonte: QEdu (qedu.org.br)
+================================================================================
+================================================================================
+RELATÓRIO COMPLETO DE APRENDIZADO - DADOS QEDU
+================================================================================
+
+📍 Território: São Paulo
+🏫 Rede: Pública (todas as redes)
+📚 Ciclo: Anos Finais do Ensino Fundamental (6º ao 9º)
+📅 Gerado em: 10/02/2026 12:21
+
+
+********************************************************************************
+PARTE 1: EVOLUÇÃO TEMPORAL DOS INDICADORES
+********************************************************************************
+
+        Disciplina                                    Nível    2019   2021   2023   Variação
+ Língua Portuguesa        Adequado (Proficiente + Avançado)   40.9%  41.6%  36.2%    -4.74pp
+ Língua Portuguesa                                 Avançado    8.5%   8.2%   7.0%    -1.47pp
+ Língua Portuguesa                              Proficiente   32.5%  33.4%  29.2%    -3.28pp
+ Língua Portuguesa                                   Básico   44.5%  45.7%  45.0%    +0.51pp
+ Língua Portuguesa                             Insuficiente   14.5%  12.7%  18.8%    +4.23pp
+        Matemática        Adequado (Proficiente + Avançado)   18.3%  17.3%  14.7%    -3.61pp
+        Matemática                                 Avançado    1.7%   1.3%   1.5%    -0.25pp
+        Matemática                              Proficiente   16.6%  16.1%  13.2%    -3.36pp
+        Matemática                                   Básico   55.8%  56.7%  52.5%    -3.27pp
+        Matemática                             Insuficiente   25.4%  26.0%  32.1%    +6.71pp
+
+
+********************************************************************************
+PARTE 2: COMPARATIVO COM MUNICÍPIOS SEMELHANTES E BRASIL
+********************************************************************************
+
+RESUMO - % de Alunos com Aprendizado Adequado:
+
+        Disciplina  Município  Municípios semelhantes  Brasil  vs Semelhantes  vs Brasil
+ Língua Portuguesa      36.2%                   42.2%   35.9%          -6.0pp     +0.3pp
+        Matemática      14.7%                   19.8%   16.5%          -5.1pp     -1.8pp
+
+
+DETALHAMENTO POR NÍVEL:
+
+        Disciplina                                    Nível  Município  Municípios semelhantes  Brasil  vs Semelhantes  vs Brasil
+ Língua Portuguesa        Adequado (Proficiente + Avançado)      36.2%                   42.2%   35.9%          -6.0pp     +0.3pp
+ Língua Portuguesa                                 Avançado       7.0%                    9.0%    7.3%          -2.0pp     -0.3pp
+ Língua Portuguesa                              Proficiente      29.2%                   33.1%   28.6%          -4.0pp     +0.6pp
+ Língua Portuguesa                                   Básico      45.0%                   43.5%   46.7%          +1.5pp     -1.6pp
+ Língua Portuguesa                             Insuficiente      18.8%                   14.3%   17.4%          +4.4pp     +1.4pp
+        Matemática        Adequado (Proficiente + Avançado)      14.7%                   19.8%   16.5%          -5.1pp     -1.8pp
+        Matemática                                 Avançado       1.5%                    2.7%    2.4%          -1.2pp     -0.9pp
+        Matemática                              Proficiente      13.2%                   17.2%   14.1%          -3.9pp     -0.8pp
+        Matemática                                   Básico      52.5%                   53.0%   51.1%          -0.5pp     +1.4pp
+        Matemática                             Insuficiente      32.1%                   26.5%   31.7%          +5.6pp     +0.4pp
+
+
+********************************************************************************
+PARTE 3: ANÁLISE QUALITATIVA
+********************************************************************************
+
+================================================================================
+ANÁLISE QUALITATIVA - EVOLUÇÃO DO APRENDIZADO
+================================================================================
+
+📍 Território: São Paulo
+🏫 Rede: Pública (todas as redes)
+📚 Ciclo: Anos Finais do Ensino Fundamental (6º ao 9º)
+📅 Período analisado: 2019 a 2023
+
+--------------------------------------------------------------------------------
+DIAGNÓSTICO ATUAL POR DISCIPLINA
+--------------------------------------------------------------------------------
+
+📘 LÍNGUA PORTUGUESA
+
+   🔴 Situação atual: Desempenho crítico - oportunidade de atuação
+   • Alunos com aprendizado adequado: 36.2%
+      - Avançado: 7.0%
+      - Proficiente: 29.2%
+   • Alunos com aprendizado inadequado: 63.8%
+      - Básico: 45.0%
+      - Insuficiente: 18.8%
+   • Evolução (2019-2023): 📉 Piora (-4.7pp)
+
+📘 MATEMÁTICA
+
+   🔴 Situação atual: Desempenho crítico - oportunidade de atuação
+   • Alunos com aprendizado adequado: 14.7%
+      - Avançado: 1.5%
+      - Proficiente: 13.2%
+   • Alunos com aprendizado inadequado: 84.6%
+      - Básico: 52.5%
+      - Insuficiente: 32.1%
+   • Evolução (2019-2023): 📉 Piora (-3.6pp)
+
+--------------------------------------------------------------------------------
+🎯 OPORTUNIDADES IDENTIFICADAS
+--------------------------------------------------------------------------------
+
+   🔴 Língua Portuguesa: Apenas 36.2% com aprendizado adequado
+      → 18.8% em nível insuficiente
+      → Potencial para: reforço escolar, materiais de nivelamento
+
+   🔴 Matemática: Apenas 14.7% com aprendizado adequado
+      → 32.1% em nível insuficiente
+      → Potencial para: reforço escolar, materiais de nivelamento
+
+--------------------------------------------------------------------------------
+📉 IMPACTO DA PANDEMIA E RECUPERAÇÃO
+--------------------------------------------------------------------------------
+
+   📘 Língua Portuguesa:
+      • 2019→2021 (pandemia): +0.6pp
+      • 2021→2023 (recuperação): -5.4pp
+      • Saldo total (2019→2023): -4.7pp
+      ⚠️ Ainda 4.7pp ABAIXO do nível pré-pandemia
+
+   📘 Matemática:
+      • 2019→2021 (pandemia): -1.0pp
+      • 2021→2023 (recuperação): -2.6pp
+      • Saldo total (2019→2023): -3.6pp
+      ⚠️ Ainda 3.6pp ABAIXO do nível pré-pandemia
+
+================================================================================
+ANÁLISE QUALITATIVA - COMPARATIVO COM SEMELHANTES E BRASIL
+================================================================================
+
+📊 Comparação de São Paulo com municípios semelhantes e média nacional
+
+--------------------------------------------------------------------------------
+🔴 ABAIXO DA MÉDIA NACIONAL (BRASIL)
+--------------------------------------------------------------------------------
+
+   ❌ Matemática - Adequado
+      Município: 14.7% | Brasil: 16.5% → -1.8pp
+
+--------------------------------------------------------------------------------
+🟡 ABAIXO DE MUNICÍPIOS SEMELHANTES (mas acima do Brasil)
+--------------------------------------------------------------------------------
+
+   ⚠️ Língua Portuguesa - Adequado
+      Município: 36.2% | Semelhantes: 42.2% → -6.0pp
+
+--------------------------------------------------------------------------------
+🟢 ACIMA DAS MÉDIAS (Semelhantes e Brasil)
+--------------------------------------------------------------------------------
+
+================================================================================
+📋 RESUMO COMPARATIVO
+================================================================================
+
+   🔴 Abaixo do Brasil:          1 disciplina(s)
+   🟡 Abaixo de Semelhantes:     1 disciplina(s)
+   🟢 Acima de ambos:            0 disciplina(s)
+
+================================================================================
+💡 CONCLUSÃO E RECOMENDAÇÕES PARA ABORDAGEM COMERCIAL
+================================================================================
+
+📍 SÃO PAULO
+   🔴 SITUAÇÃO: CRÍTICA
+   POTENCIAL DE MERCADO: ALTO
+   → Recomendação: reforço escolar, recuperação, materiais de nivelamento
+
+
+================================================================================
+Fonte: QEdu (qedu.org.br)
+================================================================================
+================================================================================
+RELATÓRIO COMPLETO DE APRENDIZADO - DADOS QEDU
+================================================================================
+
+📍 Território: São Paulo
+🏫 Rede: Pública (todas as redes)
+📚 Ciclo: Ensino Médio
+📅 Gerado em: 10/02/2026 12:21
+
+
+********************************************************************************
+PARTE 1: EVOLUÇÃO TEMPORAL DOS INDICADORES
+********************************************************************************
+
+        Disciplina                                    Nível    2019   2021   Variação
+ Língua Portuguesa        Adequado (Proficiente + Avançado)   37.0%  39.9%    +2.89pp
+ Língua Portuguesa                                 Avançado    0.9%   1.1%    +0.28pp
+ Língua Portuguesa                              Proficiente   36.1%  38.7%    +2.61pp
+ Língua Portuguesa                                   Básico   35.4%  35.0%    -0.35pp
+ Língua Portuguesa                             Insuficiente   27.6%  25.1%    -2.53pp
+        Matemática        Adequado (Proficiente + Avançado)    4.6%   5.4%    +0.84pp
+        Matemática                                 Avançado    0.3%   0.5%    +0.22pp
+        Matemática                              Proficiente    4.3%   4.9%    +0.62pp
+        Matemática                                   Básico   42.9%  42.5%    -0.43pp
+        Matemática                             Insuficiente   52.5%  52.1%    -0.40pp
+
+
+********************************************************************************
+PARTE 2: COMPARATIVO COM MUNICÍPIOS SEMELHANTES E BRASIL
+********************************************************************************
+
+RESUMO - % de Alunos com Aprendizado Adequado:
+
+        Disciplina  Município  Municípios semelhantes  Brasil  vs Semelhantes  vs Brasil
+ Língua Portuguesa      39.9%                   37.1%   32.5%          +2.8pp     +7.4pp
+        Matemática       5.4%                    5.0%    5.2%          +0.5pp     +0.2pp
+
+
+DETALHAMENTO POR NÍVEL:
+
+        Disciplina                                    Nível  Município  Municípios semelhantes  Brasil  vs Semelhantes  vs Brasil
+ Língua Portuguesa        Adequado (Proficiente + Avançado)      39.9%                   37.1%   32.5%          +2.8pp     +7.4pp
+ Língua Portuguesa                                 Avançado       1.1%                    1.2%    1.1%          -0.1pp     -0.0pp
+ Língua Portuguesa                              Proficiente      38.7%                   35.9%   31.3%          +2.9pp     +7.4pp
+ Língua Portuguesa                                   Básico      35.0%                   34.9%   34.4%          +0.1pp     +0.7pp
+ Língua Portuguesa                             Insuficiente      25.1%                   28.0%   33.2%          -2.9pp     -8.1pp
+        Matemática        Adequado (Proficiente + Avançado)       5.4%                    5.0%    5.2%          +0.5pp     +0.2pp
+        Matemática                                 Avançado       0.5%                    0.5%    0.7%          -0.0pp     -0.2pp
+        Matemática                              Proficiente       4.9%                    4.4%    4.5%          +0.5pp     +0.5pp
+        Matemática                                   Básico      42.5%                   38.2%   35.8%          +4.3pp     +6.7pp
+        Matemática                             Insuficiente      52.1%                   56.8%   59.0%          -4.7pp     -6.9pp
+
+
+********************************************************************************
+PARTE 3: ANÁLISE QUALITATIVA
+********************************************************************************
+
+================================================================================
+ANÁLISE QUALITATIVA - EVOLUÇÃO DO APRENDIZADO
+================================================================================
+
+📍 Território: São Paulo
+🏫 Rede: Pública (todas as redes)
+📚 Ciclo: Ensino Médio
+📅 Período analisado: 2019 a 2021
+
+--------------------------------------------------------------------------------
+DIAGNÓSTICO ATUAL POR DISCIPLINA
+--------------------------------------------------------------------------------
+
+📘 LÍNGUA PORTUGUESA
+
+   🔴 Situação atual: Desempenho crítico - oportunidade de atuação
+   • Alunos com aprendizado adequado: 39.9%
+      - Avançado: 1.1%
+      - Proficiente: 38.7%
+   • Alunos com aprendizado inadequado: 60.1%
+      - Básico: 35.0%
+      - Insuficiente: 25.1%
+   • Evolução (2019-2021): 📈 Melhora (+2.9pp)
+
+📘 MATEMÁTICA
+
+   🔴 Situação atual: Desempenho crítico - oportunidade de atuação
+   • Alunos com aprendizado adequado: 5.4%
+      - Avançado: 0.5%
+      - Proficiente: 4.9%
+   • Alunos com aprendizado inadequado: 94.6%
+      - Básico: 42.5%
+      - Insuficiente: 52.1%
+   • Evolução (2019-2021): 📈 Melhora (+0.8pp)
+
+--------------------------------------------------------------------------------
+🎯 OPORTUNIDADES IDENTIFICADAS
+--------------------------------------------------------------------------------
+
+   🔴 Língua Portuguesa: Apenas 39.9% com aprendizado adequado
+      → 25.1% em nível insuficiente
+      → Potencial para: reforço escolar, materiais de nivelamento
+
+   🔴 Matemática: Apenas 5.4% com aprendizado adequado
+      → 52.1% em nível insuficiente
+      → Potencial para: reforço escolar, materiais de nivelamento
+
+================================================================================
+ANÁLISE QUALITATIVA - COMPARATIVO COM SEMELHANTES E BRASIL
+================================================================================
+
+📊 Comparação de São Paulo com municípios semelhantes e média nacional
+
+--------------------------------------------------------------------------------
+🔴 ABAIXO DA MÉDIA NACIONAL (BRASIL)
+--------------------------------------------------------------------------------
+   ✅ Nenhum indicador abaixo da média nacional.
+
+--------------------------------------------------------------------------------
+🟡 ABAIXO DE MUNICÍPIOS SEMELHANTES (mas acima do Brasil)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+🟢 ACIMA DAS MÉDIAS (Semelhantes e Brasil)
+--------------------------------------------------------------------------------
+
+   ✅ Língua Portuguesa - Adequado
+      Município: 39.9% | Semelhantes: 37.1% | Brasil: 32.5%
+      → +7.4pp vs Brasil | +2.8pp vs Semelhantes
+
+   ✅ Matemática - Adequado
+      Município: 5.4% | Semelhantes: 5.0% | Brasil: 5.2%
+      → +0.2pp vs Brasil | +0.5pp vs Semelhantes
+
+================================================================================
+📋 RESUMO COMPARATIVO
+================================================================================
+
+   🔴 Abaixo do Brasil:          0 disciplina(s)
+   🟡 Abaixo de Semelhantes:     0 disciplina(s)
+   🟢 Acima de ambos:            2 disciplina(s)
+
+================================================================================
+💡 CONCLUSÃO E RECOMENDAÇÕES PARA ABORDAGEM COMERCIAL
+================================================================================
+
+📍 SÃO PAULO
+   🔴 SITUAÇÃO: CRÍTICA
+   POTENCIAL DE MERCADO: ALTO
+   → Recomendação: reforço escolar, recuperação, materiais de nivelamento
+
+
+================================================================================
+Fonte: QEdu (qedu.org.br)
+================================================================================

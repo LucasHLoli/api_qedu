@@ -1,0 +1,109 @@
+================================================================================
+RELATÓRIO DO CENSO ESCOLAR - DADOS QEDU
+================================================================================
+
+📍 Território: Fortaleza
+📅 Gerado em: 10/02/2026 15:29
+
+
+********************************************************************************
+PARTE 1: RESUMO GERAL
+********************************************************************************
+
+                Indicador                  Valor
+        Número de Escolas                    310
+      Total de Matrículas                246,117
+Média de Alunos por Escola                  793.9
+                     Rede              Municipal
+              Localização Urbana e Rural (todas)
+        Ano de Referência                   2024
+
+
+********************************************************************************
+PARTE 2: MATRÍCULAS POR ETAPA DE ENSINO
+********************************************************************************
+
+          Etapa de Ensino  Matrículas  % do Total  Média por Escola
+                   Creche      16,278        6.6%              52.5
+               Pré-Escola      31,935       13.0%             103.0
+ Anos Iniciais (1º ao 5º)      94,569       38.4%             305.1
+   Anos Finais (6º ao 9º)      78,987       32.1%             254.8
+             Ensino Médio           0        0.0%               0.0
+                      EJA       5,242        2.1%              16.9
+        Educação Especial      19,106        7.8%              61.6
+                    TOTAL     246,117        100%             793.9
+
+
+********************************************************************************
+PARTE 3: MATRÍCULAS POR SÉRIE/ANO
+********************************************************************************
+
+          Ciclo  Série/Ano  Matrículas
+  Anos Iniciais     1º Ano      17,266
+  Anos Iniciais     2º Ano      18,155
+  Anos Iniciais     3º Ano      20,085
+  Anos Iniciais     4º Ano      20,086
+  Anos Iniciais     5º Ano      18,977
+    Anos Finais     6º Ano      19,320
+    Anos Finais     7º Ano      19,983
+    Anos Finais     8º Ano      20,079
+    Anos Finais     9º Ano      19,605
+  Anos Iniciais   Subtotal      94,569
+    Anos Finais   Subtotal      78,987
+
+
+================================================================================
+ANÁLISE QUALITATIVA - CENSO ESCOLAR
+================================================================================
+
+📍 Território: Fortaleza
+🏫 Rede: Municipal
+📍 Localização: Urbana e Rural (todas)
+📅 Ano de referência: 2024
+
+--------------------------------------------------------------------------------
+📊 VISÃO GERAL
+--------------------------------------------------------------------------------
+
+   • Total de Escolas: 310
+   • Total de Matrículas: 246,117
+   • Média de alunos por escola: 793.9
+
+--------------------------------------------------------------------------------
+📚 DISTRIBUIÇÃO POR ETAPA DE ENSINO
+--------------------------------------------------------------------------------
+
+   • Anos Iniciais (1º ao 5º): 94,569 matrículas (38.4%)
+   • Anos Finais (6º ao 9º): 78,987 matrículas (32.1%)
+   • Pré-Escola: 31,935 matrículas (13.0%)
+   • Educação Especial: 19,106 matrículas (7.8%)
+   • Creche: 16,278 matrículas (6.6%)
+   • EJA: 5,242 matrículas (2.1%)
+   • Ensino Médio: 0 matrículas (0.0%)
+
+   📌 Maior concentração: Anos Iniciais (1º ao 5º)
+      com 94,569 matrículas
+
+--------------------------------------------------------------------------------
+💡 INSIGHTS PARA ABORDAGEM COMERCIAL
+--------------------------------------------------------------------------------
+
+   👶 EDUCAÇÃO INFANTIL: 48,213 matrículas
+      → Potencial para: materiais lúdicos, livros infantis, brinquedos educativos
+
+   📖 ENSINO FUNDAMENTAL: 173,556 matrículas
+      • Anos Iniciais: 94,569
+      • Anos Finais: 78,987
+      → Potencial para: livros didáticos, paradidáticos, materiais de alfabetização
+
+   📚 EJA: 5,242 matrículas
+      → Potencial para: materiais específicos para jovens e adultos
+
+   ♿ EDUCAÇÃO ESPECIAL: 19,106 matrículas
+      → Potencial para: materiais adaptados, recursos de acessibilidade
+
+
+
+================================================================================
+Fonte: QEdu - Censo Escolar (qedu.org.br)
+================================================================================

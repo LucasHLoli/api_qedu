@@ -1,0 +1,87 @@
+================================================================================
+RELATÓRIO DE ANÁLISE IDEB
+Gerado em: 10/02/2026 15:30
+================================================================================
+
+📍 ESCOPO DA ANÁLISE
+----------------------------------------
+Município: Paulínia
+Estado: SP
+Comparativo: Município vs Estado vs Brasil
+Nota: Ensino Médio usa dados da rede estadual (não há IDEB municipal para EM)
+
+📊 HISTÓRICO IDEB POR SEGMENTO
+----------------------------------------
+
+▶ ANOS INICIAIS
+--------------------------------------------------------------------------------
+Ano      Município    Estado       Brasil(M)    vs Estado    vs Brasil   
+--------------------------------------------------------------------------------
+2007     4.90         4.70         3.88         +0.20        +1.02       
+2009     5.80         5.40         4.38         +0.40        +1.42       
+2011     5.60         5.40         4.63         +0.20        +0.97       
+2013     5.90         5.70         4.93         +0.20        +0.97       
+2015     6.40         6.40         5.22         +0.00        +1.18       
+2017     6.60         6.50         5.35         +0.10        +1.25       
+2019     6.60         6.60         5.45         +0.00        +1.15       
+2021     6.30         6.10         5.45         +0.20        +0.85       
+2023     6.30         6.20         5.66         +0.10        +0.64       
+
+▶ ANOS FINAIS
+--------------------------------------------------------------------------------
+Ano      Município    Estado       Brasil(M)    vs Estado    vs Brasil   
+--------------------------------------------------------------------------------
+2007     3.60         4.00         3.33         -0.40        +0.27       
+2009     4.80         4.30         3.54         +0.50        +1.26       
+2011     4.40         4.30         3.63         +0.10        +0.77       
+2013     4.10         4.40         3.72         -0.30        +0.38       
+2015     4.50         4.70         3.93         -0.20        +0.57       
+2017     4.90         4.80         4.24         +0.10        +0.66       
+2019     5.00         5.20         4.43         -0.20        +0.57       
+2021     5.40         5.30         4.74         +0.10        +0.66       
+2023     5.20         5.10         4.67         +0.10        +0.53       
+
+
+💡 INSIGHTS E OBSERVAÇÕES
+================================================================================
+
+▶ ANOS INICIAIS
+----------------------------------------
+  ➡️ Município próximo do estado (+0.16 pontos)
+  ✅ Município supera média nacional em 1.05 pontos
+  📈 Tendência de crescimento (+0.082/ano)
+  🚀 Crescimento expressivo de 28.6% no período
+
+▶ ANOS FINAIS
+----------------------------------------
+  ➡️ Município próximo do estado (-0.02 pontos)
+  ✅ Município supera média nacional em 0.63 pontos
+  📈 Tendência de crescimento (+0.085/ano)
+  🚀 Crescimento expressivo de 44.4% no período
+  💪 Resiliência na pandemia (crescimento de 0.4 pontos 2019→2021)
+  ⚠️ ANOS FINAIS : Continuidade de queda pós-pandemia (-0.2 pontos 2021→2023)
+
+
+📈 ESTATÍSTICAS ADICIONAIS
+================================================================================
+
+▶ ANOS INICIAIS
+----------------------------------------
+  • Variação total (%): 28.57
+  • Tendência (pts/ano): 0.08
+  • Município vs Estado: 0.16
+  • Município vs Brasil: 1.05
+  • Maior valor: 6.60
+  • Menor valor: 4.90
+
+▶ ANOS FINAIS
+----------------------------------------
+  • Variação total (%): 44.44
+  • Tendência (pts/ano): 0.08
+  • Município vs Estado: -0.02
+  • Município vs Brasil: 0.63
+  • Maior valor: 5.40
+  • Menor valor: 3.60
+
+================================================================================
+Fim do Relatório

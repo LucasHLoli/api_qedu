@@ -1,0 +1,112 @@
+================================================================================
+RELATÓRIO DO CENSO ESCOLAR - DADOS QEDU
+================================================================================
+
+📍 Território: São Paulo
+📅 Gerado em: 10/02/2026 12:21
+
+
+********************************************************************************
+PARTE 1: RESUMO GERAL
+********************************************************************************
+
+                Indicador                  Valor
+        Número de Escolas                  1,560
+      Total de Matrículas                739,004
+Média de Alunos por Escola                  473.7
+                     Rede              Municipal
+              Localização Urbana e Rural (todas)
+        Ano de Referência                   2024
+
+
+********************************************************************************
+PARTE 2: MATRÍCULAS POR ETAPA DE ENSINO
+********************************************************************************
+
+          Etapa de Ensino  Matrículas  % do Total  Média por Escola
+                   Creche      50,478        6.8%              32.4
+               Pré-Escola     197,499       26.7%             126.6
+ Anos Iniciais (1º ao 5º)     250,209       33.9%             160.4
+   Anos Finais (6º ao 9º)     185,011       25.0%             118.6
+             Ensino Médio       2,348        0.3%               1.5
+                      EJA      23,016        3.1%              14.8
+        Educação Especial      30,443        4.1%              19.5
+                    TOTAL     739,004        100%             473.7
+
+
+********************************************************************************
+PARTE 3: MATRÍCULAS POR SÉRIE/ANO
+********************************************************************************
+
+          Ciclo  Série/Ano  Matrículas
+  Anos Iniciais     1º Ano      50,422
+  Anos Iniciais     2º Ano      49,054
+  Anos Iniciais     3º Ano      51,263
+  Anos Iniciais     4º Ano      50,655
+  Anos Iniciais     5º Ano      48,815
+    Anos Finais     6º Ano      44,529
+    Anos Finais     7º Ano      43,869
+    Anos Finais     8º Ano      48,193
+    Anos Finais     9º Ano      48,420
+  Anos Iniciais   Subtotal     250,209
+    Anos Finais   Subtotal     185,011
+
+
+================================================================================
+ANÁLISE QUALITATIVA - CENSO ESCOLAR
+================================================================================
+
+📍 Território: São Paulo
+🏫 Rede: Municipal
+📍 Localização: Urbana e Rural (todas)
+📅 Ano de referência: 2024
+
+--------------------------------------------------------------------------------
+📊 VISÃO GERAL
+--------------------------------------------------------------------------------
+
+   • Total de Escolas: 1,560
+   • Total de Matrículas: 739,004
+   • Média de alunos por escola: 473.7
+
+--------------------------------------------------------------------------------
+📚 DISTRIBUIÇÃO POR ETAPA DE ENSINO
+--------------------------------------------------------------------------------
+
+   • Anos Iniciais (1º ao 5º): 250,209 matrículas (33.9%)
+   • Pré-Escola: 197,499 matrículas (26.7%)
+   • Anos Finais (6º ao 9º): 185,011 matrículas (25.0%)
+   • Creche: 50,478 matrículas (6.8%)
+   • Educação Especial: 30,443 matrículas (4.1%)
+   • EJA: 23,016 matrículas (3.1%)
+   • Ensino Médio: 2,348 matrículas (0.3%)
+
+   📌 Maior concentração: Anos Iniciais (1º ao 5º)
+      com 250,209 matrículas
+
+--------------------------------------------------------------------------------
+💡 INSIGHTS PARA ABORDAGEM COMERCIAL
+--------------------------------------------------------------------------------
+
+   👶 EDUCAÇÃO INFANTIL: 247,977 matrículas
+      → Potencial para: materiais lúdicos, livros infantis, brinquedos educativos
+
+   📖 ENSINO FUNDAMENTAL: 435,220 matrículas
+      • Anos Iniciais: 250,209
+      • Anos Finais: 185,011
+      → Potencial para: livros didáticos, paradidáticos, materiais de alfabetização
+
+   🎓 ENSINO MÉDIO: 2,348 matrículas
+      → Potencial para: materiais preparatórios ENEM/vestibular, livros técnicos
+
+   📚 EJA: 23,016 matrículas
+      → Potencial para: materiais específicos para jovens e adultos
+
+   ♿ EDUCAÇÃO ESPECIAL: 30,443 matrículas
+      → Potencial para: materiais adaptados, recursos de acessibilidade
+
+
+
+================================================================================
+Fonte: QEdu - Censo Escolar (qedu.org.br)
+================================================================================

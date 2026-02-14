@@ -1,0 +1,498 @@
+================================================================================
+RELATÓRIO COMPLETO DE APRENDIZADO - DADOS QEDU
+================================================================================
+
+📍 Território: Ceará
+🏫 Rede: Pública (todas as redes)
+📚 Ciclo: Anos Iniciais do Ensino Fundamental (1º ao 5º)
+📅 Gerado em: 10/02/2026 15:30
+
+
+********************************************************************************
+PARTE 1: EVOLUÇÃO TEMPORAL DOS INDICADORES
+********************************************************************************
+
+        Disciplina                                    Nível    2019   2021   2023   Variação
+ Língua Portuguesa        Adequado (Proficiente + Avançado)   64.2%  60.2%  66.3%    +2.11pp
+ Língua Portuguesa                                 Avançado   29.0%  27.3%  35.1%    +6.05pp
+ Língua Portuguesa                              Proficiente   35.2%  32.9%  31.3%    -3.93pp
+ Língua Portuguesa                                   Básico   25.1%  25.5%  22.1%    -2.99pp
+ Língua Portuguesa                             Insuficiente   10.6%  14.3%  11.5%    +0.88pp
+        Matemática        Adequado (Proficiente + Avançado)   52.9%  43.2%  52.9%    -0.03pp
+        Matemática                                 Avançado   21.2%  15.6%  25.2%    +4.01pp
+        Matemática                              Proficiente   31.7%  27.6%  27.7%    -4.03pp
+        Matemática                                   Básico   32.8%  36.0%  30.0%    -2.79pp
+        Matemática                             Insuficiente   14.3%  20.8%  17.1%    +2.80pp
+
+
+********************************************************************************
+PARTE 2: COMPARATIVO COM MUNICÍPIOS SEMELHANTES E BRASIL
+********************************************************************************
+
+RESUMO - % de Alunos com Aprendizado Adequado:
+
+        Disciplina  Município  Municípios semelhantes  Brasil  vs Semelhantes  vs Brasil
+ Língua Portuguesa      66.3%                   38.8%   55.1%         +27.5pp    +11.2pp
+        Matemática      52.9%                   26.9%   43.5%         +26.0pp     +9.4pp
+
+
+DETALHAMENTO POR NÍVEL:
+
+        Disciplina                                    Nível  Município  Municípios semelhantes  Brasil  vs Semelhantes  vs Brasil
+ Língua Portuguesa        Adequado (Proficiente + Avançado)      66.3%                   38.8%   55.1%         +27.5pp    +11.2pp
+ Língua Portuguesa                                 Avançado      35.1%                   12.4%   21.9%         +22.6pp    +13.2pp
+ Língua Portuguesa                              Proficiente      31.3%                   26.4%   33.2%          +4.9pp     -2.0pp
+ Língua Portuguesa                                   Básico      22.1%                   35.0%   29.0%         -12.9pp     -6.9pp
+ Língua Portuguesa                             Insuficiente      11.5%                   26.2%   15.9%         -14.7pp     -4.4pp
+        Matemática        Adequado (Proficiente + Avançado)      52.9%                   26.9%   43.5%         +26.0pp     +9.4pp
+        Matemática                                 Avançado      25.2%                    6.7%   15.1%         +18.6pp    +10.1pp
+        Matemática                              Proficiente      27.7%                   20.2%   28.4%          +7.5pp     -0.7pp
+        Matemática                                   Básico      30.0%                   37.8%   34.4%          -7.8pp     -4.4pp
+        Matemática                             Insuficiente      17.1%                   35.3%   22.1%         -18.2pp     -5.0pp
+
+
+********************************************************************************
+PARTE 3: ANÁLISE QUALITATIVA
+********************************************************************************
+
+================================================================================
+ANÁLISE QUALITATIVA - EVOLUÇÃO DO APRENDIZADO
+================================================================================
+
+📍 Território: Ceará
+🏫 Rede: Pública (todas as redes)
+📚 Ciclo: Anos Iniciais do Ensino Fundamental (1º ao 5º)
+📅 Período analisado: 2019 a 2023
+
+--------------------------------------------------------------------------------
+DIAGNÓSTICO ATUAL POR DISCIPLINA
+--------------------------------------------------------------------------------
+
+📘 LÍNGUA PORTUGUESA
+
+   ⚠️ Situação atual: Desempenho intermediário
+   • Alunos com aprendizado adequado: 66.3%
+      - Avançado: 35.1%
+      - Proficiente: 31.3%
+   • Alunos com aprendizado inadequado: 33.7%
+      - Básico: 22.1%
+      - Insuficiente: 11.5%
+   • Evolução (2019-2023): 📈 Melhora (+2.1pp)
+
+📘 MATEMÁTICA
+
+   ⚠️ Situação atual: Desempenho intermediário
+   • Alunos com aprendizado adequado: 52.9%
+      - Avançado: 25.2%
+      - Proficiente: 27.7%
+   • Alunos com aprendizado inadequado: 47.1%
+      - Básico: 30.0%
+      - Insuficiente: 17.1%
+   • Evolução (2019-2023): 📉 Piora (-0.0pp)
+
+--------------------------------------------------------------------------------
+🎯 OPORTUNIDADES IDENTIFICADAS
+--------------------------------------------------------------------------------
+
+   ✅ Sem oportunidades críticas identificadas.
+
+--------------------------------------------------------------------------------
+📉 IMPACTO DA PANDEMIA E RECUPERAÇÃO
+--------------------------------------------------------------------------------
+
+   📘 Língua Portuguesa:
+      • 2019→2021 (pandemia): -4.1pp
+      • 2021→2023 (recuperação): +6.2pp
+      • Saldo total (2019→2023): +2.1pp
+      ✅ RECUPEROU o patamar pré-pandemia
+
+   📘 Matemática:
+      • 2019→2021 (pandemia): -9.7pp
+      • 2021→2023 (recuperação): +9.7pp
+      • Saldo total (2019→2023): -0.0pp
+      ⚠️ Ainda 0.0pp ABAIXO do nível pré-pandemia
+
+================================================================================
+ANÁLISE QUALITATIVA - COMPARATIVO COM SEMELHANTES E BRASIL
+================================================================================
+
+📊 Comparação de Ceará com municípios semelhantes e média nacional
+
+--------------------------------------------------------------------------------
+🔴 ABAIXO DA MÉDIA NACIONAL (BRASIL)
+--------------------------------------------------------------------------------
+   ✅ Nenhum indicador abaixo da média nacional.
+
+--------------------------------------------------------------------------------
+🟡 ABAIXO DE MUNICÍPIOS SEMELHANTES (mas acima do Brasil)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+🟢 ACIMA DAS MÉDIAS (Semelhantes e Brasil)
+--------------------------------------------------------------------------------
+
+   ✅ Língua Portuguesa - Adequado
+      Município: 66.3% | Semelhantes: 38.8% | Brasil: 55.1%
+      → +11.2pp vs Brasil | +27.5pp vs Semelhantes
+
+   ✅ Matemática - Adequado
+      Município: 52.9% | Semelhantes: 26.9% | Brasil: 43.5%
+      → +9.4pp vs Brasil | +26.0pp vs Semelhantes
+
+================================================================================
+📋 RESUMO COMPARATIVO
+================================================================================
+
+   🔴 Abaixo do Brasil:          0 disciplina(s)
+   🟡 Abaixo de Semelhantes:     0 disciplina(s)
+   🟢 Acima de ambos:            2 disciplina(s)
+
+================================================================================
+💡 CONCLUSÃO E RECOMENDAÇÕES PARA ABORDAGEM COMERCIAL
+================================================================================
+
+📍 CEARÁ
+   🟢 SITUAÇÃO: POSITIVA
+   POTENCIAL DE MERCADO: MÉDIO
+   → Recomendação: soluções de excelência e enriquecimento curricular
+
+
+================================================================================
+Fonte: QEdu (qedu.org.br)
+================================================================================
+================================================================================
+RELATÓRIO COMPLETO DE APRENDIZADO - DADOS QEDU
+================================================================================
+
+📍 Território: Ceará
+🏫 Rede: Pública (todas as redes)
+📚 Ciclo: Anos Finais do Ensino Fundamental (6º ao 9º)
+📅 Gerado em: 10/02/2026 15:30
+
+
+********************************************************************************
+PARTE 1: EVOLUÇÃO TEMPORAL DOS INDICADORES
+********************************************************************************
+
+        Disciplina                                    Nível    2019   2021   2023   Variação
+ Língua Portuguesa        Adequado (Proficiente + Avançado)   44.0%  42.2%  46.6%    +2.55pp
+ Língua Portuguesa                                 Avançado   10.2%   9.8%  12.4%    +2.20pp
+ Língua Portuguesa                              Proficiente   33.8%  32.4%  34.2%    +0.34pp
+ Língua Portuguesa                                   Básico   44.6%  44.7%  40.5%    -4.09pp
+ Língua Portuguesa                             Insuficiente   11.3%  13.1%  12.9%    +1.54pp
+        Matemática        Adequado (Proficiente + Avançado)   25.0%  21.5%  26.0%    +1.02pp
+        Matemática                                 Avançado    5.1%   4.3%   7.2%    +2.10pp
+        Matemática                              Proficiente   19.9%  17.2%  18.8%    -1.08pp
+        Matemática                                   Básico   52.2%  51.5%  47.8%    -4.47pp
+        Matemática                             Insuficiente   22.2%  26.4%  25.6%    +3.39pp
+
+
+********************************************************************************
+PARTE 2: COMPARATIVO COM MUNICÍPIOS SEMELHANTES E BRASIL
+********************************************************************************
+
+RESUMO - % de Alunos com Aprendizado Adequado:
+
+        Disciplina  Município  Municípios semelhantes  Brasil  vs Semelhantes  vs Brasil
+ Língua Portuguesa      46.6%                   23.0%   35.9%         +23.5pp    +10.6pp
+        Matemática      26.0%                    8.0%   16.5%         +18.0pp     +9.6pp
+
+
+DETALHAMENTO POR NÍVEL:
+
+        Disciplina                                    Nível  Município  Municípios semelhantes  Brasil  vs Semelhantes  vs Brasil
+ Língua Portuguesa        Adequado (Proficiente + Avançado)      46.6%                   23.0%   35.9%         +23.5pp    +10.6pp
+ Língua Portuguesa                                 Avançado      12.4%                    3.6%    7.3%          +8.8pp     +5.0pp
+ Língua Portuguesa                              Proficiente      34.2%                   19.4%   28.6%         +14.7pp     +5.6pp
+ Língua Portuguesa                                   Básico      40.5%                   49.3%   46.7%          -8.8pp     -6.1pp
+ Língua Portuguesa                             Insuficiente      12.9%                   27.6%   17.4%         -14.8pp     -4.5pp
+        Matemática        Adequado (Proficiente + Avançado)      26.0%                    8.0%   16.5%         +18.0pp     +9.6pp
+        Matemática                                 Avançado       7.2%                    0.7%    2.4%          +6.5pp     +4.8pp
+        Matemática                              Proficiente      18.8%                    7.3%   14.1%         +11.5pp     +4.7pp
+        Matemática                                   Básico      47.8%                   46.3%   51.1%          +1.5pp     -3.3pp
+        Matemática                             Insuficiente      25.6%                   44.8%   31.7%         -19.2pp     -6.1pp
+
+
+********************************************************************************
+PARTE 3: ANÁLISE QUALITATIVA
+********************************************************************************
+
+================================================================================
+ANÁLISE QUALITATIVA - EVOLUÇÃO DO APRENDIZADO
+================================================================================
+
+📍 Território: Ceará
+🏫 Rede: Pública (todas as redes)
+📚 Ciclo: Anos Finais do Ensino Fundamental (6º ao 9º)
+📅 Período analisado: 2019 a 2023
+
+--------------------------------------------------------------------------------
+DIAGNÓSTICO ATUAL POR DISCIPLINA
+--------------------------------------------------------------------------------
+
+📘 LÍNGUA PORTUGUESA
+
+   🔴 Situação atual: Desempenho crítico - oportunidade de atuação
+   • Alunos com aprendizado adequado: 46.6%
+      - Avançado: 12.4%
+      - Proficiente: 34.2%
+   • Alunos com aprendizado inadequado: 53.4%
+      - Básico: 40.5%
+      - Insuficiente: 12.9%
+   • Evolução (2019-2023): 📈 Melhora (+2.5pp)
+
+📘 MATEMÁTICA
+
+   🔴 Situação atual: Desempenho crítico - oportunidade de atuação
+   • Alunos com aprendizado adequado: 26.0%
+      - Avançado: 7.2%
+      - Proficiente: 18.8%
+   • Alunos com aprendizado inadequado: 73.4%
+      - Básico: 47.8%
+      - Insuficiente: 25.6%
+   • Evolução (2019-2023): 📈 Melhora (+1.0pp)
+
+--------------------------------------------------------------------------------
+🎯 OPORTUNIDADES IDENTIFICADAS
+--------------------------------------------------------------------------------
+
+   🔴 Língua Portuguesa: Apenas 46.6% com aprendizado adequado
+      → 12.9% em nível insuficiente
+      → Potencial para: reforço escolar, materiais de nivelamento
+
+   🔴 Matemática: Apenas 26.0% com aprendizado adequado
+      → 25.6% em nível insuficiente
+      → Potencial para: reforço escolar, materiais de nivelamento
+
+--------------------------------------------------------------------------------
+📉 IMPACTO DA PANDEMIA E RECUPERAÇÃO
+--------------------------------------------------------------------------------
+
+   📘 Língua Portuguesa:
+      • 2019→2021 (pandemia): -1.8pp
+      • 2021→2023 (recuperação): +4.4pp
+      • Saldo total (2019→2023): +2.5pp
+      ✅ RECUPEROU o patamar pré-pandemia
+
+   📘 Matemática:
+      • 2019→2021 (pandemia): -3.5pp
+      • 2021→2023 (recuperação): +4.5pp
+      • Saldo total (2019→2023): +1.0pp
+      ✅ RECUPEROU o patamar pré-pandemia
+
+================================================================================
+ANÁLISE QUALITATIVA - COMPARATIVO COM SEMELHANTES E BRASIL
+================================================================================
+
+📊 Comparação de Ceará com municípios semelhantes e média nacional
+
+--------------------------------------------------------------------------------
+🔴 ABAIXO DA MÉDIA NACIONAL (BRASIL)
+--------------------------------------------------------------------------------
+   ✅ Nenhum indicador abaixo da média nacional.
+
+--------------------------------------------------------------------------------
+🟡 ABAIXO DE MUNICÍPIOS SEMELHANTES (mas acima do Brasil)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+🟢 ACIMA DAS MÉDIAS (Semelhantes e Brasil)
+--------------------------------------------------------------------------------
+
+   ✅ Língua Portuguesa - Adequado
+      Município: 46.6% | Semelhantes: 23.0% | Brasil: 35.9%
+      → +10.6pp vs Brasil | +23.5pp vs Semelhantes
+
+   ✅ Matemática - Adequado
+      Município: 26.0% | Semelhantes: 8.0% | Brasil: 16.5%
+      → +9.6pp vs Brasil | +18.0pp vs Semelhantes
+
+================================================================================
+📋 RESUMO COMPARATIVO
+================================================================================
+
+   🔴 Abaixo do Brasil:          0 disciplina(s)
+   🟡 Abaixo de Semelhantes:     0 disciplina(s)
+   🟢 Acima de ambos:            2 disciplina(s)
+
+================================================================================
+💡 CONCLUSÃO E RECOMENDAÇÕES PARA ABORDAGEM COMERCIAL
+================================================================================
+
+📍 CEARÁ
+   🔴 SITUAÇÃO: CRÍTICA
+   POTENCIAL DE MERCADO: ALTO
+   → Recomendação: reforço escolar, recuperação, materiais de nivelamento
+
+
+================================================================================
+Fonte: QEdu (qedu.org.br)
+================================================================================
+================================================================================
+RELATÓRIO COMPLETO DE APRENDIZADO - DADOS QEDU
+================================================================================
+
+📍 Território: Ceará
+🏫 Rede: Pública (todas as redes)
+📚 Ciclo: Ensino Médio
+📅 Gerado em: 10/02/2026 15:30
+
+
+********************************************************************************
+PARTE 1: EVOLUÇÃO TEMPORAL DOS INDICADORES
+********************************************************************************
+
+        Disciplina                                    Nível    2019   2021   2023   Variação
+ Língua Portuguesa        Adequado (Proficiente + Avançado)   29.8%  36.1%  36.2%    +6.43pp
+ Língua Portuguesa                                 Avançado    0.8%   1.3%   1.6%    +0.81pp
+ Língua Portuguesa                              Proficiente   28.9%  34.9%  34.6%    +5.63pp
+ Língua Portuguesa                                   Básico   35.8%  34.0%  33.1%    -2.62pp
+ Língua Portuguesa                             Insuficiente   34.5%  29.9%  30.6%    -3.81pp
+        Matemática        Adequado (Proficiente + Avançado)    5.0%   7.0%   8.2%    +3.22pp
+        Matemática                                 Avançado    0.5%   0.9%   1.4%    +0.94pp
+        Matemática                              Proficiente    4.5%   6.2%   6.8%    +2.28pp
+        Matemática                                   Básico   38.9%  40.6%  37.0%    -1.80pp
+        Matemática                             Insuficiente   56.2%  52.3%  54.7%    -1.43pp
+
+
+********************************************************************************
+PARTE 2: COMPARATIVO COM MUNICÍPIOS SEMELHANTES E BRASIL
+********************************************************************************
+
+RESUMO - % de Alunos com Aprendizado Adequado:
+
+        Disciplina  Município  Municípios semelhantes  Brasil  vs Semelhantes  vs Brasil
+ Língua Portuguesa      36.2%                   22.2%   32.5%         +14.0pp     +3.8pp
+        Matemática       8.2%                    2.5%    5.2%          +5.7pp     +3.0pp
+
+
+DETALHAMENTO POR NÍVEL:
+
+        Disciplina                                    Nível  Município  Municípios semelhantes  Brasil  vs Semelhantes  vs Brasil
+ Língua Portuguesa        Adequado (Proficiente + Avançado)      36.2%                   22.2%   32.5%         +14.0pp     +3.8pp
+ Língua Portuguesa                                 Avançado       1.6%                    0.6%    1.1%          +1.0pp     +0.5pp
+ Língua Portuguesa                              Proficiente      34.6%                   21.6%   31.3%         +13.0pp     +3.3pp
+ Língua Portuguesa                                   Básico      33.1%                   31.2%   34.4%          +1.9pp     -1.2pp
+ Língua Portuguesa                             Insuficiente      30.6%                   46.5%   33.2%         -15.9pp     -2.5pp
+        Matemática        Adequado (Proficiente + Avançado)       8.2%                    2.5%    5.2%          +5.7pp     +3.0pp
+        Matemática                                 Avançado       1.4%                    0.3%    0.7%          +1.2pp     +0.7pp
+        Matemática                              Proficiente       6.8%                    2.2%    4.5%          +4.5pp     +2.3pp
+        Matemática                                   Básico      37.0%                   26.3%   35.8%         +10.8pp     +1.2pp
+        Matemática                             Insuficiente      54.7%                   71.2%   59.0%         -16.5pp     -4.3pp
+
+
+********************************************************************************
+PARTE 3: ANÁLISE QUALITATIVA
+********************************************************************************
+
+================================================================================
+ANÁLISE QUALITATIVA - EVOLUÇÃO DO APRENDIZADO
+================================================================================
+
+📍 Território: Ceará
+🏫 Rede: Pública (todas as redes)
+📚 Ciclo: Ensino Médio
+📅 Período analisado: 2019 a 2023
+
+--------------------------------------------------------------------------------
+DIAGNÓSTICO ATUAL POR DISCIPLINA
+--------------------------------------------------------------------------------
+
+📘 LÍNGUA PORTUGUESA
+
+   🔴 Situação atual: Desempenho crítico - oportunidade de atuação
+   • Alunos com aprendizado adequado: 36.2%
+      - Avançado: 1.6%
+      - Proficiente: 34.6%
+   • Alunos com aprendizado inadequado: 63.8%
+      - Básico: 33.1%
+      - Insuficiente: 30.6%
+   • Evolução (2019-2023): 📈 Melhora (+6.4pp)
+
+📘 MATEMÁTICA
+
+   🔴 Situação atual: Desempenho crítico - oportunidade de atuação
+   • Alunos com aprendizado adequado: 8.2%
+      - Avançado: 1.4%
+      - Proficiente: 6.8%
+   • Alunos com aprendizado inadequado: 91.8%
+      - Básico: 37.0%
+      - Insuficiente: 54.7%
+   • Evolução (2019-2023): 📈 Melhora (+3.2pp)
+
+--------------------------------------------------------------------------------
+🎯 OPORTUNIDADES IDENTIFICADAS
+--------------------------------------------------------------------------------
+
+   🔴 Língua Portuguesa: Apenas 36.2% com aprendizado adequado
+      → 30.6% em nível insuficiente
+      → Potencial para: reforço escolar, materiais de nivelamento
+
+   🔴 Matemática: Apenas 8.2% com aprendizado adequado
+      → 54.7% em nível insuficiente
+      → Potencial para: reforço escolar, materiais de nivelamento
+
+--------------------------------------------------------------------------------
+📉 IMPACTO DA PANDEMIA E RECUPERAÇÃO
+--------------------------------------------------------------------------------
+
+   📘 Língua Portuguesa:
+      • 2019→2021 (pandemia): +6.3pp
+      • 2021→2023 (recuperação): +0.1pp
+      • Saldo total (2019→2023): +6.4pp
+      ✅ RECUPEROU o patamar pré-pandemia
+
+   📘 Matemática:
+      • 2019→2021 (pandemia): +2.1pp
+      • 2021→2023 (recuperação): +1.2pp
+      • Saldo total (2019→2023): +3.2pp
+      ✅ RECUPEROU o patamar pré-pandemia
+
+================================================================================
+ANÁLISE QUALITATIVA - COMPARATIVO COM SEMELHANTES E BRASIL
+================================================================================
+
+📊 Comparação de Ceará com municípios semelhantes e média nacional
+
+--------------------------------------------------------------------------------
+🔴 ABAIXO DA MÉDIA NACIONAL (BRASIL)
+--------------------------------------------------------------------------------
+   ✅ Nenhum indicador abaixo da média nacional.
+
+--------------------------------------------------------------------------------
+🟡 ABAIXO DE MUNICÍPIOS SEMELHANTES (mas acima do Brasil)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+🟢 ACIMA DAS MÉDIAS (Semelhantes e Brasil)
+--------------------------------------------------------------------------------
+
+   ✅ Língua Portuguesa - Adequado
+      Município: 36.2% | Semelhantes: 22.2% | Brasil: 32.5%
+      → +3.8pp vs Brasil | +14.0pp vs Semelhantes
+
+   ✅ Matemática - Adequado
+      Município: 8.2% | Semelhantes: 2.5% | Brasil: 5.2%
+      → +3.0pp vs Brasil | +5.7pp vs Semelhantes
+
+================================================================================
+📋 RESUMO COMPARATIVO
+================================================================================
+
+   🔴 Abaixo do Brasil:          0 disciplina(s)
+   🟡 Abaixo de Semelhantes:     0 disciplina(s)
+   🟢 Acima de ambos:            2 disciplina(s)
+
+================================================================================
+💡 CONCLUSÃO E RECOMENDAÇÕES PARA ABORDAGEM COMERCIAL
+================================================================================
+
+📍 CEARÁ
+   🔴 SITUAÇÃO: CRÍTICA
+   POTENCIAL DE MERCADO: ALTO
+   → Recomendação: reforço escolar, recuperação, materiais de nivelamento
+
+
+================================================================================
+Fonte: QEdu (qedu.org.br)
+================================================================================
